@@ -1,0 +1,14 @@
+{
+  "selected_features": [
+    "numerical",
+    "actor_count",
+    "avg_actor_rating",
+    "max_actor_rating",
+    "min_actor_rating",
+    "star_actor_count",
+    "avg_director_rating",
+    "min_director_rating",
+    "avg_studio_rating",
+    "max_studio_rating"
+  ]
+}

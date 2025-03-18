@@ -1,0 +1,424 @@
+director_name,avg_rating,count,is_star
+A. Edward Sutherland,3.1116666666666664,6,False
+Adam Shankman,2.94,2,False
+Adrian Lyne,3.1166666666666667,6,False
+Alan J. Pakula,3.3327272727272725,11,True
+Alan Parker,3.494285714285714,7,True
+Alexander Hall,3.32,13,True
+Alfred E. Green,3.2485,20,False
+Alfred Hitchcock,3.737727272727273,22,True
+Alfred L. Werker,3.218571428571429,7,False
+Allan Dwan,3.3442857142857143,21,True
+Anatole Litvak,3.416875,16,True
+Andrei Konchalovsky,3.368,5,True
+Andrew Davis,3.03,6,False
+Andrew L. Stone,3.3099999999999996,7,True
+Andrew V. McLaglen,3.16,14,False
+André de Toth,3.387857142857143,14,True
+Andy Tennant,3.1075,4,False
+Anthony Mann,3.4728571428571433,21,True
+Antoine Fuqua,3.186666666666667,3,False
+Archie Mayo,3.33,15,True
+Arthur Hiller,3.17,18,False
+Arthur Lubin,3.1864285714285714,14,False
+Arthur Penn,3.2857142857142856,7,False
+Barry Levinson,3.2764285714285712,14,False
+Barry Sonnenfeld,3.195,8,False
+Ben Sharpsteen,3.5366666666666666,9,True
+Betty Thomas,2.935,6,False
+Bill Condon,3.62,1,False
+Billy Wilder,3.7881818181818185,22,True
+Blake Edwards,3.1876923076923074,26,False
+Bob Clark,2.934285714285714,7,False
+Bob Rafelson,3.2542857142857144,7,False
+Bobby Farrelly,3.012,5,False
+Brett Ratner,3.278,5,False
+Brian De Palma,3.483571428571428,14,True
+Brian Levant,2.486666666666667,6,False
+Brian Robbins,2.965,4,False
+Bruce Beresford,3.085714285714286,7,False
+Bryan Singer,3.32,1,False
+Budd Boetticher,3.3018181818181818,11,True
+Burt Gillett,3.4388888888888887,9,True
+Burt Kennedy,3.0755555555555554,9,False
+Busby Berkeley,3.3283333333333336,18,True
+Byron Haskin,3.222727272727273,11,False
+Cameron Crowe,3.5949999999999998,4,True
+Carl Reiner,3.167,10,False
+Cecil B. DeMille,3.3333333333333335,18,True
+Charles A. Nichols,3.218235294117647,17,False
+Charles Barton,3.2577777777777777,9,False
+Charles Jarrott,3.0414285714285714,7,False
+Charles Lamont,3.184,10,False
+Charles Shyer,3.0300000000000002,5,False
+Charles Vidor,3.338461538461538,13,True
+Charles Walters,3.2666666666666666,18,False
+Charlie Chaplin,3.8009090909090912,11,True
+Chris Columbus,3.37,11,True
+Chuck Jones,3.6089999999999995,10,True
+Clarence Brown,3.3263333333333334,30,True
+Clint Eastwood,3.394545454545454,22,True
+Clyde Geronimi,3.3016666666666667,18,True
+Curt Geda,3.6300000000000003,3,True
+Curtis Bernhardt,3.283,10,False
+D.W. Griffith,3.3053846153846154,13,True
+Daniel Petrie,3.1799999999999997,11,False
+David Butler,3.244705882352941,17,False
+David Fincher,3.823333333333333,3,True
+David Hand,3.467,10,True
+David Lynch,4.195,4,True
+David Zucker,3.5416666666666665,6,True
+Del Lord,3.4583333333333335,18,True
+Delmer Daves,3.406315789473684,19,True
+Dennis Dugan,3.032,5,False
+Don Bluth,3.436666666666667,6,True
+Don Chaffey,3.2516666666666665,6,False
+Don Siegel,3.3833333333333333,24,True
+Don Taylor,3.0914285714285716,7,False
+Don Weis,3.1616666666666666,6,False
+Donald Petrie,2.9316666666666666,6,False
+Dorothy Arzner,3.332222222222222,9,True
+Doug Liman,3.6633333333333336,3,True
+Douglas Sirk,3.4936842105263155,19,True
+Dwight H. Little,2.846,5,False
+Edgar G. Ulmer,3.3016666666666663,6,True
+Edmund Goulding,3.4046666666666665,15,True
+Edward Buzzell,3.2920000000000003,10,False
+Edward Dmytryk,3.3083333333333336,24,True
+Edward F. Cline,3.421666666666667,6,True
+Edward L. Cahn,2.8885714285714283,7,False
+Edward Ludwig,3.1533333333333338,6,False
+Edward Sedgwick,3.255,8,False
+Edward Zwick,3.1766666666666663,3,False
+Edwin L. Marin,3.1820000000000004,15,False
+Elia Kazan,3.6429411764705883,17,True
+Elliott Nugent,3.2939999999999996,10,False
+Erle C. Kenton,3.1927272727272724,11,False
+Ernest R. Dickerson,3.035,6,False
+Ernst Lubitsch,3.6263157894736846,19,True
+F. Gary Gray,3.5700000000000003,3,True
+Felix E. Feist,3.282857142857143,7,False
+Francis Ford Coppola,3.6808333333333336,12,True
+Franco Zeffirelli,3.1457142857142855,7,False
+Frank Borzage,3.4658620689655173,29,True
+Frank Capra,3.610555555555555,18,True
+Frank Lloyd,3.2112499999999997,8,False
+Frank McDonald,3.1650000000000005,6,False
+Frank Oz,3.3337499999999998,8,True
+Frank Perry,3.3836363636363633,11,True
+Frank Tashlin,3.3618181818181814,11,True
+Franklin J. Schaffner,3.347,10,True
+Fred Schepisi,3.1925,8,False
+Fred Zinnemann,3.5542857142857143,14,True
+Fritz Lang,3.5736363636363637,22,True
+Friz Freleng,3.4466666666666668,6,True
+Garry Marshall,3.2344444444444442,9,False
+Gene Saks,3.39,6,True
+George A. Romero,3.216666666666667,3,False
+George Cukor,3.39974358974359,39,True
+George Fitzmaurice,3.21875,8,False
+George Marshall,3.3181818181818183,22,True
+George Miller,3.2900000000000005,3,False
+George Roy Hill,3.4625,12,True
+George Sherman,3.3,9,True
+George Sidney,3.2674999999999996,20,False
+George Stevens,3.5083333333333333,18,True
+George Waggner,3.108333333333333,6,False
+Gordon Douglas,3.1820833333333334,24,False
+Gregory La Cava,3.396153846153846,13,True
+Gus Van Sant,3.504,5,True
+Guy Ritchie,4.02,1,False
+H. Bruce Humberstone,3.28625,8,False
+H. C. Potter,3.3354545454545454,11,True
+Hal Ashby,3.8066666666666666,6,True
+Hal Needham,2.858571428571428,7,False
+Hamilton Luske,3.294,15,False
+Harold Becker,3.07125,8,False
+Harold Ramis,3.13,8,False
+Harry Beaumont,3.1466666666666665,6,False
+Harry Lachman,3.3042857142857143,7,True
+Henry Hathaway,3.354117647058824,34,True
+Henry King,3.3360000000000003,25,True
+Henry Koster,3.3331999999999997,25,True
+Henry Levin,3.2176470588235295,17,False
+Herbert Ross,3.261,20,False
+Howard Deutch,3.042857142857143,7,False
+Howard Hawks,3.61,32,True
+Howard Zieff,3.1655555555555557,9,False
+Irvin Kershner,3.12125,8,False
+Irving Cummings,3.1999999999999997,12,False
+Irving Pichel,3.277142857142857,7,False
+Irving Rapper,3.3444444444444446,9,True
+Irving Reis,3.26,6,False
+Irwin Allen,2.7842857142857147,7,False
+Irwin Winkler,3.018,5,False
+Ivan Reitman,2.9963636363636366,11,False
+J. Lee Thompson,3.0965,20,False
+Jack Arnold,3.307857142857143,14,True
+Jack Conway,3.314736842105263,19,True
+Jack Hannah,3.4266666666666667,18,True
+Jack King,3.3608333333333333,12,True
+Jack Kinney,3.270952380952381,21,False
+Jack Smight,3.167777777777778,9,False
+Jacques Tourneur,3.499,20,True
+Jake Kasdan,3.255,2,False
+James Algar,3.3000000000000003,6,True
+James Bridges,3.2328571428571427,7,False
+James Cameron,3.4800000000000004,5,True
+James Foley,3.0928571428571425,7,False
+James Goldstone,3.0683333333333334,6,False
+James Mangold,3.466666666666667,3,True
+James Neilson,3.16125,8,False
+James Whale,3.578888888888889,9,True
+Jay Roach,3.235,4,False
+Jean Negulesco,3.369473684210526,19,True
+Jean Yarbrough,2.967777777777778,9,False
+Jerry Lewis,3.4525,8,True
+Jerry Schatzberg,3.3428571428571425,7,True
+Jerry Zucker,3.3816666666666664,6,True
+Jim Abrahams,3.275,8,False
+Joe Dante,3.4066666666666667,9,True
+Joe Johnston,3.2340000000000004,5,False
+Joel Coen,3.915,4,True
+Joel Schumacher,3.044375,16,False
+John Badham,3.1426666666666665,15,False
+John Boorman,3.3133333333333335,9,True
+John Brahm,3.311818181818182,11,True
+John Carpenter,3.38,11,True
+John Cromwell,3.3226315789473686,19,True
+John Farrow,3.329375,16,True
+John Ford,3.514576271186441,59,True
+John Frankenheimer,3.407142857142857,21,True
+John G. Avildsen,3.123846153846154,13,False
+John Guillermin,3.1175,8,False
+John Hughes,3.335714285714286,7,True
+John Huston,3.4255172413793105,29,True
+John Landis,3.2391666666666663,12,False
+John M. Stahl,3.567142857142857,7,True
+John Madden,3.1799999999999997,4,False
+John McTiernan,3.3575,8,True
+John Milius,3.311666666666667,6,True
+John Moore,2.98,1,False
+John Musker,3.7479999999999998,5,True
+John Schlesinger,3.282,10,False
+John Singleton,3.4066666666666667,6,True
+John Sturges,3.3266666666666667,21,True
+John Waters,3.643333333333333,6,True
+John Woo,3.052,5,False
+Jon Turteltaub,3.0100000000000002,5,False
+Jonathan Demme,3.17875,8,False
+Jonathan Kaplan,3.271818181818182,11,False
+Jonathan Lynn,3.25,5,False
+Josef von Sternberg,3.5235714285714286,14,True
+Joseph H. Lewis,3.2118181818181815,11,False
+Joseph L. Mankiewicz,3.579444444444445,18,True
+Joseph Pevney,3.2939999999999996,10,False
+Joseph Ruben,2.9966666666666666,6,False
+Joseph Sargent,3.0833333333333335,6,False
+Joshua Logan,3.1185714285714283,7,False
+Jules Dassin,3.502727272727273,11,True
+Jules White,3.38,10,True
+Justin Lin,3.56,1,False
+Kathryn Bigelow,3.282,5,False
+Ken Annakin,3.1271428571428572,7,False
+Ken Kwapis,2.9539999999999997,5,False
+Kenneth Branagh,3.205,2,False
+Kevin Reynolds,3.3150000000000004,4,True
+King Vidor,3.4149999999999996,24,True
+Lamont Johnson,3.1871428571428573,7,False
+Larry Cohen,3.057142857142857,7,False
+Lasse Hallström,3.296666666666667,6,False
+Leo McCarey,3.553076923076923,13,True
+Les Mayfield,2.8825000000000003,4,False
+Lew Landers,3.165714285714286,7,False
+Lewis Milestone,3.4158333333333335,12,True
+Lewis Seiler,3.242142857142857,14,False
+Lloyd Bacon,3.281935483870968,31,False
+Luc Besson,3.8850000000000002,2,False
+M. Night Shyamalan,3.24,3,False
+Malcolm D. Lee,3.21,2,False
+Marc Forster,3.31,1,False
+Mark L. Lester,3.013333333333333,6,False
+Mark Robson,3.39,14,True
+Mark Rydell,3.25625,8,False
+Mark Sandrich,3.511428571428571,7,True
+Mark Waters,3.42,1,False
+Martha Coolidge,3.064,5,False
+Martin Brest,3.664,5,True
+Martin Campbell,3.13,4,False
+Martin Ritt,3.4144444444444444,18,True
+Martin Scorsese,3.7443750000000002,16,True
+Mel Brooks,3.3533333333333335,9,True
+Melville Shavelson,3.2016666666666667,6,False
+Melvin Frank,3.314285714285714,7,True
+Mervyn LeRoy,3.426388888888889,36,True
+Michael Apted,3.1453846153846152,13,False
+Michael Bay,3.01,3,False
+Michael Caton-Jones,3.1916666666666664,6,False
+Michael Cimino,3.328333333333333,6,True
+Michael Curtiz,3.3633333333333333,66,True
+Michael Gordon,3.277142857142857,7,False
+Michael Mann,3.7433333333333336,6,True
+Michael Ritchie,3.153125,16,False
+Michael Schultz,3.07,8,False
+Michael Winner,3.1409090909090907,11,False
+Michael Winterbottom,3.3975,4,True
+Mike Figgis,3.2960000000000003,5,False
+Mike Newell,3.0025,4,False
+Mike Nichols,3.328333333333333,12,True
+Miloš Forman,3.73625,8,True
+Mitchell Leisen,3.427142857142857,21,True
+Nancy Meyers,3.23,2,False
+Nathan H. Juran,3.1300000000000003,6,False
+Neil Jordan,3.4579999999999997,5,True
+Nicholas Ray,3.572222222222222,18,True
+Nick Cassavetes,3.23,3,False
+Nick Grindé,3.20375,8,False
+Nora Ephron,2.955,4,False
+Norman Foster,3.2591666666666668,12,False
+Norman Jewison,3.412777777777778,18,True
+Norman Taurog,3.1513333333333335,30,False
+Norman Tokar,3.147,10,False
+Norman Z. McLeod,3.351176470588235,17,True
+Oliver Stone,3.537777777777778,9,True
+Orson Welles,3.8857142857142857,7,True
+Otto Preminger,3.441818181818182,22,True
+Paul Mazursky,3.2830769230769232,13,False
+Paul Schrader,3.3939999999999997,10,True
+Paul Thomas Anderson,4.14,3,True
+Paul W. S. Anderson,2.93,4,False
+Paul Weitz,3.0833333333333335,3,False
+Paul Wendkos,3.1666666666666665,9,False
+Penny Marshall,3.3083333333333336,6,True
+Peter Bogdanovich,3.546923076923077,13,True
+Peter Chelsom,2.9766666666666666,3,False
+Peter Farrelly,3.0666666666666664,6,False
+Peter Hyams,3.0615384615384613,13,False
+Peter Jackson,4.066666666666666,3,True
+Peter Segal,2.91,4,False
+Peter Weir,3.697142857142857,7,True
+Peter Yates,3.2800000000000002,14,False
+Phil Karlson,3.2115384615384617,13,False
+Phil Rosen,3.14,6,False
+Philip Kaufman,3.475714285714286,7,True
+Phillip Noyce,3.063333333333333,6,False
+Preston Sturges,3.64,11,True
+Quentin Tarantino,3.76,3,True
+Raja Gosnell,2.6025,4,False
+Ralph Bakshi,3.145,8,False
+Ralph Nelson,3.4416666666666664,6,True
+Randal Kleiser,3.017777777777778,9,False
+Raoul Walsh,3.408181818181818,44,True
+Ray Enright,3.257857142857143,14,False
+Reginald Le Borg,2.955714285714286,7,False
+Renny Harlin,2.8814285714285717,7,False
+Richard Attenborough,3.3299999999999996,7,True
+Richard Benjamin,2.974,10,False
+Richard Boleslawski,3.238888888888889,9,False
+Richard Brooks,3.3872222222222224,18,True
+Richard Donner,3.2985714285714285,14,True
+Richard Fleischer,3.363225806451613,31,True
+Richard Lester,3.2685714285714282,7,False
+Richard Linklater,3.01,1,False
+Richard Quine,3.3459999999999996,15,True
+Richard Thorpe,3.2441935483870967,31,False
+Richard Wallace,3.22125,8,False
+Ridley Scott,3.5840000000000005,10,True
+Rob Cohen,2.98,7,False
+Rob Marshall,3.515,2,False
+Rob Reiner,3.3714285714285714,7,True
+Robert Aldrich,3.4595833333333332,24,True
+Robert Altman,3.4955555555555557,18,True
+Robert Benton,3.3871428571428575,7,True
+Robert Clouse,3.0475,8,False
+Robert Florey,3.2700000000000005,10,False
+Robert Mulligan,3.349285714285714,14,True
+Robert Parrish,3.2028571428571433,7,False
+Robert Redford,3.4675000000000002,4,True
+Robert Rodriguez,3.2380000000000004,5,False
+Robert Rossen,3.4957142857142856,7,True
+Robert Siodmak,3.4323076923076923,13,True
+Robert Stevenson,3.213913043478261,23,False
+Robert Wise,3.459655172413793,29,True
+Robert Z. Leonard,3.264705882352941,17,False
+Robert Zemeckis,3.683846153846154,13,True
+Roger Corman,3.1160714285714284,28,False
+Roger Donaldson,2.9842857142857144,7,False
+Roger Michell,3.4433333333333334,3,True
+Roger Spottiswoode,2.88125,8,False
+Roland Emmerich,3.0025,4,False
+Roman Polanski,3.6914285714285713,7,True
+Ron Clements,3.7479999999999998,5,True
+Ron Howard,3.31,14,True
+Ron Shelton,3.2449999999999997,6,False
+Rouben Mamoulian,3.53,11,True
+Roy Del Ruth,3.2988235294117647,17,True
+Roy Rowland,3.2853846153846153,13,False
+Roy William Neill,3.258,15,False
+Rudolph Maté,3.281,10,False
+Russell Mulcahy,3.046666666666667,6,False
+S. Sylvan Simon,3.262857142857143,7,False
+Sam Firstenberg,2.94,6,False
+Sam Peckinpah,3.475714285714286,7,True
+Sam Raimi,3.448571428571429,7,True
+Sam Taylor,3.3699999999999997,6,True
+Sam Wood,3.355,18,True
+Samuel Fuller,3.6061538461538465,13,True
+Sidney Franklin,3.3033333333333332,6,True
+Sidney J. Furie,3.065,10,False
+Sidney Lumet,3.654736842105263,19,True
+Sidney Poitier,3.0875,8,False
+Simon Wincer,2.77,7,False
+Spike Lee,3.71,9,True
+Stanley Donen,3.4123529411764704,17,True
+Stanley Kramer,3.6145454545454543,11,True
+Stanley Kubrick,4.0408333333333335,12,True
+Stephen Frears,3.472,5,True
+Stephen Herek,2.847142857142857,7,False
+Stephen Hopkins,2.823333333333333,6,False
+Steve Miner,2.737142857142857,7,False
+Steven Soderbergh,3.388333333333333,6,True
+Steven Spielberg,3.69,18,True
+Stuart Heisler,3.2209090909090907,11,False
+Stuart Rosenberg,3.2800000000000002,7,False
+Sydney Pollack,3.3579999999999997,15,True
+Sylvester Stallone,3.258,5,False
+Tay Garnett,3.370769230769231,13,True
+Taylor Hackford,3.2728571428571427,7,False
+Ted Demme,3.3049999999999997,6,True
+Ted Kotcheff,3.3114285714285714,7,True
+Tim Burton,3.4839999999999995,10,True
+Tim Hill,2.98,2,False
+Tim Story,3.14,1,False
+Tobe Hooper,3.0785714285714287,7,False
+Tod Browning,3.420714285714286,14,True
+Tom Gries,3.216666666666667,6,False
+Tom Shadyac,3.034,5,False
+Tony Scott,3.3175,8,True
+Victor Fleming,3.406875,16,True
+Victor Saville,3.192857142857143,7,False
+Vincent McEveety,2.86,8,False
+Vincent Sherman,3.33,19,True
+Vincente Minnelli,3.4411428571428573,35,True
+W.S. Van Dyke,3.3272000000000004,25,True
+Walt Disney,3.2528571428571427,7,False
+Walter Hill,3.275,16,False
+Walter Lang,3.308666666666667,15,True
+Wes Craven,3.1021428571428573,14,False
+Wesley Ruggles,3.212727272727273,11,False
+Wilfred Jackson,3.357222222222222,18,True
+William A. Seiter,3.2939999999999996,20,False
+William A. Wellman,3.4343333333333335,30,True
+William Asher,2.9875000000000003,8,False
+William Beaudine,3.0675,8,False
+William Castle,3.21,18,False
+William Clemens,3.2288888888888887,9,False
+William Dieterle,3.3248,25,True
+William Friedkin,3.3630000000000004,10,True
+William Keighley,3.358888888888889,18,True
+William Nigh,2.932,10,False
+William Witney,3.2533333333333334,9,False
+William Wyler,3.7532,25,True
+Wolfgang Petersen,3.2800000000000002,7,False
+Wolfgang Reitherman,3.5729999999999995,10,True
+Woody Allen,3.4899999999999998,14,True

@@ -1,0 +1,42 @@
+{
+  "correlation_scores": {
+    "duration": 0.13740281944750232,
+    "age_rating": 0.0728273428196641,
+    "actor_count": 0.1933087681995129,
+    "avg_actor_rating": 0.21333658834247266,
+    "star_actor_count": 0.3267836834667756,
+    "has_star_actor": 0.27473714437171215,
+    "director_count": 0.2617765152074522,
+    "avg_director_rating": 0.3142101186868256,
+    "star_director_count": 0.39194161955911755,
+    "has_star_director": 0.4010320784070222,
+    "studio_count": 0.0076527719835135415,
+    "avg_studio_rating": 0.2840666377002039,
+    "star_studio_count": 0.17254126110869852,
+    "has_star_studio": 0.17440882072331015,
+    "rating": 1.0
+  },
+  "importance_scores": {
+    "duration": 0.10053304716977271,
+    "age_rating": 0.03802713565626578,
+    "actor_count": 0.07458748761780715,
+    "avg_actor_rating": 0.5443914199146075,
+    "star_actor_count": 0.039145484222197664,
+    "has_star_actor": 0.0015955797682496457,
+    "director_count": 0.004933035384851418,
+    "avg_director_rating": 0.10984420223522437,
+    "star_director_count": 0.001380105531320733,
+    "has_star_director": 0.001123433226081796,
+    "studio_count": 0.003937106533546943,
+    "avg_studio_rating": 0.07258781512595042,
+    "star_studio_count": 0.004547451539329592,
+    "has_star_studio": 0.003366696074794402
+  },
+  "selected_features": [
+    "duration",
+    "actor_count",
+    "avg_actor_rating",
+    "avg_director_rating",
+    "avg_studio_rating"
+  ]
+}

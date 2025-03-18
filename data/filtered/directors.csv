@@ -1,0 +1,5391 @@
+movie_id,original_id,director_name
+1,1000004,David Fincher
+2,1000006,Christopher Nolan
+3,1000008,Todd Phillips
+4,1000010,Quentin Tarantino
+8,1000017,Christopher Nolan
+9,1000018,Christopher Nolan
+12,1000022,Peter Weir
+15,1000032,David Fincher
+16,1000033,Quentin Tarantino
+17,1000034,Stanley Kubrick
+18,1000036,Quentin Tarantino
+20,1000038,Robert Zemeckis
+21,1000039,David Fincher
+22,1000045,Quentin Tarantino
+23,1000046,Francis Ford Coppola
+24,1000047,Quentin Tarantino
+25,1000048,Martin Scorsese
+26,1000051,David Fincher
+31,1000059,Martin Scorsese
+32,1000060,Peter Weir
+34,1000067,Peter Jackson
+35,1000070,Gus Van Sant
+37,1000072,George Miller
+38,1000074,James Cameron
+44,1000087,Mark Waters
+47,1000090,Robert Zemeckis
+53,1000103,Chris Columbus
+54,1000104,James Cameron
+56,1000109,Stanley Kubrick
+57,1000111,Joel Coen
+57,1000111,Ethan Coen
+59,1000116,Christopher Nolan
+60,1000119,John Hughes
+62,1000123,Wes Craven
+65,1000127,Sam Raimi
+67,1000132,Christopher Nolan
+68,1000135,Steven Spielberg
+70,1000137,Peter Jackson
+72,1000141,David Fincher
+74,1000144,Ridley Scott
+77,1000150,Stanley Kubrick
+78,1000154,Francis Lawrence
+79,1000155,Chris Columbus
+80,1000156,Peter Jackson
+81,1000157,Ridley Scott
+82,1000160,Christopher Nolan
+84,1000164,Sam Raimi
+85,1000165,Joe Wright
+86,1000168,Francis Lawrence
+87,1000169,Mike Newell
+88,1000170,Christopher Nolan
+89,1000172,Chris Columbus
+90,1000173,Christopher Nolan
+91,1000177,Bryan Singer
+94,1000187,David Yates
+96,1000194,Paul Thomas Anderson
+99,1000198,Steven Spielberg
+100,1000199,Martin Scorsese
+102,1000203,M. Night Shyamalan
+103,1000205,David Yates
+104,1000206,Ridley Scott
+110,1000224,David Lynch
+111,1000226,Brian De Palma
+112,1000227,Luc Besson
+113,1000229,Francis Ford Coppola
+114,1000230,David Yates
+115,1000233,David Yates
+117,1000237,John Hughes
+118,1000238,Nick Cassavetes
+119,1000239,Sidney Lumet
+120,1000241,Quentin Tarantino
+121,1000242,John Carpenter
+122,1000243,Gore Verbinski
+123,1000244,Tim Burton
+125,1000247,James Mangold
+126,1000248,Steven Spielberg
+129,1000261,Stanley Kubrick
+130,1000262,Francis Ford Coppola
+135,1000271,James Mangold
+138,1000278,Steven Spielberg
+139,1000284,Roman Polanski
+140,1000287,Paul Thomas Anderson
+144,1000292,Ron Clements
+144,1000292,John Musker
+145,1000293,Ridley Scott
+146,1000295,Sam Raimi
+147,1000297,Tim Burton
+149,1000304,John McTiernan
+151,1000308,Francis Lawrence
+152,1000310,James Wan
+153,1000311,Alfred Hitchcock
+157,1000317,Todd Phillips
+160,1000322,Rob Reiner
+162,1000328,Steven Soderbergh
+163,1000329,Steven Spielberg
+164,1000330,Miloš Forman
+165,1000331,Tim Burton
+169,1000337,William Friedkin
+172,1000346,Francis Lawrence
+173,1000348,Michael Mann
+174,1000351,Stanley Kubrick
+176,1000353,Tim Burton
+178,1000356,Rob Reiner
+181,1000361,Michael Curtiz
+182,1000365,Richard Linklater
+183,1000374,Steven Spielberg
+184,1000375,Tony Scott
+186,1000382,Orson Welles
+190,1000391,Alfred Hitchcock
+192,1000395,James Mangold
+196,1000404,Brian De Palma
+202,1000418,Roger Michell
+204,1000421,Donald Petrie
+206,1000424,David Fincher
+210,1000430,Garry Marshall
+212,1000434,David Yates
+222,1000450,Paul Thomas Anderson
+223,1000452,Ivan Reitman
+228,1000463,Randal Kleiser
+230,1000465,Stanley Kubrick
+232,1000468,Harold Ramis
+234,1000470,Robert Zemeckis
+235,1000471,Garry Marshall
+236,1000472,Gore Verbinski
+238,1000475,Paul Thomas Anderson
+240,1000480,George Miller
+241,1000482,Tim Burton
+242,1000483,Cameron Crowe
+244,1000485,Paul Thomas Anderson
+246,1000490,Martin Campbell
+247,1000494,Ron Clements
+247,1000494,John Musker
+248,1000495,Wes Craven
+249,1000496,James Cameron
+250,1000498,Steven Spielberg
+251,1000499,Peter Jackson
+252,1000500,Doug Liman
+257,1000505,Bryan Singer
+258,1000508,Zack Snyder
+261,1000519,Barry Sonnenfeld
+262,1000520,Martin Scorsese
+263,1000521,Stanley Donen
+265,1000524,David Fincher
+266,1000525,Rob Marshall
+267,1000527,Jake Kasdan
+268,1000530,James Wan
+269,1000534,Nancy Meyers
+274,1000542,Steven Spielberg
+275,1000547,Joe Wright
+278,1000550,Chris Columbus
+281,1000553,Ron Howard
+284,1000557,Spike Lee
+287,1000561,Doug Liman
+290,1000566,Zack Snyder
+291,1000567,M. Night Shyamalan
+297,1000578,Sam Raimi
+298,1000580,Ridley Scott
+300,1000583,Quentin Tarantino
+301,1000584,Guy Ritchie
+302,1000585,Shawn Levy
+305,1000598,Ron Clements
+305,1000598,John Musker
+306,1000601,Victor Fleming
+311,1000607,Gore Verbinski
+312,1000608,Ron Clements
+312,1000608,John Musker
+314,1000611,Marc Forster
+316,1000617,Roman Polanski
+317,1000621,Robert Zemeckis
+318,1000622,Wes Craven
+320,1000626,Peter Jackson
+321,1000627,James Wan
+322,1000628,Gore Verbinski
+323,1000629,Brian De Palma
+325,1000634,Zack Snyder
+328,1000641,Nancy Meyers
+332,1000651,Tim Burton
+333,1000655,Ridley Scott
+336,1000662,Guy Ritchie
+338,1000665,Sidney Lumet
+341,1000669,Ron Clements
+341,1000669,John Musker
+342,1000671,Blake Edwards
+343,1000675,Ron Howard
+347,1000681,Zack Snyder
+348,1000682,Francis Lawrence
+350,1000684,Peter Jackson
+353,1000690,Robert Zemeckis
+357,1000699,Tim Burton
+360,1000704,Mark Waters
+361,1000705,Bill Condon
+363,1000709,James Wan
+364,1000710,Bryan Singer
+365,1000716,Stanley Kubrick
+366,1000717,Jerry Zucker
+366,1000717,Jim Abrahams
+366,1000717,David Zucker
+368,1000721,Raja Gosnell
+370,1000726,Martin Scorsese
+371,1000729,Rob Reiner
+375,1000739,Robert Wise
+378,1000743,Ethan Coen
+378,1000743,Joel Coen
+379,1000746,Martin Scorsese
+381,1000750,Joe Dante
+382,1000751,Steven Spielberg
+384,1000754,Peter Segal
+386,1000760,Rob Cohen
+388,1000764,Richard Donner
+392,1000772,Billy Wilder
+394,1000774,Ridley Scott
+395,1000776,Kenneth Branagh
+396,1000777,M. Night Shyamalan
+397,1000779,Bryan Singer
+398,1000780,Bill Condon
+401,1000788,Luc Besson
+403,1000790,Joel Coen
+404,1000793,Michael Bay
+405,1000794,David Yates
+409,1000802,Steven Spielberg
+410,1000806,Jaume Collet-Serra
+411,1000807,John McTiernan
+412,1000808,Guy Ritchie
+413,1000810,Guy Ritchie
+414,1000811,Jonathan Lynn
+416,1000813,Michael Mann
+418,1000817,Martin Scorsese
+421,1000826,M. Night Shyamalan
+424,1000831,Billy Wilder
+425,1000832,Francis Ford Coppola
+428,1000836,Martin Scorsese
+429,1000840,David Lynch
+431,1000843,Barry Levinson
+432,1000845,Tim Burton
+436,1000851,David Gordon Green
+439,1000859,Dennis Dugan
+441,1000861,Zack Snyder
+443,1000867,Tim Burton
+450,1000890,Antoine Fuqua
+451,1000893,Jaume Collet-Serra
+453,1000897,Bryan Singer
+456,1000901,Mike Nichols
+457,1000903,Woody Allen
+459,1000907,Gus Van Sant
+460,1000908,Francis Ford Coppola
+461,1000909,Rob Marshall
+463,1000911,M. Night Shyamalan
+468,1000926,Steven Spielberg
+469,1000928,Stanley Kubrick
+470,1000929,David Hand
+472,1000931,Robert Zemeckis
+473,1000935,Barry Sonnenfeld
+474,1000936,Billy Wilder
+475,1000937,Alfred Hitchcock
+477,1000940,Rob Marshall
+478,1000943,David Lynch
+479,1000945,Clint Eastwood
+480,1000946,Hamilton Luske
+480,1000946,Wilfred Jackson
+480,1000946,Clyde Geronimi
+481,1000947,Darren Lynn Bousman
+483,1000953,Steven Soderbergh
+485,1000955,Clint Eastwood
+489,1000964,Todd Phillips
+493,1000971,Doug Liman
+495,1000975,Martin Scorsese
+496,1000976,Clint Eastwood
+497,1000977,Lasse Hallström
+499,1000984,James Mangold
+500,1000985,David Yates
+504,1000994,Justin Lin
+506,1001008,Paul Thomas Anderson
+507,1001013,Clint Eastwood
+509,1001015,Tobe Hooper
+512,1001021,Robert Rodriguez
+514,1001025,Joel Coen
+514,1001025,Ethan Coen
+515,1001027,Doug Liman
+517,1001039,David Gordon Green
+520,1001047,Tim Burton
+521,1001048,John G. Avildsen
+522,1001050,Robert Rodriguez
+523,1001051,Brett Ratner
+526,1001056,Steven Spielberg
+528,1001060,Kathryn Bigelow
+529,1001062,John Woo
+530,1001065,Oliver Stone
+531,1001067,Tom Shadyac
+533,1001071,Roland Emmerich
+534,1001073,Stanley Kubrick
+535,1001078,Brett Ratner
+537,1001082,Chris Columbus
+538,1001084,Martin Scorsese
+543,1001095,Joel Schumacher
+544,1001099,Steven Spielberg
+545,1001102,Paul Weitz
+546,1001103,Jon Turteltaub
+547,1001104,Ridley Scott
+548,1001107,Sam Raimi
+550,1001111,Marc Forster
+551,1001113,William Wyler
+552,1001114,Peter Jackson
+555,1001122,David Gordon Green
+557,1001124,Todd Phillips
+558,1001125,John Singleton
+562,1001132,John Landis
+565,1001140,Peter Jackson
+566,1001141,Donald Petrie
+570,1001151,Robert Stevenson
+573,1001160,Steven Soderbergh
+575,1001162,Ron Clements
+575,1001162,John Musker
+577,1001165,Francis Lawrence
+578,1001167,Tim Story
+579,1001170,M. Night Shyamalan
+582,1001174,Clint Eastwood
+583,1001175,Nancy Meyers
+584,1001176,Justin Lin
+585,1001177,Jon Turteltaub
+587,1001180,Peter Farrelly
+590,1001187,James Wan
+592,1001191,Nora Ephron
+593,1001193,Victor Fleming
+594,1001195,Joel Coen
+594,1001195,Ethan Coen
+595,1001196,Paul Greengrass
+599,1001205,Guy Ritchie
+601,1001208,David Gordon Green
+602,1001211,David Hand
+605,1001214,Steven Spielberg
+606,1001216,Steven Spielberg
+607,1001217,Marc Forster
+608,1001218,David Hand
+608,1001218,James Algar
+608,1001218,Ben Sharpsteen
+608,1001218,Hamilton Luske
+608,1001218,Wilfred Jackson
+611,1001226,Hamilton Luske
+611,1001226,Wilfred Jackson
+611,1001226,Clyde Geronimi
+613,1001229,Ben Sharpsteen
+613,1001229,Hamilton Luske
+614,1001233,Tim Burton
+619,1001240,F. Gary Gray
+620,1001241,Brian De Palma
+621,1001242,Kathryn Bigelow
+623,1001247,Taylor Hackford
+625,1001249,Kenneth Branagh
+626,1001252,Adam Shankman
+627,1001253,Wolfgang Petersen
+628,1001262,Nicholas Stoller
+631,1001267,Darren Lynn Bousman
+634,1001272,Barry Sonnenfeld
+635,1001273,Hamilton Luske
+635,1001273,Wolfgang Reitherman
+635,1001273,Clyde Geronimi
+636,1001275,Jay Roach
+637,1001276,Garry Marshall
+638,1001277,Cameron Crowe
+639,1001278,Sidney Lumet
+641,1001281,Roland Emmerich
+642,1001282,Charlie Chaplin
+643,1001284,John Woo
+646,1001292,Joe Johnston
+647,1001294,Steven Soderbergh
+648,1001295,Don Bluth
+649,1001296,Wolfgang Reitherman
+649,1001296,Clyde Geronimi
+650,1001297,Dennis Dugan
+652,1001302,Martin Scorsese
+654,1001306,Billy Wilder
+655,1001309,Barry Sonnenfeld
+656,1001312,Steven Spielberg
+657,1001313,Guy Ritchie
+659,1001321,Frank Oz
+660,1001322,Nicholas Stoller
+661,1001325,Francis Ford Coppola
+664,1001332,John Hughes
+667,1001336,David Fincher
+668,1001337,Stephen Frears
+670,1001341,Jonathan Lynn
+671,1001342,John Singleton
+672,1001343,John Schlesinger
+673,1001346,Dennis Dugan
+675,1001355,John Landis
+676,1001356,Nicholas Ray
+677,1001357,Joel Coen
+677,1001357,Ethan Coen
+678,1001358,Wolfgang Reitherman
+679,1001361,Penny Marshall
+682,1001372,Justin Lin
+683,1001373,Hamilton Luske
+683,1001373,Wilfred Jackson
+683,1001373,Clyde Geronimi
+684,1001374,Tim Hill
+685,1001375,Martin Brest
+686,1001377,M. Night Shyamalan
+688,1001380,Ridley Scott
+689,1001381,Joel Schumacher
+691,1001389,Roland Emmerich
+692,1001390,Tom Shadyac
+695,1001397,Jay Roach
+696,1001401,Tom Shadyac
+701,1001409,Joel Schumacher
+703,1001412,Steven Spielberg
+706,1001418,Edward Zwick
+709,1001421,Michael Bay
+710,1001422,Norman Jewison
+711,1001425,Robert Rodriguez
+713,1001430,Robert Zemeckis
+717,1001442,Hamilton Luske
+717,1001442,Wilfred Jackson
+717,1001442,Clyde Geronimi
+719,1001445,Charlie Chaplin
+722,1001450,James Wan
+724,1001459,David Lynch
+726,1001465,Justin Lin
+729,1001472,Ridley Scott
+731,1001475,Tim Burton
+733,1001478,Franklin J. Schaffner
+734,1001479,William Friedkin
+735,1001480,Michael Mann
+738,1001483,David Lynch
+739,1001484,Spike Lee
+740,1001485,Paul Greengrass
+741,1001489,Andrew Davis
+743,1001492,Peter Berg
+744,1001493,Antoine Fuqua
+746,1001495,F. Gary Gray
+748,1001499,Andrew Davis
+749,1001501,Tim Burton
+750,1001502,Wolfgang Reitherman
+753,1001508,John Carpenter
+754,1001510,Shawn Levy
+755,1001512,Michael Bay
+759,1001523,Michael Bay
+760,1001529,Ben Sharpsteen
+761,1001532,Mel Brooks
+764,1001537,Clint Eastwood
+765,1001538,Ron Howard
+766,1001540,Dennis Dugan
+768,1001544,James Whale
+771,1001554,Mike Newell
+772,1001556,Sam Raimi
+774,1001558,Jay Roach
+775,1001559,Malcolm D. Lee
+776,1001562,Alfred Hitchcock
+777,1001563,Sylvester Stallone
+779,1001566,Joseph L. Mankiewicz
+780,1001568,David Zucker
+782,1001572,Edward Zwick
+783,1001574,Raja Gosnell
+785,1001577,Joel Coen
+787,1001580,Paul Schrader
+795,1001599,Sylvester Stallone
+800,1001609,Alfred Hitchcock
+801,1001610,Martin Brest
+804,1001619,Darren Lynn Bousman
+805,1001620,George Roy Hill
+806,1001621,Robert Zemeckis
+807,1001622,Tim Burton
+810,1001630,Charlie Chaplin
+811,1001631,Tim Story
+812,1001633,Joe Wright
+813,1001634,John Hughes
+814,1001635,Gore Verbinski
+815,1001639,Martin Scorsese
+816,1001640,Jaume Collet-Serra
+819,1001650,Jerry Zucker
+821,1001653,Robert Altman
+822,1001654,Paul Greengrass
+824,1001659,Michael Bay
+825,1001660,John Carpenter
+826,1001662,Paul W. S. Anderson
+827,1001663,Hal Ashby
+831,1001670,Chris Columbus
+833,1001673,Sidney Lumet
+834,1001675,Mel Brooks
+835,1001676,Stanley Donen
+836,1001677,Steven Soderbergh
+837,1001680,Barry Sonnenfeld
+838,1001682,Bobby Farrelly
+838,1001682,Peter Farrelly
+840,1001684,Robert Benton
+841,1001687,Elia Kazan
+842,1001688,Richard Donner
+843,1001690,Rob Marshall
+848,1001699,Marc Forster
+853,1001711,Ridley Scott
+857,1001723,George Roy Hill
+858,1001724,Michael Bay
+860,1001732,John Landis
+862,1001734,Jay Roach
+863,1001735,Alfred Hitchcock
+868,1001745,Wolfgang Reitherman
+871,1001750,Sylvester Stallone
+873,1001759,Ken Kwapis
+874,1001761,Zack Snyder
+876,1001771,Brian De Palma
+878,1001773,Elia Kazan
+879,1001777,Mel Brooks
+880,1001778,Paul W. S. Anderson
+881,1001785,Steven Spielberg
+886,1001793,Darren Lynn Bousman
+888,1001795,Howard Zieff
+889,1001800,Martin Campbell
+891,1001805,Wolfgang Petersen
+892,1001808,David Gordon Green
+893,1001809,Bob Clark
+894,1001810,Adam Shankman
+895,1001812,Zack Snyder
+896,1001814,William Friedkin
+897,1001815,Stanley Kubrick
+901,1001825,Dennis Dugan
+902,1001826,Ivan Reitman
+909,1001836,John Waters
+910,1001838,Herbert Ross
+912,1001844,Rob Marshall
+915,1001850,Robert Zemeckis
+919,1001860,John McTiernan
+923,1001873,Michael Bay
+925,1001880,Don Siegel
+926,1001881,Mike Nichols
+929,1001896,John Huston
+931,1001898,Renny Harlin
+932,1001901,Richard Donner
+934,1001903,Brett Ratner
+935,1001905,Martin Brest
+936,1001906,Howard Hawks
+937,1001907,Walter Hill
+939,1001909,Howard Deutch
+943,1001913,Joel Schumacher
+945,1001915,Joel Schumacher
+946,1001918,M. Night Shyamalan
+949,1001923,Joel Coen
+950,1001924,Shawn Levy
+956,1001938,Andy Tennant
+960,1001946,Frank Capra
+962,1001949,John Carpenter
+963,1001950,Luc Besson
+965,1001952,Peter Weir
+966,1001958,Philip Kaufman
+969,1001964,Jay Roach
+973,1001975,John Ford
+974,1001979,Nora Ephron
+977,1001990,Marc Forster
+979,1001992,Peter Chelsom
+980,1001995,James Cameron
+984,1002003,F. Gary Gray
+990,1002017,Peter Bogdanovich
+991,1002018,Oliver Stone
+992,1002021,Robert Aldrich
+993,1002023,Jay Roach
+995,1002029,Tod Browning
+1000,1002044,Steve Miner
+1001,1002045,Martin Scorsese
+1004,1002049,Nicholas Stoller
+1005,1002052,Michael Mann
+1013,1002063,Michael Mann
+1014,1002066,John Badham
+1015,1002070,Francis Lawrence
+1017,1002074,Martin Campbell
+1018,1002079,David Lynch
+1020,1002086,Barry Levinson
+1021,1002091,Brett Ratner
+1022,1002092,Stanley Kubrick
+1027,1002102,William Wyler
+1028,1002104,Guy Ritchie
+1029,1002105,James Cameron
+1031,1002107,James Whale
+1033,1002110,Betty Thomas
+1035,1002112,Brian Levant
+1036,1002115,Mike Nichols
+1037,1002121,Cameron Crowe
+1039,1002126,Garry Marshall
+1040,1002127,Michael Mann
+1043,1002131,James Mangold
+1046,1002139,Howard Hawks
+1047,1002140,Peter Bogdanovich
+1048,1002144,Alfred Hitchcock
+1049,1002146,Orson Welles
+1051,1002149,F. Gary Gray
+1054,1002157,Gus Van Sant
+1055,1002161,Adrian Lyne
+1057,1002170,Barry Levinson
+1058,1002172,Roland Emmerich
+1059,1002181,Mike Newell
+1060,1002182,Penny Marshall
+1069,1002202,Jaume Collet-Serra
+1074,1002215,Martin Scorsese
+1076,1002217,Otto Preminger
+1078,1002220,Peter Segal
+1079,1002221,Robert Clouse
+1081,1002231,M. Night Shyamalan
+1085,1002239,Steven Spielberg
+1086,1002241,John Boorman
+1088,1002245,Alan Parker
+1091,1002250,Jon Turteltaub
+1094,1002256,Doug Liman
+1096,1002259,Howard Hawks
+1097,1002260,James Foley
+1101,1002272,Steven Spielberg
+1104,1002276,Antoine Fuqua
+1105,1002278,Michael Bay
+1106,1002279,Michael Bay
+1107,1002283,Michael Mann
+1109,1002288,Adam Shankman
+1111,1002292,Michael Bay
+1113,1002294,James Mangold
+1114,1002297,George Cukor
+1117,1002301,Alfred Hitchcock
+1119,1002306,Robert Altman
+1121,1002309,Joe Dante
+1122,1002312,Antoine Fuqua
+1123,1002316,Robert Altman
+1124,1002320,John Madden
+1125,1002321,John Carpenter
+1129,1002328,Tod Browning
+1130,1002329,Woody Allen
+1131,1002332,F. Gary Gray
+1132,1002334,Mark Waters
+1134,1002339,Sam Raimi
+1139,1002349,Miloš Forman
+1144,1002368,Clint Eastwood
+1146,1002377,George Cukor
+1147,1002379,Billy Wilder
+1148,1002382,Sylvester Stallone
+1149,1002385,Paul W. S. Anderson
+1151,1002394,Shawn Levy
+1154,1002402,Stephen Herek
+1155,1002404,Sylvester Stallone
+1156,1002407,Antoine Fuqua
+1157,1002408,John McTiernan
+1159,1002412,Guy Ritchie
+1162,1002415,Kathryn Bigelow
+1163,1002416,Steven Spielberg
+1164,1002418,Michael Bay
+1171,1002439,Spike Lee
+1174,1002450,Ted Demme
+1176,1002453,John Huston
+1182,1002474,Raja Gosnell
+1184,1002478,Joel Schumacher
+1187,1002486,Brian De Palma
+1188,1002489,Betty Thomas
+1189,1002495,Wolfgang Reitherman
+1190,1002497,Raja Gosnell
+1191,1002500,John Waters
+1194,1002514,Ron Howard
+1196,1002517,Tim Burton
+1198,1002519,Rob Marshall
+1200,1002523,Don Siegel
+1201,1002524,Todd Phillips
+1204,1002535,Billy Wilder
+1205,1002539,Shawn Levy
+1207,1002547,Jake Kasdan
+1208,1002548,Tobe Hooper
+1209,1002552,Joe Johnston
+1212,1002558,Jake Kasdan
+1216,1002562,Tony Scott
+1221,1002569,Adam Shankman
+1225,1002582,Steven Spielberg
+1227,1002585,Steve Miner
+1228,1002587,Howard Hawks
+1232,1002594,Nick Cassavetes
+1233,1002595,Hal Ashby
+1235,1002598,Stanley Donen
+1240,1002615,Clint Eastwood
+1241,1002616,Steven Spielberg
+1245,1002628,Phillip Noyce
+1248,1002636,John Ford
+1251,1002643,Stephen Hopkins
+1252,1002645,Jacques Tourneur
+1253,1002646,John G. Avildsen
+1257,1002656,Nicholas Ray
+1258,1002658,Paul Weitz
+1259,1002659,Nicholas Stoller
+1261,1002662,Frank Oz
+1263,1002670,Richard Donner
+1264,1002677,Martin Brest
+1265,1002678,James Whale
+1272,1002695,Tim Burton
+1273,1002696,Wes Craven
+1274,1002697,George A. Romero
+1275,1002700,John Landis
+1276,1002701,Marc Forster
+1277,1002702,Norman Jewison
+1278,1002703,George Miller
+1280,1002718,Mike Figgis
+1282,1002724,Steve Miner
+1283,1002725,Lewis Milestone
+1286,1002729,Peter Segal
+1287,1002732,Dennis Dugan
+1290,1002742,William Friedkin
+1292,1002747,Guy Ritchie
+1293,1002751,Mike Newell
+1296,1002759,Roman Polanski
+1297,1002762,Bryan Singer
+1298,1002763,Peter Chelsom
+1303,1002778,Tim Burton
+1304,1002780,Don Bluth
+1308,1002791,John Frankenheimer
+1313,1002812,Roland Emmerich
+1315,1002815,Steven Soderbergh
+1317,1002818,James Foley
+1319,1002821,Gore Verbinski
+1320,1002823,John McTiernan
+1322,1002826,Adrian Lyne
+1323,1002828,Tom Shadyac
+1324,1002833,Jack Arnold
+1326,1002839,John Landis
+1329,1002855,Robert Redford
+1333,1002866,Martin Scorsese
+1334,1002871,Fred Zinnemann
+1335,1002872,Howard Hawks
+1336,1002874,Alfred Hitchcock
+1340,1002885,Vincente Minnelli
+1341,1002886,Cameron Crowe
+1344,1002889,Brett Ratner
+1347,1002893,Oliver Stone
+1348,1002895,Otto Preminger
+1349,1002897,Harold Ramis
+1350,1002901,Roger Spottiswoode
+1351,1002905,Adam Shankman
+1353,1002908,Ron Howard
+1356,1002916,Jerry Schatzberg
+1357,1002917,Tony Scott
+1358,1002919,Alan J. Pakula
+1365,1002932,Wolfgang Petersen
+1368,1002938,M. Night Shyamalan
+1370,1002940,James Mangold
+1375,1002963,Bobby Farrelly
+1375,1002963,Peter Farrelly
+1378,1002968,Robert Altman
+1383,1002979,Joe Dante
+1387,1002988,Joe Johnston
+1388,1002989,Sam Liu
+1390,1002992,Ron Shelton
+1391,1002994,Robert Zemeckis
+1393,1003002,Peter Segal
+1395,1003006,Steven Soderbergh
+1396,1003007,Jon Turteltaub
+1398,1003014,Peter Berg
+1399,1003015,Robert Rodriguez
+1400,1003017,Mark L. Lester
+1401,1003019,Roland Emmerich
+1405,1003029,Donald Petrie
+1406,1003030,George Cukor
+1407,1003037,Sydney Pollack
+1410,1003046,Adam Shankman
+1411,1003052,Clint Eastwood
+1413,1003055,Robert Altman
+1414,1003059,Shawn Levy
+1425,1003077,Bobby Farrelly
+1425,1003077,Peter Farrelly
+1429,1003089,Peter Weir
+1431,1003093,Les Mayfield
+1434,1003110,Peter Bogdanovich
+1436,1003120,Alfred Hitchcock
+1440,1003125,David Zucker
+1442,1003131,Bob Rafelson
+1443,1003133,Michael Bay
+1445,1003140,Renny Harlin
+1446,1003142,John Milius
+1447,1003143,Billy Wilder
+1448,1003144,James Foley
+1449,1003146,Russell Mulcahy
+1452,1003156,Sam Raimi
+1453,1003158,Paul Greengrass
+1454,1003166,Jaume Collet-Serra
+1456,1003171,Roland Emmerich
+1457,1003173,William Wyler
+1458,1003175,Lasse Hallström
+1460,1003182,Ron Howard
+1462,1003185,Ridley Scott
+1464,1003187,Mel Brooks
+1465,1003189,Tom Shadyac
+1466,1003190,Robert Altman
+1468,1003198,Shawn Levy
+1471,1003204,Roland Emmerich
+1472,1003208,Robert Zemeckis
+1474,1003211,Roman Polanski
+1475,1003215,David Yates
+1479,1003229,Shawn Levy
+1481,1003233,John Frankenheimer
+1483,1003237,Michael Apted
+1484,1003238,Doug Liman
+1489,1003251,Frank Capra
+1494,1003259,Andy Tennant
+1495,1003260,Joel Coen
+1497,1003270,Vincente Minnelli
+1500,1003281,Renny Harlin
+1502,1003283,Charles Shyer
+1503,1003286,William Wyler
+1504,1003287,James Foley
+1506,1003291,John Ford
+1509,1003299,Nancy Meyers
+1513,1003311,Paul W. S. Anderson
+1514,1003312,Alan J. Pakula
+1521,1003330,Joseph Sargent
+1522,1003332,Ivan Reitman
+1524,1003339,Alfred Hitchcock
+1525,1003340,Robert Zemeckis
+1526,1003341,Richard Attenborough
+1527,1003344,Nancy Meyers
+1529,1003346,Chris Columbus
+1531,1003362,Kevin Reynolds
+1533,1003364,Robert Rossen
+1535,1003366,Taylor Hackford
+1536,1003367,Raja Gosnell
+1537,1003368,Mark Waters
+1538,1003375,Wolfgang Reitherman
+1540,1003379,John Badham
+1542,1003382,Tony Scott
+1544,1003385,Ron Howard
+1547,1003393,Leo McCarey
+1552,1003409,Russell Mulcahy
+1553,1003412,Michael Bay
+1554,1003414,John Frankenheimer
+1557,1003425,John G. Avildsen
+1558,1003426,Ron Clements
+1558,1003426,John Musker
+1560,1003433,Harold Ramis
+1561,1003435,Elia Kazan
+1565,1003441,Jay Oliva
+1566,1003442,John Hughes
+1569,1003456,Jerry Zucker
+1569,1003456,Jim Abrahams
+1569,1003456,David Zucker
+1570,1003460,Luc Besson
+1573,1003466,James Wan
+1575,1003469,Joe Dante
+1576,1003470,Rob Cohen
+1577,1003471,Robert Rodriguez
+1579,1003473,Paul Schrader
+1584,1003487,Guy Ritchie
+1585,1003490,Jacques Tourneur
+1590,1003503,Tony Scott
+1591,1003507,Michael Curtiz
+1592,1003509,Brian De Palma
+1593,1003510,Douglas Sirk
+1595,1003515,Marc Forster
+1597,1003517,Robert Rodriguez
+1597,1003517,Quentin Tarantino
+1601,1003523,Orson Welles
+1603,1003532,Oliver Stone
+1608,1003546,Michael Mann
+1614,1003562,William Wyler
+1615,1003564,Joel Schumacher
+1617,1003568,Jaume Collet-Serra
+1618,1003569,Ron Howard
+1620,1003574,Paul W. S. Anderson
+1622,1003578,Richard Donner
+1624,1003583,Doug Liman
+1626,1003585,Bobby Farrelly
+1626,1003585,Peter Farrelly
+1631,1003595,Antoine Fuqua
+1632,1003599,Brian De Palma
+1633,1003600,Jon Turteltaub
+1637,1003613,Anthony C. Ferrante
+1638,1003620,Bryan Singer
+1640,1003624,John Carpenter
+1643,1003630,Sidney Lumet
+1645,1003641,David Gordon Green
+1646,1003643,Brian Robbins
+1647,1003646,James Mangold
+1648,1003647,Phillip Noyce
+1652,1003657,Garry Marshall
+1654,1003662,Ivan Reitman
+1655,1003663,Sam Raimi
+1657,1003666,Alan J. Pakula
+1661,1003682,William Friedkin
+1667,1003697,Paul W. S. Anderson
+1668,1003703,John Schlesinger
+1669,1003704,Michael Mann
+1675,1003717,Howard Hawks
+1676,1003718,Lasse Hallström
+1677,1003727,Clint Eastwood
+1680,1003733,Stephen Hopkins
+1681,1003734,Andy Tennant
+1682,1003735,Charles Vidor
+1684,1003740,Sydney Pollack
+1686,1003743,Jay Oliva
+1687,1003744,Richard Fleischer
+1689,1003747,Wes Craven
+1691,1003755,John Waters
+1692,1003756,Sylvester Stallone
+1694,1003758,Carl Reiner
+1695,1003761,Joel Schumacher
+1696,1003762,Bill Condon
+1698,1003770,Doug Liman
+1703,1003787,Paul Weitz
+1705,1003790,John Sturges
+1706,1003794,John Boorman
+1707,1003796,Clint Eastwood
+1710,1003802,Zack Snyder
+1715,1003816,Frank Oz
+1719,1003821,Billy Wilder
+1720,1003823,Barry Sonnenfeld
+1721,1003824,Nancy Meyers
+1722,1003831,Nicholas Stoller
+1724,1003837,John Huston
+1728,1003844,Peter Segal
+1730,1003847,Peter Jackson
+1732,1003849,Adrian Lyne
+1733,1003857,Ron Howard
+1735,1003862,Richard Brooks
+1736,1003864,Ridley Scott
+1738,1003868,Frank Capra
+1740,1003870,Edward Zwick
+1743,1003875,Betty Thomas
+1746,1003883,George Waggner
+1750,1003901,Sam Taylor
+1751,1003902,Robert Wise
+1752,1003903,Clint Eastwood
+1753,1003906,Todd Phillips
+1754,1003907,Robert Zemeckis
+1756,1003910,Jay Roach
+1757,1003911,Kevin Reynolds
+1758,1003916,Stephen Frears
+1760,1003919,Wolfgang Reitherman
+1761,1003922,Alan Parker
+1762,1003924,Jay Oliva
+1765,1003930,Walter Hill
+1766,1003931,Steven Soderbergh
+1768,1003933,Tom Shadyac
+1770,1003937,Adam Shankman
+1773,1003941,Malcolm D. Lee
+1775,1003945,Bruce Beresford
+1776,1003947,Nicholas Ray
+1779,1003959,Joe Wright
+1780,1003960,Paul Schrader
+1783,1003978,Chris Columbus
+1784,1003979,Tim Hill
+1785,1003987,Roland Emmerich
+1786,1003989,Paul W. S. Anderson
+1787,1003994,Franklin J. Schaffner
+1790,1004000,Don Bluth
+1791,1004004,John Huston
+1794,1004012,Nick Cassavetes
+1795,1004013,John Waters
+1796,1004014,Brett Ratner
+1798,1004022,Robert Wise
+1799,1004025,Robert Zemeckis
+1800,1004026,John Carpenter
+1801,1004028,Dennis Dugan
+1805,1004034,Clint Eastwood
+1807,1004037,Fritz Lang
+1808,1004038,Ridley Scott
+1812,1004047,Joel Coen
+1813,1004048,Michael Curtiz
+1814,1004049,Steven Soderbergh
+1816,1004052,John Moore
+1817,1004057,Chris Columbus
+1818,1004058,Frank Perry
+1819,1004060,Peter Berg
+1822,1004069,Joe Dante
+1823,1004076,Nicholas Stoller
+1825,1004081,Harold Ramis
+1826,1004085,Frank Oz
+1830,1004094,Tim Hill
+1831,1004096,Stuart Rosenberg
+1833,1004100,Sydney Pollack
+1838,1004108,Brian Levant
+1840,1004112,Roman Polanski
+1842,1004116,Tony Scott
+1843,1004120,Mark Robson
+1845,1004138,Stanley Kramer
+1848,1004143,Martin Scorsese
+1850,1004147,Jerry Zucker
+1853,1004157,Tim Hill
+1854,1004160,Kevin Reynolds
+1855,1004161,Peter Bogdanovich
+1856,1004166,Ted Kotcheff
+1859,1004179,Francis Ford Coppola
+1860,1004184,Preston Sturges
+1861,1004187,Mike Nichols
+1862,1004188,Martin Scorsese
+1863,1004190,Hal Ashby
+1866,1004195,Kenneth Branagh
+1869,1004201,Robert Zemeckis
+1871,1004203,M. Night Shyamalan
+1873,1004205,David Zucker
+1874,1004206,Luc Besson
+1876,1004208,Preston Sturges
+1877,1004209,Ridley Scott
+1878,1004211,Roger Donaldson
+1881,1004220,Tony Scott
+1882,1004221,Tony Scott
+1883,1004222,Orson Welles
+1888,1004242,Randal Kleiser
+1893,1004249,Tony Scott
+1896,1004261,Norman Jewison
+1902,1004288,Nora Ephron
+1904,1004298,Stanley Kramer
+1906,1004302,John Huston
+1908,1004311,Ron Howard
+1909,1004316,John Ford
+1912,1004328,Walter Hill
+1914,1004334,Philip Kaufman
+1915,1004337,Jay Roach
+1916,1004338,John Boorman
+1918,1004345,Walter Hill
+1920,1004347,Mark Waters
+1921,1004349,Edgar G. Ulmer
+1922,1004351,Harold Ramis
+1923,1004353,Cecil B. DeMille
+1925,1004357,Tim Story
+1927,1004365,Billy Wilder
+1928,1004369,John Carpenter
+1930,1004371,Paul Schrader
+1935,1004384,Simon Wincer
+1939,1004393,Ted Kotcheff
+1940,1004397,John G. Avildsen
+1941,1004398,Joe Johnston
+1943,1004404,George Stevens
+1947,1004414,Alfred Hitchcock
+1949,1004419,John Landis
+1954,1004431,Ron Shelton
+1961,1004454,Raja Gosnell
+1963,1004460,Paul Greengrass
+1969,1004469,Robert Aldrich
+1970,1004471,Robert Rodriguez
+1972,1004475,Ernst Lubitsch
+1976,1004482,Leo McCarey
+1979,1004488,Paul W. S. Anderson
+1984,1004499,Brian Levant
+1986,1004505,Howard Hawks
+1987,1004507,Ivan Reitman
+1988,1004510,Joel Coen
+1988,1004510,Ethan Coen
+1989,1004514,Raja Gosnell
+1990,1004517,Ron Howard
+1991,1004525,George Stevens
+1996,1004542,George Cukor
+1997,1004543,Joel Schumacher
+1998,1004545,Wolfgang Petersen
+1999,1004547,W.S. Van Dyke
+2000,1004554,Clint Eastwood
+2003,1004559,John Singleton
+2005,1004568,Stanley Kramer
+2007,1004572,Richard Donner
+2009,1004574,Michael Curtiz
+2009,1004574,William Keighley
+2011,1004576,Fred Zinnemann
+2014,1004584,Cameron Crowe
+2015,1004587,Arthur Penn
+2016,1004590,Robert Aldrich
+2017,1004592,Bobby Farrelly
+2017,1004592,Peter Farrelly
+2018,1004600,Wolfgang Petersen
+2021,1004607,Rob Cohen
+2024,1004630,Roger Corman
+2026,1004635,John Madden
+2029,1004639,John Ford
+2033,1004652,Joel Schumacher
+2034,1004653,Mike Nichols
+2035,1004657,Hal Needham
+2039,1004674,Stanley Kubrick
+2040,1004677,Phillip Noyce
+2041,1004678,Raja Gosnell
+2046,1004691,Don Taylor
+2050,1004705,Howard Hawks
+2051,1004709,Bryan Singer
+2054,1004716,Renny Harlin
+2058,1004725,Brett Ratner
+2063,1004742,Robert Rodriguez
+2064,1004744,Joe Johnston
+2064,1004744,Lasse Hallström
+2070,1004761,Robert Altman
+2071,1004764,Spike Lee
+2074,1004773,Darren Lynn Bousman
+2080,1004790,Spike Lee
+2081,1004792,Tobe Hooper
+2082,1004793,Franco Zeffirelli
+2083,1004796,Ralph Bakshi
+2086,1004807,Miloš Forman
+2087,1004811,Oliver Stone
+2088,1004814,Frank Oz
+2089,1004815,George Miller
+2091,1004831,Wolfgang Petersen
+2092,1004832,John Woo
+2093,1004833,Spike Lee
+2094,1004834,Sidney Lumet
+2097,1004840,Jonathan Demme
+2100,1004849,Ivan Reitman
+2102,1004855,Edgar G. Ulmer
+2104,1004861,Ridley Scott
+2106,1004865,Paul Schrader
+2107,1004866,Peter Segal
+2108,1004867,Barry Sonnenfeld
+2110,1004871,Barry Sonnenfeld
+2118,1004895,Norman Jewison
+2119,1004898,Robert Siodmak
+2120,1004899,Paul Weitz
+2124,1004908,Robert Redford
+2125,1004912,Nicholas Stoller
+2130,1004923,George Miller
+2131,1004926,Curt Geda
+2132,1004927,Tony Scott
+2133,1004930,Douglas Sirk
+2138,1004944,Orson Welles
+2139,1004946,Jim Abrahams
+2141,1004952,Sam Peckinpah
+2146,1004962,Charlie Chaplin
+2151,1004973,George A. Romero
+2153,1004978,Norman Jewison
+2154,1004982,Barry Levinson
+2155,1004984,Woody Allen
+2157,1004988,Elia Kazan
+2158,1004996,Michael Caton-Jones
+2160,1005005,Michael Mann
+2163,1005015,Steven Soderbergh
+2166,1005022,Richard Donner
+2168,1005027,Michael Cimino
+2169,1005029,Garry Marshall
+2172,1005040,Joe Wright
+2175,1005050,Jake Kasdan
+2177,1005054,John Waters
+2179,1005057,George Stevens
+2182,1005062,Phillip Noyce
+2183,1005067,Alfred Hitchcock
+2184,1005070,Nick Cassavetes
+2189,1005084,Andrei Konchalovsky
+2193,1005095,Edward Sedgwick
+2194,1005100,Howard Hawks
+2195,1005101,Woody Allen
+2196,1005102,Tobe Hooper
+2198,1005106,Bobby Farrelly
+2198,1005106,Peter Farrelly
+2202,1005111,Woody Allen
+2207,1005122,John Milius
+2208,1005124,William Wyler
+2209,1005130,John McTiernan
+2210,1005131,John Ford
+2212,1005133,Paul W. S. Anderson
+2213,1005134,Tim Story
+2215,1005138,Kenneth Branagh
+2218,1005153,F. Gary Gray
+2222,1005171,Edmund Goulding
+2223,1005173,J. Lee Thompson
+2226,1005182,Josef von Sternberg
+2230,1005187,Gus Van Sant
+2233,1005198,Adam Shankman
+2234,1005201,Ernst Lubitsch
+2236,1005205,Donald Petrie
+2237,1005206,Lauren Montgomery
+2237,1005206,Sam Liu
+2239,1005210,Frank Perry
+2241,1005212,Don Bluth
+2243,1005222,Henry Koster
+2245,1005224,Chris Columbus
+2246,1005227,Shawn Levy
+2247,1005228,Mark Sandrich
+2249,1005233,Ralph Bakshi
+2252,1005236,Leo McCarey
+2253,1005237,John Woo
+2254,1005243,John Boorman
+2255,1005246,John M. Stahl
+2256,1005248,Martin Campbell
+2257,1005253,Cameron Crowe
+2259,1005262,Douglas Sirk
+2260,1005267,Donald Petrie
+2262,1005272,Bobby Farrelly
+2262,1005272,Peter Farrelly
+2264,1005275,Oliver Stone
+2266,1005280,Bruce Beresford
+2267,1005291,Alfred Hitchcock
+2268,1005292,Gregory La Cava
+2269,1005296,James Whale
+2271,1005304,Sydney Pollack
+2273,1005310,Jean Negulesco
+2274,1005317,Ron Howard
+2275,1005321,Francis Ford Coppola
+2275,1005321,Martin Scorsese
+2275,1005321,Woody Allen
+2278,1005335,Martin Scorsese
+2281,1005341,Don Chaffey
+2291,1005372,Roger Michell
+2292,1005373,Raoul Walsh
+2293,1005376,John Huston
+2294,1005378,J. Lee Thompson
+2295,1005381,Ivan Reitman
+2296,1005382,Joe Johnston
+2297,1005383,George Cukor
+2298,1005384,Jack Arnold
+2299,1005385,Adrian Lyne
+2303,1005399,Ralph Bakshi
+2304,1005401,James Algar
+2304,1005401,Clyde Geronimi
+2304,1005401,Jack Kinney
+2305,1005404,Luc Besson
+2307,1005410,Stephen Herek
+2308,1005412,Robert Zemeckis
+2310,1005418,Roger Donaldson
+2311,1005421,Peter Yates
+2314,1005432,Michael Winner
+2317,1005445,John Sturges
+2318,1005447,Joseph L. Mankiewicz
+2319,1005448,Stephen Frears
+2322,1005452,Joseph Ruben
+2323,1005453,Brett Ratner
+2325,1005461,Sam Wood
+2326,1005466,Jacques Tourneur
+2330,1005481,Ernest R. Dickerson
+2331,1005483,Brian De Palma
+2332,1005484,Peter Yates
+2334,1005488,James Mangold
+2338,1005496,Martha Coolidge
+2340,1005500,Paul W. S. Anderson
+2345,1005520,Clint Eastwood
+2347,1005524,Hal Ashby
+2349,1005528,Mel Brooks
+2352,1005546,Irwin Winkler
+2353,1005549,Robert Altman
+2354,1005550,William A. Wellman
+2356,1005559,David Zucker
+2358,1005563,Steve Miner
+2363,1005569,Roger Donaldson
+2365,1005573,Antoine Fuqua
+2366,1005575,Irvin Kershner
+2367,1005589,Adrian Lyne
+2368,1005590,Les Mayfield
+2370,1005596,Miloš Forman
+2374,1005606,Blake Edwards
+2376,1005616,Frank Oz
+2377,1005619,Garry Marshall
+2378,1005624,John Carpenter
+2379,1005625,Leo McCarey
+2380,1005627,Wolfgang Petersen
+2381,1005630,Brian Levant
+2382,1005633,Michael Ritchie
+2383,1005634,William Wyler
+2384,1005640,Jay Oliva
+2385,1005641,Roman Polanski
+2386,1005648,Ernst Lubitsch
+2387,1005653,Jerry Schatzberg
+2388,1005658,Ridley Scott
+2390,1005666,Steven Spielberg
+2392,1005672,Robert Altman
+2393,1005673,Betty Thomas
+2396,1005684,Andrew Davis
+2399,1005691,Paul W. S. Anderson
+2400,1005694,J. Lee Thompson
+2401,1005696,Arthur Hiller
+2402,1005697,Rob Reiner
+2403,1005703,Ethan Spaulding
+2407,1005713,F. Gary Gray
+2410,1005728,John Huston
+2417,1005748,John Boorman
+2418,1005749,Frank Oz
+2419,1005750,Oliver Stone
+2426,1005783,Roger Spottiswoode
+2431,1005793,Clint Eastwood
+2432,1005795,Peter Chelsom
+2435,1005805,George Roy Hill
+2441,1005826,Elia Kazan
+2443,1005831,John Singleton
+2445,1005837,Spike Lee
+2446,1005838,Vincente Minnelli
+2447,1005842,Penny Marshall
+2448,1005848,Lasse Hallström
+2451,1005864,Rouben Mamoulian
+2452,1005868,Alan Parker
+2457,1005878,Fred Zinnemann
+2458,1005882,Sam Peckinpah
+2461,1005891,André de Toth
+2463,1005898,Walt Disney
+2464,1005899,Charlie Chaplin
+2471,1005920,Brian De Palma
+2472,1005923,Adam Shankman
+2474,1005925,Samuel Fuller
+2477,1005928,Peter Hyams
+2480,1005936,Alfred Hitchcock
+2483,1005956,Martin Ritt
+2485,1005962,Woody Allen
+2487,1005965,Brian De Palma
+2489,1005967,Peter Berg
+2494,1005978,Sidney J. Furie
+2496,1005985,Alfred Hitchcock
+2500,1005990,Fred Zinnemann
+2501,1005991,Vincente Minnelli
+2502,1005994,Jay Oliva
+2502,1005994,Ethan Spaulding
+2508,1006006,Blake Edwards
+2509,1006009,Tobe Hooper
+2509,1006009,John Carpenter
+2510,1006012,Ron Howard
+2511,1006015,Joe Dante
+2513,1006021,John Guillermin
+2517,1006032,Joe Dante
+2518,1006034,John Huston
+2520,1006038,Richard Benjamin
+2523,1006042,Joseph Sargent
+2526,1006050,Roger Corman
+2529,1006062,Robert Rodriguez
+2533,1006077,Roman Polanski
+2535,1006083,Kenneth Branagh
+2540,1006106,William Wyler
+2543,1006109,Nicholas Ray
+2545,1006114,Billy Wilder
+2547,1006120,Andy Tennant
+2554,1006142,Woody Allen
+2556,1006145,Samuel Fuller
+2557,1006147,Clint Eastwood
+2558,1006149,Frank Capra
+2560,1006155,Norman Jewison
+2562,1006166,Michael Cimino
+2564,1006171,Fritz Lang
+2566,1006174,Sidney Lumet
+2569,1006185,Irving Rapper
+2574,1006195,Vincente Minnelli
+2576,1006203,Irvin Kershner
+2580,1006210,Brian De Palma
+2583,1006225,Rob Reiner
+2588,1006233,Lasse Hallström
+2590,1006236,Jim Abrahams
+2602,1006271,John McTiernan
+2603,1006272,Joseph Ruben
+2604,1006273,Jay Oliva
+2605,1006277,Gore Verbinski
+2609,1006282,Peter Hyams
+2616,1006313,Charles Barton
+2618,1006317,Nick Cassavetes
+2619,1006320,Ron Howard
+2622,1006323,Erle C. Kenton
+2624,1006327,Henry Hathaway
+2626,1006332,Byron Haskin
+2628,1006336,Henry Hathaway
+2630,1006338,Don Bluth
+2631,1006346,Ivan Reitman
+2633,1006349,Billy Wilder
+2634,1006353,Howard Deutch
+2637,1006359,George Cukor
+2647,1006386,Stanley Donen
+2648,1006389,William A. Wellman
+2649,1006392,Howard Hawks
+2651,1006399,Bill Condon
+2653,1006406,John Singleton
+2659,1006413,Richard Donner
+2662,1006419,Joseph L. Mankiewicz
+2663,1006425,Spike Lee
+2664,1006427,Spike Lee
+2666,1006433,Oliver Stone
+2667,1006438,Barry Levinson
+2670,1006442,Marc Forster
+2671,1006446,Robert Wise
+2673,1006452,Mike Nichols
+2674,1006454,Neil Jordan
+2676,1006463,Ernest R. Dickerson
+2677,1006464,Garry Marshall
+2679,1006470,Wes Craven
+2680,1006474,Tim Story
+2681,1006483,Ron Howard
+2682,1006489,Delmer Daves
+2685,1006502,J. Lee Thompson
+2687,1006511,Peter Weir
+2688,1006514,David Gordon Green
+2689,1006515,Jay Oliva
+2690,1006516,Roland Emmerich
+2694,1006527,Richard Quine
+2695,1006528,Gordon Douglas
+2696,1006539,John Woo
+2697,1006543,Roger Spottiswoode
+2699,1006547,Antoine Fuqua
+2701,1006556,Richard Fleischer
+2705,1006568,Alfred Hitchcock
+2706,1006570,Alfred Hitchcock
+2708,1006575,Sam Liu
+2709,1006576,Peter Weir
+2710,1006578,Tay Garnett
+2711,1006581,Mark L. Lester
+2716,1006603,Raja Gosnell
+2717,1006604,Sydney Pollack
+2718,1006606,Rob Cohen
+2719,1006607,Taylor Hackford
+2721,1006614,Woody Allen
+2723,1006617,Peter Berg
+2726,1006625,Stephen Herek
+2727,1006630,Charlie Chaplin
+2730,1006638,Edmund Goulding
+2731,1006645,Gene Saks
+2734,1006653,David Gordon Green
+2738,1006670,Stanley Donen
+2739,1006674,John Frankenheimer
+2742,1006681,Frank Oz
+2745,1006695,Steven Spielberg
+2746,1006697,Irving Pichel
+2747,1006701,Richard Fleischer
+2749,1006708,Andy Tennant
+2751,1006710,Andy Tennant
+2754,1006720,Charles Walters
+2759,1006733,Woody Allen
+2760,1006737,Richard Attenborough
+2762,1006741,Robert Stevenson
+2765,1006748,Joel Schumacher
+2766,1006750,Harold Becker
+2769,1006769,Lauren Montgomery
+2770,1006770,Richard Attenborough
+2771,1006772,Roman Polanski
+2774,1006788,John Singleton
+2776,1006792,Alan J. Pakula
+2777,1006793,Brian De Palma
+2778,1006795,Tim Hill
+2780,1006797,Walter Hill
+2782,1006801,Taylor Hackford
+2783,1006802,Andrew Davis
+2791,1006829,Roger Corman
+2792,1006835,Clint Eastwood
+2793,1006839,Kathryn Bigelow
+2794,1006843,Barry Levinson
+2795,1006846,Paul Schrader
+2799,1006852,Woody Allen
+2800,1006853,Gene Saks
+2802,1006859,Brian Levant
+2803,1006861,Michael Ritchie
+2804,1006881,Garry Marshall
+2806,1006884,J. Lee Thompson
+2812,1006899,George Stevens
+2816,1006927,Woody Allen
+2817,1006929,Jules Dassin
+2819,1006934,Les Mayfield
+2820,1006940,Delmer Daves
+2825,1006952,Andrei Konchalovsky
+2827,1006958,Joseph L. Mankiewicz
+2833,1006976,Sidney Lumet
+2837,1006995,Norman Jewison
+2838,1006996,Tim Burton
+2839,1006997,Mike Nichols
+2846,1007007,Paul Greengrass
+2847,1007008,John Woo
+2848,1007009,Alan J. Pakula
+2849,1007019,John Huston
+2849,1007019,Robert Parrish
+2850,1007020,Roger Spottiswoode
+2851,1007024,Martin Scorsese
+2853,1007028,Ivan Reitman
+2854,1007032,Sam Liu
+2856,1007034,Lloyd Bacon
+2858,1007036,Randal Kleiser
+2859,1007038,Frank Lloyd
+2860,1007041,John Moore
+2862,1007050,Alan Parker
+2863,1007052,Clint Eastwood
+2867,1007061,Roger Donaldson
+2870,1007066,Charles Shyer
+2874,1007083,Paul Mazursky
+2879,1007092,Michael Curtiz
+2881,1007099,Anthony Mann
+2883,1007106,Stephen Frears
+2886,1007124,Richard Donner
+2888,1007131,Irwin Winkler
+2890,1007135,Mervyn LeRoy
+2890,1007135,Busby Berkeley
+2892,1007141,George Cukor
+2894,1007149,Herbert Ross
+2895,1007150,Alfred Hitchcock
+2896,1007163,Barry Levinson
+2897,1007166,Nicholas Ray
+2899,1007169,Michael Winterbottom
+2901,1007174,William Wyler
+2902,1007181,Tod Browning
+2903,1007183,Randal Kleiser
+2905,1007190,Josef von Sternberg
+2907,1007198,James Bridges
+2908,1007201,D.W. Griffith
+2910,1007204,Don Taylor
+2912,1007208,Clint Eastwood
+2913,1007216,Sydney Pollack
+2916,1007237,Don Siegel
+2918,1007247,Jake Kasdan
+2919,1007254,Ron Howard
+2920,1007256,Joseph L. Mankiewicz
+2921,1007274,Raoul Walsh
+2922,1007286,Oliver Stone
+2923,1007290,Preston Sturges
+2926,1007298,Brian De Palma
+2928,1007304,Richard Donner
+2933,1007330,Alfred E. Green
+2937,1007344,Roger Corman
+2939,1007370,Mel Brooks
+2941,1007372,Paul Mazursky
+2948,1007414,Gus Van Sant
+2951,1007422,Woody Allen
+2953,1007432,Ethan Spaulding
+2954,1007435,Antoine Fuqua
+2957,1007441,Ted Demme
+2958,1007447,Wes Craven
+2959,1007456,Frank Capra
+2963,1007466,John Moore
+2964,1007468,Mark Rydell
+2965,1007474,Mark Robson
+2967,1007482,Rob Cohen
+2968,1007484,Mike Nichols
+2971,1007505,Blake Edwards
+2972,1007516,Lewis Milestone
+2976,1007534,Robert Clouse
+2977,1007543,Mervyn LeRoy
+2978,1007544,John Guillermin
+2979,1007547,James Wan
+2981,1007550,Alfred Hitchcock
+2984,1007558,Betty Thomas
+2985,1007560,Carl Reiner
+2987,1007565,Fred Zinnemann
+2991,1007580,Howard Deutch
+2992,1007588,Howard Deutch
+2993,1007591,William Wyler
+2994,1007596,Stanley Kramer
+2996,1007602,Bob Clark
+2998,1007614,Norman Jewison
+3002,1007632,Tim Story
+3003,1007633,Michael Caton-Jones
+3009,1007660,Mel Brooks
+3012,1007669,Bob Rafelson
+3014,1007678,Peter Yates
+3015,1007687,Tim Story
+3016,1007690,Sidney J. Furie
+3017,1007693,Fritz Lang
+3018,1007695,Stephen Herek
+3019,1007700,Fred Schepisi
+3020,1007711,Adrian Lyne
+3021,1007721,Sydney Pollack
+3025,1007739,Jonathan Kaplan
+3029,1007748,Michael Winner
+3030,1007751,Robert Altman
+3033,1007761,Josef von Sternberg
+3038,1007771,Howard Hawks
+3041,1007786,Billy Wilder
+3043,1007797,Vincente Minnelli
+3044,1007811,Martin Scorsese
+3048,1007847,Wes Craven
+3049,1007848,Woody Allen
+3050,1007850,Mervyn LeRoy
+3053,1007860,John Waters
+3057,1007874,Sydney Pollack
+3058,1007881,Stanley Kramer
+3060,1007892,Bill Condon
+3061,1007893,Mervyn LeRoy
+3063,1007904,John Moore
+3066,1007914,John Ford
+3070,1007932,Harold Ramis
+3078,1007971,Ernst Lubitsch
+3079,1007972,Wilfred Jackson
+3079,1007972,Hamilton Luske
+3079,1007972,Jack Kinney
+3083,1007989,Peter Weir
+3085,1007997,Jonathan Kaplan
+3086,1007999,Brian Robbins
+3087,1008003,Charlie Chaplin
+3088,1008009,Joe Johnston
+3089,1008013,Sam Liu
+3090,1008015,Herbert Ross
+3091,1008021,Robert Aldrich
+3093,1008034,Ivan Reitman
+3095,1008046,Sam Liu
+3097,1008050,Steven Spielberg
+3105,1008092,Peter Hyams
+3107,1008103,Michael Cimino
+3109,1008109,Vincente Minnelli
+3110,1008117,Lauren Montgomery
+3110,1008117,Sam Liu
+3113,1008125,Clint Eastwood
+3114,1008128,Stephen Hopkins
+3119,1008146,Peter Segal
+3120,1008149,Martin Ritt
+3123,1008156,Brian Robbins
+3126,1008164,Daniel Petrie
+3128,1008179,Henry Koster
+3130,1008186,Joe Dante
+3133,1008194,Chuck Jones
+3135,1008198,Sam Liu
+3136,1008204,Robert Zemeckis
+3137,1008205,John Ford
+3139,1008211,George A. Romero
+3153,1008295,Anthony C. Ferrante
+3154,1008296,Edward Dmytryk
+3155,1008298,Ralph Bakshi
+3157,1008313,Woody Allen
+3158,1008314,Sidney Lumet
+3160,1008321,Samuel Fuller
+3163,1008330,Ernest R. Dickerson
+3164,1008331,Stephen Frears
+3168,1008341,Joe Johnston
+3172,1008373,John Carpenter
+3179,1008405,Walter Lang
+3182,1008413,Oliver Stone
+3183,1008415,Peter Hyams
+3185,1008422,Donald Petrie
+3186,1008423,Michael Ritchie
+3187,1008425,Russell Mulcahy
+3190,1008431,John Frankenheimer
+3193,1008448,Michael Curtiz
+3196,1008461,William Wyler
+3198,1008468,Richard Fleischer
+3203,1008506,Don Chaffey
+3204,1008508,Garry Marshall
+3207,1008528,Don Siegel
+3208,1008531,John Ford
+3208,1008531,Henry Hathaway
+3208,1008531,George Marshall
+3209,1008536,Oliver Stone
+3210,1008539,Woody Allen
+3211,1008542,Hal Ashby
+3214,1008555,Peter Bogdanovich
+3217,1008569,Clint Eastwood
+3219,1008585,Carl Reiner
+3220,1008597,Anthony Mann
+3222,1008611,John Ford
+3223,1008613,George Miller
+3227,1008627,Don Siegel
+3229,1008632,Rob Cohen
+3234,1008645,Wolfgang Petersen
+3236,1008652,Doug Liman
+3239,1008660,Robert Zemeckis
+3241,1008663,Frank Oz
+3243,1008672,Douglas Sirk
+3244,1008676,Lasse Hallström
+3246,1008680,Wes Craven
+3247,1008686,Raoul Walsh
+3249,1008706,Robert Rossen
+3250,1008709,Peter Berg
+3251,1008715,John Woo
+3252,1008720,Stephen Hopkins
+3253,1008722,Jules Dassin
+3255,1008732,King Vidor
+3256,1008736,George Roy Hill
+3257,1008737,Joseph L. Mankiewicz
+3258,1008738,Ethan Spaulding
+3259,1008739,Henry King
+3260,1008740,William Friedkin
+3261,1008742,Brian Levant
+3262,1008743,George A. Romero
+3264,1008746,Sidney Lumet
+3265,1008751,Arthur Hiller
+3266,1008757,Fritz Lang
+3269,1008762,Robert Siodmak
+3272,1008775,Samuel Fuller
+3273,1008782,Larry Cohen
+3274,1008785,Howard Hawks
+3281,1008812,Roger Corman
+3285,1008833,Michael Apted
+3286,1008834,Roger Corman
+3288,1008838,Rouben Mamoulian
+3290,1008844,Peter Chelsom
+3291,1008845,Hal Needham
+3294,1008854,Robert Wise
+3296,1008858,Andrew Davis
+3300,1008872,Cecil B. DeMille
+3306,1008892,Roger Donaldson
+3309,1008909,John Huston
+3310,1008911,Justin Lin
+3313,1008926,Jon Turteltaub
+3318,1008950,Jack Kinney
+3318,1008950,Hamilton Luske
+3326,1008990,John Landis
+3327,1008991,Sam Raimi
+3329,1008998,Walter Hill
+3330,1009006,Lauren Montgomery
+3332,1009015,Michael Ritchie
+3334,1009022,William Castle
+3337,1009041,Spike Lee
+3338,1009045,Peter Weir
+3339,1009050,Richard Donner
+3340,1009051,Orson Welles
+3343,1009055,Franklin J. Schaffner
+3347,1009070,Mike Nichols
+3349,1009075,Paul Weitz
+3351,1009089,Barry Levinson
+3356,1009115,Josef von Sternberg
+3357,1009116,Orson Welles
+3365,1009141,John Frankenheimer
+3367,1009143,Brian Robbins
+3371,1009154,Sam Peckinpah
+3373,1009158,Brian De Palma
+3375,1009163,Sam Liu
+3378,1009180,Clint Eastwood
+3379,1009181,Neil Jordan
+3381,1009186,Peter Yates
+3382,1009187,Blake Edwards
+3384,1009189,Howard Hawks
+3385,1009191,John Huston
+3387,1009195,Jerry Lewis
+3389,1009205,Roger Corman
+3391,1009221,Barry Levinson
+3393,1009227,Kathryn Bigelow
+3395,1009233,Peter Hyams
+3396,1009235,Phillip Noyce
+3397,1009240,Sam Raimi
+3398,1009241,Francis Ford Coppola
+3399,1009245,Edward Zwick
+3401,1009247,Joseph L. Mankiewicz
+3402,1009253,Francis Ford Coppola
+3404,1009261,Jon Turteltaub
+3406,1009265,George Marshall
+3413,1009284,John Huston
+3414,1009286,Edward Zwick
+3416,1009290,Dorothy Arzner
+3417,1009292,Jerry Zucker
+3418,1009298,Michael Curtiz
+3419,1009301,Roman Polanski
+3423,1009325,Mitchell Leisen
+3424,1009330,Brian Robbins
+3428,1009351,Alfred Hitchcock
+3432,1009361,Jerry Lewis
+3434,1009370,Mark Waters
+3436,1009378,John Ford
+3437,1009379,Bill Condon
+3444,1009412,Woody Allen
+3446,1009423,Fritz Lang
+3448,1009426,Richard Linklater
+3450,1009434,Russell Mulcahy
+3451,1009444,William Wyler
+3453,1009447,Chris Columbus
+3455,1009451,Robert Wise
+3462,1009467,Richard Fleischer
+3464,1009480,Nora Ephron
+3466,1009486,King Vidor
+3470,1009496,Malcolm D. Lee
+3472,1009500,Simon Wincer
+3474,1009508,William Dieterle
+3478,1009535,Walter Hill
+3479,1009540,Howard Zieff
+3480,1009552,Peter Segal
+3481,1009556,Dennis Dugan
+3484,1009569,Brian Robbins
+3485,1009576,Doug Liman
+3486,1009578,Charles A. Nichols
+3487,1009580,William Wyler
+3488,1009581,Don Siegel
+3490,1009583,Peter Farrelly
+3490,1009583,Bobby Farrelly
+3491,1009587,Martin Campbell
+3492,1009590,Miloš Forman
+3493,1009591,Arthur Lubin
+3495,1009596,Dennis Dugan
+3496,1009598,Frank Capra
+3498,1009607,Harold Becker
+3499,1009612,Fritz Lang
+3505,1009642,Nicholas Ray
+3507,1009655,Don Siegel
+3512,1009669,Otto Preminger
+3513,1009674,John Huston
+3514,1009675,Ron Howard
+3516,1009680,Anthony Mann
+3517,1009684,Robert Siodmak
+3519,1009692,John Landis
+3521,1009703,Ron Howard
+3522,1009708,John Singleton
+3523,1009712,Sam Liu
+3524,1009715,Alex Zamm
+3525,1009717,Martin Campbell
+3526,1009723,Charles Shyer
+3528,1009734,Mel Brooks
+3530,1009738,Richard Linklater
+3531,1009741,F. Gary Gray
+3532,1009748,Peter Segal
+3533,1009750,Edward Dmytryk
+3536,1009764,Tobe Hooper
+3537,1009767,Ethan Spaulding
+3539,1009771,Harold Ramis
+3541,1009791,Richard Fleischer
+3546,1009805,Robert Mulligan
+3547,1009807,Peter Chelsom
+3548,1009815,Brian Robbins
+3550,1009833,Richard Fleischer
+3552,1009842,Clint Eastwood
+3553,1009849,Phillip Noyce
+3556,1009864,Roger Corman
+3558,1009871,Stephen Herek
+3559,1009872,George Cukor
+3560,1009883,George Sidney
+3561,1009887,Betty Thomas
+3562,1009893,Michael Winner
+3563,1009895,Joe Wright
+3565,1009902,Richard Donner
+3566,1009903,George Roy Hill
+3567,1009905,Adam Shankman
+3573,1009925,Michael Schultz
+3574,1009929,Bobby Farrelly
+3574,1009929,Peter Farrelly
+3575,1009932,Russell Mulcahy
+3577,1009939,Leo McCarey
+3579,1009945,Roger Michell
+3582,1009950,Richard Brooks
+3584,1009957,Ted Demme
+3586,1009961,Clint Eastwood
+3587,1009965,Wes Craven
+3595,1010000,William Castle
+3596,1010003,Jack Kinney
+3596,1010003,Clyde Geronimi
+3596,1010003,Hamilton Luske
+3596,1010003,Wilfred Jackson
+3599,1010013,Curt Geda
+3600,1010019,Tim Story
+3601,1010030,Francis Ford Coppola
+3602,1010032,Ken Kwapis
+3604,1010050,Robert Stevenson
+3609,1010065,Gregory La Cava
+3612,1010071,Anthony Mann
+3615,1010087,Vincente Minnelli
+3618,1010101,Bob Rafelson
+3620,1010105,Lloyd Bacon
+3620,1010105,Busby Berkeley
+3621,1010108,Budd Boetticher
+3622,1010109,Robert Redford
+3623,1010113,Robert Wise
+3625,1010119,William Dieterle
+3627,1010128,Melvin Frank
+3629,1010134,John McTiernan
+3631,1010140,Fred Zinnemann
+3632,1010141,Harry Beaumont
+3633,1010157,Herbert Ross
+3634,1010159,Robert Benton
+3636,1010161,Lauren Montgomery
+3638,1010169,Blake Edwards
+3639,1010174,Ridley Scott
+3641,1010179,H. C. Potter
+3643,1010182,John Frankenheimer
+3644,1010193,Sam Liu
+3645,1010194,John G. Avildsen
+3647,1010202,Howard Hawks
+3651,1010209,Charles Walters
+3654,1010218,Andrew Davis
+3656,1010221,Dennis Dugan
+3657,1010224,Paul W. S. Anderson
+3659,1010243,Nathan H. Juran
+3660,1010251,Jim Abrahams
+3660,1010251,David Zucker
+3660,1010251,Jerry Zucker
+3663,1010255,Harold Becker
+3666,1010265,Rouben Mamoulian
+3671,1010277,Garry Marshall
+3672,1010279,Michael Curtiz
+3674,1010284,Vincente Minnelli
+3675,1010285,George Sidney
+3676,1010288,Preston Sturges
+3678,1010290,Sidney Poitier
+3681,1010304,Martin Brest
+3684,1010316,Peter Bogdanovich
+3688,1010329,William Wyler
+3692,1010340,Ralph Bakshi
+3694,1010342,Norman Z. McLeod
+3695,1010346,Jonathan Kaplan
+3697,1010349,Lew Landers
+3702,1010361,David Butler
+3703,1010371,Frank Perry
+3704,1010376,Barry Levinson
+3705,1010379,Jack Arnold
+3707,1010384,Walter Hill
+3712,1010406,Dorothy Arzner
+3713,1010408,Jacques Tourneur
+3718,1010421,John Huston
+3719,1010422,Ted Demme
+3721,1010427,Michael Caton-Jones
+3724,1010439,Peter Bogdanovich
+3725,1010442,John Singleton
+3728,1010450,Blake Edwards
+3732,1010463,Ron Howard
+3734,1010471,George Cukor
+3738,1010486,John Sturges
+3740,1010489,John Madden
+3741,1010490,Mark Waters
+3746,1010507,Brian Levant
+3747,1010509,Walter Hill
+3748,1010510,Andrew Davis
+3750,1010515,Bruce Beresford
+3751,1010518,Ralph Nelson
+3753,1010521,Mike Figgis
+3754,1010524,Stanley Donen
+3756,1010529,Billy Wilder
+3758,1010541,Billy Wilder
+3759,1010543,Roger Spottiswoode
+3762,1010566,Herbert Ross
+3763,1010573,Richard Thorpe
+3765,1010585,Stephen Herek
+3767,1010607,Fred Schepisi
+3768,1010622,Roy William Neill
+3769,1010624,William Wyler
+3771,1010627,Robert Z. Leonard
+3772,1010634,John Badham
+3773,1010639,Robert Wise
+3774,1010641,Ron Shelton
+3776,1010660,Norman Z. McLeod
+3780,1010683,Otto Preminger
+3782,1010696,Rudolph Maté
+3783,1010697,King Vidor
+3784,1010698,Sam Liu
+3785,1010702,Richard Brooks
+3789,1010716,Wes Craven
+3798,1010741,Elia Kazan
+3803,1010772,Jonathan Demme
+3804,1010774,George Stevens
+3806,1010784,Renny Harlin
+3808,1010786,Leo McCarey
+3811,1010795,John Frankenheimer
+3812,1010796,John Schlesinger
+3813,1010801,Ernst Lubitsch
+3818,1010815,Robert Redford
+3819,1010827,Blake Edwards
+3820,1010835,John Frankenheimer
+3822,1010843,Alfred Hitchcock
+3830,1010873,Franco Zeffirelli
+3831,1010874,George Cukor
+3834,1010882,John Schlesinger
+3835,1010884,Richard Donner
+3837,1010907,W.S. Van Dyke
+3839,1010912,Rob Marshall
+3842,1010922,Herbert Ross
+3843,1010923,Charles Shyer
+3844,1010924,John Ford
+3845,1010925,Richard Quine
+3846,1010927,Mike Nichols
+3849,1010941,James Bridges
+3851,1010945,James Cameron
+3852,1010946,Lauren Montgomery
+3853,1010951,Philip Kaufman
+3858,1010988,Anatole Litvak
+3860,1011001,Jon Turteltaub
+3862,1011003,Edward F. Cline
+3863,1011008,Edward Dmytryk
+3864,1011012,Michael Winner
+3869,1011024,Paul Schrader
+3870,1011031,Sidney Lumet
+3876,1011078,Garry Marshall
+3877,1011089,Robert Florey
+3879,1011100,Fritz Lang
+3881,1011106,Mark Sandrich
+3884,1011115,Michael Winner
+3886,1011123,J. Lee Thompson
+3888,1011134,Nicholas Ray
+3889,1011137,Jack Smight
+3890,1011141,Stanley Donen
+3891,1011146,Sam Liu
+3894,1011155,Richard Attenborough
+3897,1011162,Frank Borzage
+3898,1011165,John McTiernan
+3899,1011169,Stanley Kramer
+3900,1011188,Mike Nichols
+3901,1011194,Howard Zieff
+3902,1011195,Ken Annakin
+3903,1011204,Robert Altman
+3906,1011219,John Landis
+3908,1011228,William A. Seiter
+3909,1011235,Billy Wilder
+3910,1011237,Wilfred Jackson
+3911,1011238,Elia Kazan
+3912,1011239,Clint Eastwood
+3914,1011260,King Vidor
+3916,1011267,Martin Campbell
+3919,1011275,Howard Hawks
+3920,1011276,William Castle
+3921,1011277,Ernest R. Dickerson
+3924,1011284,Josef von Sternberg
+3927,1011292,Burt Gillett
+3928,1011293,Ralph Bakshi
+3930,1011298,Michael Apted
+3934,1011307,Peter Weir
+3935,1011312,Peter Hyams
+3936,1011313,Frank Tashlin
+3940,1011319,Clint Eastwood
+3944,1011338,Vincente Minnelli
+3945,1011350,Wesley Ruggles
+3948,1011367,D.W. Griffith
+3949,1011372,Robert Aldrich
+3952,1011387,Herbert Ross
+3953,1011392,Edmund Goulding
+3954,1011398,Josef von Sternberg
+3957,1011408,Michael Curtiz
+3958,1011410,Michael Caton-Jones
+3959,1011414,Martin Ritt
+3960,1011419,Otto Preminger
+3964,1011452,John Brahm
+3965,1011457,John Badham
+3968,1011464,Joseph L. Mankiewicz
+3971,1011481,Sam Peckinpah
+3972,1011488,Joseph Sargent
+3974,1011494,Andrew Davis
+3975,1011496,Joseph L. Mankiewicz
+3976,1011497,Woody Allen
+3978,1011504,Clint Eastwood
+3980,1011516,Howard Deutch
+3983,1011539,Frank Lloyd
+3984,1011553,Gene Saks
+3989,1011589,Walter Hill
+3990,1011591,Frank Capra
+3992,1011594,Jack Arnold
+3993,1011600,Franco Zeffirelli
+3994,1011604,Betty Thomas
+3995,1011614,George A. Romero
+3996,1011616,Arthur Hiller
+3997,1011617,Charlie Chaplin
+3999,1011620,Steven Soderbergh
+4001,1011622,William Friedkin
+4002,1011632,Robert Redford
+4003,1011635,John G. Avildsen
+4005,1011648,Robert Siodmak
+4008,1011653,Preston Sturges
+4011,1011666,Robert Stevenson
+4012,1011674,Roger Corman
+4016,1011687,William Friedkin
+4017,1011692,Barry Levinson
+4019,1011704,Sam Liu
+4021,1011707,Tim Hill
+4024,1011715,Robert Aldrich
+4026,1011729,Don Siegel
+4027,1011733,Clyde Geronimi
+4027,1011733,Hamilton Luske
+4027,1011733,Jack Kinney
+4029,1011736,John Boorman
+4033,1011742,John Milius
+4034,1011753,Victor Fleming
+4035,1011769,Joel Schumacher
+4036,1011770,Miloš Forman
+4038,1011775,Vincente Minnelli
+4041,1011794,Anatole Litvak
+4045,1011816,Elia Kazan
+4046,1011820,John Madden
+4048,1011838,Sam Liu
+4050,1011840,Alan Parker
+4052,1011849,Vincente Minnelli
+4053,1011852,Tony Scott
+4054,1011853,John Cromwell
+4056,1011865,Carl Reiner
+4059,1011875,Norman Jewison
+4061,1011906,John Landis
+4062,1011907,Henry Hathaway
+4064,1011917,Lewis Milestone
+4065,1011919,Philip Kaufman
+4066,1011921,Erle C. Kenton
+4067,1011926,Clint Eastwood
+4070,1011939,Frank Borzage
+4073,1011970,Stephen Hopkins
+4075,1011974,Neil Jordan
+4077,1011986,Gus Van Sant
+4078,1011991,Sylvester Stallone
+4079,1011993,Michael Curtiz
+4080,1011998,Walter Hill
+4081,1012004,Sidney Lumet
+4083,1012012,Richard Brooks
+4086,1012026,Peter Hyams
+4089,1012038,Richard Lester
+4093,1012061,Elia Kazan
+4094,1012077,George Stevens
+4096,1012083,John Badham
+4097,1012086,Clint Eastwood
+4098,1012089,Jim Abrahams
+4102,1012099,Richard Linklater
+4103,1012116,Steve Miner
+4104,1012121,Blake Edwards
+4106,1012127,Clint Eastwood
+4108,1012151,Roger Corman
+4108,1012151,Francis Ford Coppola
+4109,1012156,Mervyn LeRoy
+4111,1012167,Otto Preminger
+4112,1012170,Jack Kinney
+4112,1012170,Clyde Geronimi
+4114,1012176,Frank Tashlin
+4123,1012214,Michael Winterbottom
+4124,1012220,William Wyler
+4125,1012228,Mitchell Leisen
+4126,1012232,Richard Linklater
+4135,1012260,Sam Peckinpah
+4136,1012266,Philip Kaufman
+4139,1012275,Jack Hannah
+4141,1012293,Martin Ritt
+4144,1012298,Norman Tokar
+4146,1012309,Frank Borzage
+4147,1012310,Arthur Penn
+4149,1012328,Carl Reiner
+4151,1012343,Michael Curtiz
+4155,1012355,Billy Wilder
+4156,1012356,Stuart Rosenberg
+4157,1012358,John Frankenheimer
+4158,1012360,Neil Jordan
+4162,1012382,Mervyn LeRoy
+4163,1012385,Douglas Sirk
+4164,1012387,Stephen Herek
+4166,1012409,Lauren Montgomery
+4168,1012430,Anthony C. Ferrante
+4171,1012436,John Huston
+4176,1012478,George Sidney
+4180,1012490,Joseph Ruben
+4181,1012496,Jack Conway
+4185,1012527,John Frankenheimer
+4186,1012529,Sam Firstenberg
+4187,1012531,Archie Mayo
+4189,1012548,Ron Howard
+4191,1012555,Clint Eastwood
+4192,1012571,Elia Kazan
+4196,1012593,Billy Wilder
+4198,1012604,Barry Levinson
+4199,1012614,Neil Jordan
+4200,1012620,William Dieterle
+4202,1012632,André de Toth
+4207,1012646,Jacques Tourneur
+4208,1012647,Stuart Rosenberg
+4210,1012664,Frank Borzage
+4213,1012671,Walter Lang
+4215,1012680,George Marshall
+4216,1012681,Michael Apted
+4218,1012692,Stephen Hopkins
+4220,1012698,Josef von Sternberg
+4222,1012715,Fritz Lang
+4228,1012749,James Foley
+4230,1012762,Michael Winterbottom
+4231,1012764,George Stevens
+4232,1012768,Jim Abrahams
+4236,1012778,John Huston
+4237,1012780,John Badham
+4238,1012788,Ernst Lubitsch
+4239,1012802,Elia Kazan
+4240,1012805,Stuart Heisler
+4242,1012820,Joshua Logan
+4243,1012830,Edward Dmytryk
+4247,1012848,André de Toth
+4249,1012875,Jake Kasdan
+4251,1012881,Frank Oz
+4252,1012886,Sam Wood
+4255,1012893,Martha Coolidge
+4256,1012899,Jonathan Kaplan
+4257,1012902,George Stevens
+4259,1012907,John Hughes
+4260,1012913,Burt Gillett
+4261,1012920,Sidney Poitier
+4264,1012935,Henry Levin
+4265,1012937,Sydney Pollack
+4267,1012940,Norman Taurog
+4270,1012963,Sydney Pollack
+4271,1012965,Jonathan Demme
+4276,1012993,Randal Kleiser
+4277,1012999,John Hughes
+4278,1013001,Joseph H. Lewis
+4283,1013020,Roger Michell
+4284,1013028,Kevin Reynolds
+4285,1013031,Joel Schumacher
+4288,1013034,Samuel Fuller
+4291,1013045,Michael Curtiz
+4292,1013048,Fritz Lang
+4293,1013049,George Roy Hill
+4294,1013050,Michael Ritchie
+4295,1013051,Richard Brooks
+4296,1013053,John M. Stahl
+4298,1013062,John Farrow
+4299,1013065,Antoine Fuqua
+4301,1013072,John Frankenheimer
+4302,1013082,Ken Kwapis
+4303,1013086,Roland Emmerich
+4305,1013092,Josef von Sternberg
+4307,1013104,Jules Dassin
+4310,1013127,John Landis
+4311,1013132,William Friedkin
+4313,1013140,Hal Ashby
+4316,1013146,Herbert Ross
+4317,1013169,Jules Dassin
+4318,1013176,Ron Howard
+4325,1013214,Norman Z. McLeod
+4326,1013221,Anthony Mann
+4327,1013222,Erle C. Kenton
+4329,1013232,Mark Robson
+4332,1013246,Richard Fleischer
+4333,1013252,Preston Sturges
+4335,1013259,John Ford
+4339,1013274,Sam Liu
+4341,1013280,Renny Harlin
+4342,1013283,Richard Fleischer
+4344,1013292,Sidney Lumet
+4345,1013302,Fred Zinnemann
+4346,1013306,Frank Perry
+4347,1013312,Jules Dassin
+4348,1013319,Dwight H. Little
+4349,1013320,Mervyn LeRoy
+4352,1013342,Simon Wincer
+4353,1013351,Anthony C. Ferrante
+4354,1013354,Jay Oliva
+4354,1013354,Lauren Montgomery
+4359,1013404,Francis Ford Coppola
+4360,1013409,Charles Vidor
+4368,1013487,Frank Capra
+4369,1013489,Fred Schepisi
+4370,1013490,Michael Schultz
+4371,1013493,Mark Robson
+4377,1013542,Robert Wise
+4378,1013545,Rouben Mamoulian
+4380,1013562,Joel Schumacher
+4383,1013568,John Ford
+4383,1013568,Mervyn LeRoy
+4384,1013570,Frank Tashlin
+4387,1013580,Robert Aldrich
+4388,1013591,Ernst Lubitsch
+4389,1013593,Ethan Spaulding
+4390,1013596,John Badham
+4391,1013598,George Stevens
+4393,1013604,Anthony Mann
+4394,1013609,Mervyn LeRoy
+4395,1013622,Larry Cohen
+4399,1013644,Robert Siodmak
+4403,1013661,King Vidor
+4408,1013685,Martin Campbell
+4409,1013686,George Roy Hill
+4410,1013688,George Cukor
+4416,1013711,H. C. Potter
+4417,1013721,Jack Arnold
+4418,1013722,Leo McCarey
+4421,1013749,Phillip Noyce
+4423,1013757,Don Taylor
+4424,1013758,James Bridges
+4425,1013760,Richard Lester
+4426,1013761,Paul Mazursky
+4429,1013773,Lewis Milestone
+4433,1013815,Taylor Hackford
+4434,1013819,Spike Lee
+4437,1013842,Samuel Fuller
+4439,1013846,Billy Wilder
+4440,1013854,Ken Kwapis
+4441,1013859,Harold Becker
+4442,1013870,Walter Hill
+4445,1013890,Fritz Lang
+4446,1013902,William A. Wellman
+4447,1013903,Rob Cohen
+4450,1013935,Ron Shelton
+4451,1013936,Wesley Ruggles
+4452,1013943,Alexander Hall
+4455,1013955,Mitchell Leisen
+4457,1013970,Alex Zamm
+4458,1013971,Cecil B. DeMille
+4459,1013972,Mark Sandrich
+4461,1013987,Tod Browning
+4463,1013991,Michael Caton-Jones
+4465,1013994,Rob Cohen
+4471,1014038,Henry King
+4472,1014039,Sam Wood
+4473,1014040,Mark Robson
+4475,1014050,Henry Hathaway
+4476,1014051,Penny Marshall
+4479,1014061,John Ford
+4480,1014068,Preston Sturges
+4485,1014083,Fritz Lang
+4487,1014089,Andrew L. Stone
+4489,1014104,Sam Firstenberg
+4491,1014113,Penny Marshall
+4494,1014127,Richard Fleischer
+4495,1014129,Erle C. Kenton
+4498,1014142,John Badham
+4499,1014144,Byron Haskin
+4502,1014165,Charles Walters
+4504,1014174,Henry King
+4506,1014196,Ridley Scott
+4509,1014209,John Moore
+4511,1014218,Clint Eastwood
+4512,1014224,Blake Edwards
+4518,1014275,William Wyler
+4519,1014281,Robert Clouse
+4520,1014284,Joshua Logan
+4522,1014299,Hal Needham
+4524,1014315,Paul Mazursky
+4525,1014320,Ernst Lubitsch
+4526,1014323,Martin Ritt
+4528,1014359,Raoul Walsh
+4535,1014385,Nathan H. Juran
+4537,1014397,Robert Mulligan
+4539,1014431,John Badham
+4543,1014457,Brian Levant
+4544,1014462,George Roy Hill
+4548,1014477,Howard Deutch
+4551,1014485,John Singleton
+4552,1014487,Stephen Hopkins
+4553,1014495,Richard Benjamin
+4554,1014500,Robert Rossen
+4555,1014502,Tyler Perry
+4558,1014513,Victor Fleming
+4559,1014516,Ron Shelton
+4560,1014518,Harold Becker
+4561,1014522,Ernest R. Dickerson
+4562,1014523,Robert Mulligan
+4568,1014555,Clint Eastwood
+4569,1014560,Leo McCarey
+4572,1014577,Chuck Jones
+4573,1014584,Joseph L. Mankiewicz
+4574,1014592,Alex Zamm
+4579,1014627,Don Siegel
+4580,1014645,Malcolm D. Lee
+4584,1014655,Woody Allen
+4585,1014660,Byron Haskin
+4592,1014685,Robert Wise
+4596,1014706,George Cukor
+4598,1014717,John Ford
+4600,1014724,Stephen Frears
+4601,1014732,Larry Cohen
+4604,1014738,Robert Aldrich
+4605,1014743,John Cromwell
+4611,1014782,Robert Altman
+4612,1014783,Wilfred Jackson
+4613,1014787,Fritz Lang
+4615,1014798,Jerry Lewis
+4618,1014821,Martin Ritt
+4619,1014823,Robert Benton
+4620,1014824,Joel Schumacher
+4621,1014831,Mike Figgis
+4622,1014833,Robert Stevenson
+4626,1014845,Brett Ratner
+4627,1014850,Kevin Reynolds
+4629,1014857,Jacques Tourneur
+4631,1014864,John Cromwell
+4632,1014865,Cecil B. DeMille
+4633,1014867,Anthony C. Ferrante
+4635,1014877,John Ford
+4637,1014897,Joshua Logan
+4638,1014916,Robert Wise
+4639,1014924,Walter Hill
+4642,1014941,Edwin L. Marin
+4643,1014949,Carl Reiner
+4644,1014954,Sam Peckinpah
+4645,1014955,Mervyn LeRoy
+4646,1014957,Burt Gillett
+4648,1014988,Robert Florey
+4649,1014989,Robert Z. Leonard
+4651,1014994,Billy Wilder
+4654,1015003,Tay Garnett
+4657,1015026,Fred Zinnemann
+4658,1015028,James Cameron
+4660,1015040,J. Lee Thompson
+4662,1015054,Michael Apted
+4665,1015065,Anthony Mann
+4669,1015086,Elia Kazan
+4671,1015091,Arthur Hiller
+4675,1015104,Darren Lynn Bousman
+4676,1015124,Lewis Milestone
+4678,1015130,Brett Ratner
+4681,1015148,Robert Redford
+4682,1015159,Dwight H. Little
+4683,1015161,John Schlesinger
+4684,1015165,Joe Dante
+4685,1015166,Irving Reis
+4686,1015174,Richard Fleischer
+4687,1015177,Marc Forster
+4691,1015205,Peter Yates
+4692,1015206,Curtis Bernhardt
+4694,1015228,H. Bruce Humberstone
+4698,1015239,Norman Jewison
+4700,1015241,John Milius
+4701,1015247,William Keighley
+4702,1015253,Otto Preminger
+4703,1015260,Curt Geda
+4704,1015263,Ernst Lubitsch
+4706,1015265,Robert Benton
+4707,1015267,Renny Harlin
+4708,1015272,Walter Hill
+4712,1015293,Fritz Lang
+4718,1015319,Randal Kleiser
+4719,1015320,Michael Caton-Jones
+4720,1015323,Vincente Minnelli
+4724,1015339,Delmer Daves
+4728,1015352,Rob Reiner
+4731,1015360,Howard Hawks
+4734,1015379,Henry Koster
+4736,1015399,Samuel Fuller
+4737,1015401,Ethan Spaulding
+4739,1015419,Miloš Forman
+4741,1015430,Michael Ritchie
+4742,1015431,Howard Hawks
+4743,1015438,Nicholas Ray
+4744,1015440,Robert Stevenson
+4746,1015449,Ray Enright
+4746,1015449,Busby Berkeley
+4747,1015453,Robert Wise
+4749,1015466,William A. Wellman
+4751,1015493,Richard Lester
+4752,1015501,Robert Stevenson
+4754,1015508,Bob Rafelson
+4758,1015518,Mark Rydell
+4762,1015551,Robert Wise
+4764,1015555,Robert Z. Leonard
+4770,1015580,Sydney Pollack
+4771,1015586,Taylor Hackford
+4773,1015598,Wolfgang Petersen
+4775,1015619,Tom Shadyac
+4779,1015649,Peter Hyams
+4781,1015651,George Stevens
+4782,1015653,John Ford
+4783,1015654,Jean Negulesco
+4790,1015715,Clint Eastwood
+4791,1015718,Howard Hawks
+4794,1015748,Sylvester Stallone
+4795,1015762,Ethan Spaulding
+4796,1015772,Vincente Minnelli
+4797,1015784,Otto Preminger
+4798,1015792,William A. Wellman
+4799,1015794,Robert Aldrich
+4800,1015798,John Boorman
+4803,1015826,William Wyler
+4804,1015831,Neil Jordan
+4806,1015837,John Ford
+4808,1015850,Joshua Logan
+4811,1015875,Simon Wincer
+4821,1015918,Ralph Nelson
+4823,1015942,James Bridges
+4825,1015949,Paul Mazursky
+4828,1015955,George Sidney
+4829,1015957,Sidney J. Furie
+4832,1015972,Harold Becker
+4834,1015983,Jacques Tourneur
+4836,1015997,Sam Wood
+4840,1016023,Richard Fleischer
+4841,1016043,James Bridges
+4843,1016053,Stanley Donen
+4847,1016068,Stephen Frears
+4848,1016069,Clarence Brown
+4849,1016078,Brian Robbins
+4850,1016102,Herbert Ross
+4851,1016106,Anatole Litvak
+4852,1016108,Richard Brooks
+4854,1016124,Hamilton Luske
+4854,1016124,Alfred L. Werker
+4855,1016129,Robert Aldrich
+4857,1016136,Byron Haskin
+4860,1016150,Richard Benjamin
+4864,1016176,Walter Hill
+4865,1016177,Fred Schepisi
+4869,1016186,Donald Petrie
+4871,1016203,Allan Dwan
+4873,1016213,Samuel Fuller
+4878,1016242,Harold Becker
+4879,1016246,James Whale
+4880,1016247,John Ford
+4883,1016269,King Vidor
+4885,1016282,William A. Seiter
+4886,1016285,George Cukor
+4888,1016310,Dwight H. Little
+4889,1016314,Mike Newell
+4891,1016325,Richard Fleischer
+4891,1016325,John Huston
+4894,1016335,Edmund Goulding
+4896,1016348,Robert Mulligan
+4898,1016350,F. Gary Gray
+4899,1016351,Hal Needham
+4900,1016358,Michael Curtiz
+4902,1016373,Vincente Minnelli
+4903,1016376,Douglas Sirk
+4905,1016379,Robert Rossen
+4906,1016384,John Sturges
+4909,1016406,W.S. Van Dyke
+4913,1016430,Stanley Donen
+4915,1016454,James Foley
+4921,1016486,Fred Schepisi
+4922,1016488,John Huston
+4924,1016500,William Dieterle
+4925,1016506,Michael Ritchie
+4927,1016510,Renny Harlin
+4928,1016521,Charles Lamont
+4929,1016522,D.W. Griffith
+4931,1016529,Wilfred Jackson
+4932,1016537,Robert Siodmak
+4934,1016545,Jonathan Demme
+4935,1016546,Paul Weitz
+4938,1016563,John Farrow
+4939,1016570,Peter Bogdanovich
+4940,1016571,Charles Lamont
+4943,1016584,John Brahm
+4944,1016586,Roger Corman
+4945,1016589,Mark Rydell
+4946,1016593,Oliver Stone
+4948,1016598,Steven Soderbergh
+4949,1016602,Stuart Rosenberg
+4950,1016617,Jonathan Kaplan
+4953,1016626,Ken Kwapis
+4955,1016655,John G. Avildsen
+4956,1016659,Raoul Walsh
+4957,1016672,John Ford
+4958,1016678,Robert Siodmak
+4959,1016697,Preston Sturges
+4960,1016703,Stephen Herek
+4961,1016709,Robert Wise
+4962,1016712,Fritz Lang
+4963,1016716,Robert Benton
+4964,1016719,George Cukor
+4970,1016749,Spike Lee
+4971,1016763,Stanley Donen
+4972,1016776,Martin Brest
+4973,1016777,Raoul Walsh
+4975,1016795,Dwight H. Little
+4977,1016814,Norman Jewison
+4980,1016842,Jack Hannah
+4981,1016869,Ken Kwapis
+4982,1016879,Mike Nichols
+4985,1016894,Clarence Brown
+4986,1016895,Joshua Logan
+4990,1016914,George Sidney
+4991,1016915,Anthony Mann
+4993,1016928,Robert Benton
+4994,1016933,Ivan Reitman
+4995,1016941,Jack Kinney
+4997,1016956,Malcolm D. Lee
+4998,1016977,Michael Curtiz
+4999,1016979,Douglas Sirk
+5002,1017004,Sam Firstenberg
+5003,1017007,Robert Z. Leonard
+5003,1017007,Busby Berkeley
+5005,1017011,Sidney Lumet
+5008,1017060,Simon Wincer
+5011,1017071,Peter Bogdanovich
+5012,1017081,Henry Hathaway
+5015,1017095,Walter Lang
+5018,1017104,Michael Schultz
+5022,1017135,Norman Jewison
+5023,1017145,Victor Fleming
+5026,1017169,Peter Hyams
+5031,1017195,Tod Browning
+5038,1017246,Victor Fleming
+5039,1017256,Mark Robson
+5041,1017264,Wes Craven
+5047,1017305,Raoul Walsh
+5048,1017312,Jonathan Lynn
+5049,1017335,Mervyn LeRoy
+5051,1017355,Paul Wendkos
+5057,1017389,Joel Schumacher
+5059,1017396,Clyde Geronimi
+5059,1017396,Hamilton Luske
+5060,1017403,Roger Donaldson
+5062,1017421,William Castle
+5063,1017426,Roger Corman
+5065,1017440,Jonathan Kaplan
+5067,1017454,Robert Altman
+5068,1017456,Vincente Minnelli
+5069,1017458,Robert Wise
+5071,1017482,Carl Reiner
+5074,1017497,Rudolph Maté
+5075,1017499,Dwight H. Little
+5076,1017503,Phil Karlson
+5077,1017511,Henry Hathaway
+5078,1017520,John Farrow
+5078,1017520,Richard Fleischer
+5080,1017541,Sidney J. Furie
+5081,1017561,A. Edward Sutherland
+5083,1017603,Sam Firstenberg
+5085,1017605,Michael Cimino
+5087,1017614,Richard Fleischer
+5094,1017660,Jonathan Demme
+5096,1017673,Wilfred Jackson
+5097,1017676,Richard Fleischer
+5098,1017681,James Goldstone
+5099,1017685,Michael Winterbottom
+5100,1017699,Brian De Palma
+5101,1017705,J. Lee Thompson
+5102,1017712,Ernst Lubitsch
+5103,1017728,Sam Peckinpah
+5105,1017738,Jack Conway
+5107,1017744,Robert Stevenson
+5110,1017760,Ernst Lubitsch
+5113,1017766,Oliver Stone
+5114,1017767,John Badham
+5116,1017779,Henry Hathaway
+5117,1017780,Mark Robson
+5120,1017811,Lasse Hallström
+5122,1017825,William Dieterle
+5126,1017847,Taylor Hackford
+5128,1017857,Ernst Lubitsch
+5131,1017864,Byron Haskin
+5132,1017868,Joseph H. Lewis
+5133,1017870,Jay Oliva
+5135,1017881,Raoul Walsh
+5137,1017898,Mel Brooks
+5138,1017916,M. Night Shyamalan
+5139,1017926,Michael Cimino
+5143,1017967,Bob Clark
+5144,1017969,Peter Bogdanovich
+5145,1017981,Stanley Kramer
+5146,1017997,John Ford
+5148,1018009,Steven Soderbergh
+5149,1018012,David Hand
+5150,1018016,Wes Craven
+5151,1018018,John Ford
+5152,1018022,Sydney Pollack
+5154,1018024,Busby Berkeley
+5156,1018026,Steven Soderbergh
+5157,1018049,Philip Kaufman
+5158,1018074,Jack Smight
+5159,1018083,Richard Donner
+5160,1018096,Richard Donner
+5161,1018099,Busby Berkeley
+5163,1018106,John Ford
+5164,1018119,Tim Story
+5165,1018121,Robert Stevenson
+5167,1018151,John Huston
+5168,1018164,Arthur Hiller
+5170,1018167,Vincente Minnelli
+5170,1018167,Roy Del Ruth
+5170,1018167,George Sidney
+5170,1018167,Charles Walters
+5172,1018174,Archie Mayo
+5173,1018178,Barry Sonnenfeld
+5175,1018191,Paul Schrader
+5177,1018196,John Milius
+5178,1018198,Howard Zieff
+5179,1018199,Tyler Perry
+5180,1018201,Norman Z. McLeod
+5181,1018205,Andrew V. McLaglen
+5182,1018206,John Sturges
+5183,1018209,Irwin Allen
+5184,1018213,Robert Aldrich
+5185,1018224,Kevin Reynolds
+5186,1018226,Robert Wise
+5188,1018240,Malcolm D. Lee
+5190,1018248,Chuck Jones
+5191,1018259,Norman Z. McLeod
+5196,1018289,Franco Zeffirelli
+5199,1018312,Richard Thorpe
+5202,1018315,Sam Liu
+5205,1018328,Stanley Donen
+5206,1018344,Otto Preminger
+5207,1018373,George Sidney
+5208,1018377,John Ford
+5209,1018386,Richard Quine
+5210,1018390,Roger Spottiswoode
+5211,1018396,Delmer Daves
+5214,1018410,Peter Yates
+5216,1018422,Sydney Pollack
+5219,1018451,George A. Romero
+5225,1018485,Barry Sonnenfeld
+5227,1018498,Ben Sharpsteen
+5228,1018505,Chuck Jones
+5230,1018509,David Butler
+5231,1018522,Norman Z. McLeod
+5233,1018531,A. Edward Sutherland
+5234,1018539,Dwight H. Little
+5239,1018553,Michael Curtiz
+5241,1018563,Fritz Lang
+5242,1018567,Irwin Winkler
+5243,1018571,Robert Benton
+5244,1018573,Billy Wilder
+5246,1018578,Don Bluth
+5247,1018588,Nicholas Ray
+5249,1018626,John Ford
+5250,1018629,John Ford
+5254,1018656,Fritz Lang
+5255,1018664,Busby Berkeley
+5256,1018670,Mark Sandrich
+5257,1018677,Robert Siodmak
+5258,1018678,Mike Newell
+5259,1018688,Peter Bogdanovich
+5260,1018693,John Ford
+5261,1018709,Penny Marshall
+5263,1018714,Alexander Hall
+5266,1018724,Lamont Johnson
+5272,1018752,Jon Turteltaub
+5274,1018754,Edward F. Cline
+5278,1018790,Anthony Mann
+5280,1018799,Joseph L. Mankiewicz
+5285,1018826,Edward Dmytryk
+5289,1018845,John Ford
+5292,1018856,Frank Capra
+5293,1018868,Hal Needham
+5297,1018879,Cecil B. DeMille
+5299,1018887,Vincente Minnelli
+5302,1018907,George Stevens
+5304,1018914,Clarence Brown
+5305,1018916,Lasse Hallström
+5311,1018928,John Huston
+5313,1018937,Reginald Le Borg
+5315,1018949,Rob Reiner
+5316,1018950,William Friedkin
+5319,1018958,Richard Benjamin
+5320,1018959,Sidney Lumet
+5322,1018976,Richard Quine
+5323,1018977,Clarence Brown
+5329,1019012,Paul Mazursky
+5333,1019025,Josef von Sternberg
+5334,1019047,Robert Altman
+5335,1019068,Alan Parker
+5336,1019075,Mark Robson
+5337,1019085,Busby Berkeley
+5340,1019106,Delmer Daves
+5344,1019147,Vincente Minnelli
+5346,1019161,Peter Chelsom
+5347,1019188,George Cukor
+5350,1019209,Wilfred Jackson
+5351,1019210,W.S. Van Dyke
+5352,1019212,Simon Wincer
+5355,1019234,Blake Edwards
+5356,1019238,W.S. Van Dyke
+5357,1019242,Blake Edwards
+5359,1019244,Nora Ephron
+5360,1019249,Tom Gries
+5362,1019265,Ron Howard
+5367,1019282,Richard Quine
+5369,1019305,John Ford
+5371,1019323,Melville Shavelson
+5374,1019351,Frank Borzage
+5380,1019406,Edwin L. Marin
+5381,1019408,Chris Columbus
+5383,1019425,Tyler Perry
+5388,1019450,Don Siegel
+5389,1019451,Mitchell Leisen
+5390,1019457,Lloyd Bacon
+5391,1019459,Tyler Perry
+5394,1019466,Daniel Petrie
+5396,1019478,Jay Oliva
+5397,1019482,Michael Caton-Jones
+5398,1019487,Jean Negulesco
+5400,1019494,J. Lee Thompson
+5401,1019503,King Vidor
+5403,1019507,Jerry Schatzberg
+5404,1019515,Jack Smight
+5405,1019516,Franklin J. Schaffner
+5406,1019523,Vincent McEveety
+5408,1019530,Stanley Donen
+5412,1019555,William A. Wellman
+5414,1019584,Ivan Reitman
+5416,1019590,Elia Kazan
+5419,1019617,Rouben Mamoulian
+5423,1019657,Burt Kennedy
+5424,1019668,Blake Edwards
+5425,1019691,Richard Benjamin
+5426,1019695,James Foley
+5428,1019700,William A. Wellman
+5430,1019706,Les Mayfield
+5432,1019708,Robert Aldrich
+5433,1019711,Jack Conway
+5437,1019744,Peter Hyams
+5438,1019761,William A. Wellman
+5440,1019764,Stuart Rosenberg
+5441,1019766,Nicholas Ray
+5442,1019769,Archie Mayo
+5444,1019784,Ted Kotcheff
+5445,1019785,Don Taylor
+5447,1019797,Roger Corman
+5450,1019812,Bob Rafelson
+5458,1019842,Ken Kwapis
+5459,1019851,Mark Robson
+5460,1019860,Michael Apted
+5461,1019872,Michael Ritchie
+5464,1019904,Norman Tokar
+5465,1019911,Herbert Ross
+5469,1019924,Raoul Walsh
+5472,1019931,Paul Schrader
+5474,1019946,Joseph Sargent
+5476,1019953,Richard Lester
+5477,1019965,Howard Hawks
+5485,1020030,Michael Ritchie
+5489,1020048,Barry Levinson
+5490,1020060,Allan Dwan
+5492,1020064,Henry King
+5496,1020105,Clarence Brown
+5497,1020120,Jack Arnold
+5499,1020122,Raoul Walsh
+5500,1020124,Edward L. Cahn
+5502,1020130,Tim Story
+5503,1020140,Otto Preminger
+5505,1020151,Vincent McEveety
+5506,1020157,Vincent Sherman
+5507,1020159,Jonathan Demme
+5508,1020162,Richard Brooks
+5512,1020208,Robert Aldrich
+5514,1020211,Edward Sedgwick
+5515,1020225,Roger Michell
+5517,1020254,Jonathan Kaplan
+5520,1020289,Simon Wincer
+5521,1020290,Arthur Penn
+5522,1020291,Nicholas Ray
+5524,1020311,George Sidney
+5525,1020322,Norman Taurog
+5527,1020331,Peter Bogdanovich
+5528,1020335,Jean Yarbrough
+5531,1020342,Sam Wood
+5532,1020347,Roger Donaldson
+5533,1020353,Robert Stevenson
+5534,1020357,Joel Schumacher
+5535,1020361,Ted Kotcheff
+5536,1020368,Chuck Jones
+5540,1020405,Delmer Daves
+5542,1020426,Busby Berkeley
+5543,1020427,Mark L. Lester
+5544,1020430,Jean Negulesco
+5545,1020448,Peter Chelsom
+5547,1020452,W.S. Van Dyke
+5551,1020480,Elliott Nugent
+5553,1020484,Anthony Mann
+5555,1020494,Vincente Minnelli
+5557,1020508,Sam Firstenberg
+5559,1020519,Franco Zeffirelli
+5560,1020528,Alfred L. Werker
+5561,1020536,John Landis
+5562,1020543,Henry Koster
+5564,1020548,Cecil B. DeMille
+5566,1020559,Bob Clark
+5567,1020578,Stanley Donen
+5569,1020601,Burt Kennedy
+5571,1020612,Richard Fleischer
+5574,1020622,Spike Lee
+5575,1020625,Frank Borzage
+5576,1020631,Kathryn Bigelow
+5577,1020637,Sidney Franklin
+5580,1020684,George Cukor
+5581,1020695,Robert Aldrich
+5583,1020703,Malcolm D. Lee
+5585,1020714,Ken Annakin
+5586,1020723,Herbert Ross
+5589,1020730,Edward Dmytryk
+5591,1020739,Jean Yarbrough
+5592,1020740,Victor Fleming
+5596,1020760,Garry Marshall
+5597,1020761,Michael Curtiz
+5600,1020769,Henry King
+5602,1020777,Phillip Noyce
+5604,1020797,Jack Arnold
+5606,1020804,Steven Soderbergh
+5608,1020816,Robert Clouse
+5609,1020818,John Madden
+5615,1020862,Mike Nichols
+5616,1020879,Martin Ritt
+5617,1020880,Richard Quine
+5618,1020883,John Huston
+5619,1020890,Lasse Hallström
+5621,1020900,Rob Reiner
+5627,1020937,Gordon Douglas
+5628,1020944,Dorothy Arzner
+5630,1020970,John Sturges
+5631,1020995,Jim Abrahams
+5633,1021012,Mitchell Leisen
+5634,1021016,Michael Apted
+5638,1021023,Michael Cimino
+5641,1021049,Clarence Brown
+5647,1021081,Henry King
+5648,1021085,Richard Benjamin
+5652,1021108,Nicholas Ray
+5653,1021120,Rouben Mamoulian
+5655,1021123,Ralph Bakshi
+5656,1021134,Richard Fleischer
+5657,1021146,Roger Corman
+5658,1021153,Burt Gillett
+5659,1021173,Stephen Herek
+5660,1021174,Mark Waters
+5661,1021191,Richard Boleslawski
+5662,1021204,Fritz Lang
+5664,1021209,Sidney Poitier
+5666,1021219,Roland Emmerich
+5667,1021222,Franklin J. Schaffner
+5670,1021242,Norman Foster
+5673,1021259,Christopher Ray
+5674,1021261,Clarence Brown
+5675,1021270,Martin Campbell
+5678,1021278,Robert Z. Leonard
+5680,1021287,Andrew V. McLaglen
+5681,1021297,Nora Ephron
+5682,1021299,George Roy Hill
+5683,1021300,Phil Karlson
+5685,1021308,Archie Mayo
+5687,1021333,Walt Disney
+5688,1021338,W.S. Van Dyke
+5689,1021351,Charles Barton
+5690,1021354,Edward Dmytryk
+5691,1021365,Phil Karlson
+5692,1021367,Douglas Sirk
+5694,1021385,Charles Vidor
+5695,1021397,Joseph L. Mankiewicz
+5696,1021400,Clarence Brown
+5697,1021407,James Foley
+5699,1021414,Hal Needham
+5700,1021442,Richard Thorpe
+5701,1021443,King Vidor
+5703,1021451,Arthur Hiller
+5707,1021490,Michael Schultz
+5709,1021522,John Sturges
+5710,1021532,Fred Schepisi
+5713,1021559,Paul Wendkos
+5714,1021569,John G. Avildsen
+5715,1021580,Roger Spottiswoode
+5717,1021604,Michael Curtiz
+5719,1021608,Arthur Hiller
+5722,1021661,Sam Wood
+5724,1021676,John Frankenheimer
+5728,1021695,Michael Winterbottom
+5730,1021725,Robert Clouse
+5733,1021766,Robert Mulligan
+5734,1021780,Larry Cohen
+5738,1021818,Josef von Sternberg
+5739,1021839,Paul Weitz
+5740,1021843,Jacques Tourneur
+5741,1021844,Frank Borzage
+5744,1021856,Frank Perry
+5745,1021865,Raoul Walsh
+5747,1021891,George Sidney
+5749,1021906,Jean Negulesco
+5750,1021910,Richard Quine
+5752,1021927,John Schlesinger
+5752,1021927,Miloš Forman
+5752,1021927,Arthur Penn
+5754,1021934,Otto Preminger
+5756,1021949,Paul Schrader
+5759,1021970,Herbert Ross
+5761,1022002,Ethan Spaulding
+5763,1022011,Daniel Petrie
+5765,1022025,W.S. Van Dyke
+5767,1022046,Edward Dmytryk
+5771,1022083,Don Siegel
+5773,1022086,George Cukor
+5774,1022096,J. Lee Thompson
+5775,1022106,Arthur Lubin
+5776,1022117,Roy William Neill
+5778,1022125,Peter Yates
+5779,1022129,Philip Kaufman
+5784,1022147,Frank Capra
+5788,1022172,Arthur Penn
+5789,1022182,Walter Lang
+5792,1022188,Walter Hill
+5793,1022189,Justin Lin
+5799,1022229,Alan J. Pakula
+5802,1022273,Vincent Sherman
+5803,1022278,Charles Lamont
+5804,1022285,William Friedkin
+5806,1022294,Charles Walters
+5807,1022295,Nathan H. Juran
+5810,1022304,Vincente Minnelli
+5816,1022350,John Ford
+5817,1022353,Fritz Lang
+5823,1022405,Charlie Chaplin
+5825,1022415,William Castle
+5826,1022418,Roger Corman
+5830,1022464,Lamont Johnson
+5831,1022465,David Hand
+5833,1022496,Michael Curtiz
+5834,1022506,Gordon Douglas
+5835,1022515,William Wyler
+5836,1022520,Samuel Fuller
+5837,1022525,Edward Buzzell
+5839,1022561,Frank Borzage
+5842,1022579,Joel Schumacher
+5847,1022615,Anatole Litvak
+5850,1022669,Rob Reiner
+5851,1022671,Mark Sandrich
+5856,1022699,Arthur Lubin
+5859,1022713,Joseph H. Lewis
+5863,1022750,Rouben Mamoulian
+5866,1022776,Roy William Neill
+5869,1022823,Arthur Hiller
+5870,1022835,Jared Cohn
+5872,1022844,John Cromwell
+5873,1022849,Frank Borzage
+5877,1022895,Norman Taurog
+5878,1022899,Sydney Pollack
+5879,1022909,Alfred L. Werker
+5881,1022930,Michael Ritchie
+5882,1022942,Daniel Petrie
+5883,1022965,Peter Hyams
+5884,1022972,Donald Petrie
+5889,1023011,Alfred E. Green
+5890,1023019,Barry Levinson
+5893,1023065,Roy Del Ruth
+5895,1023076,Henry King
+5897,1023089,Carl Reiner
+5901,1023135,Anatole Litvak
+5902,1023136,Richard Benjamin
+5904,1023141,John Badham
+5905,1023149,George Sidney
+5908,1023160,Mitchell Leisen
+5910,1023174,J. Lee Thompson
+5913,1023201,Robert Stevenson
+5915,1023209,Betty Thomas
+5916,1023214,Joseph L. Mankiewicz
+5918,1023220,Henry King
+5919,1023222,Michael Winner
+5920,1023225,Norman Foster
+5921,1023245,Joseph L. Mankiewicz
+5923,1023269,John Cromwell
+5926,1023278,Steve Miner
+5927,1023287,William Castle
+5928,1023294,William Dieterle
+5929,1023295,Vincente Minnelli
+5930,1023302,Vincent Sherman
+5932,1023334,Henry Koster
+5936,1023372,Henry King
+5937,1023407,Robert Wise
+5938,1023417,Ben Sharpsteen
+5940,1023425,Herbert Ross
+5941,1023428,Roy William Neill
+5946,1023469,John G. Avildsen
+5947,1023470,Jay Oliva
+5948,1023472,Roy William Neill
+5949,1023486,John Huston
+5950,1023489,Michael Ritchie
+5952,1023494,Garry Marshall
+5953,1023505,Dorothy Arzner
+5955,1023510,Curtis Bernhardt
+5956,1023516,Don Siegel
+5957,1023518,Michael Ritchie
+5960,1023526,Allan Dwan
+5961,1023538,Tod Browning
+5962,1023549,Otto Preminger
+5963,1023554,Michael Curtiz
+5964,1023558,Gordon Douglas
+5966,1023577,Peter Segal
+5967,1023578,Jacques Tourneur
+5968,1023598,Roy William Neill
+5969,1023601,Walter Lang
+5970,1023602,Mervyn LeRoy
+5971,1023632,Irwin Winkler
+5975,1023671,Vincent Sherman
+5978,1023696,Tyler Perry
+5979,1023707,Raoul Walsh
+5983,1023741,Robert Benton
+5984,1023754,Charles Walters
+5986,1023759,Peter Hyams
+5989,1023767,George Marshall
+5992,1023789,John Guillermin
+5993,1023790,Wolfgang Reitherman
+5994,1023798,Jerry Lewis
+5995,1023803,Franco Zeffirelli
+5996,1023823,Richard Attenborough
+5997,1023825,Robert Aldrich
+5998,1023828,Anthony Mann
+6002,1023842,Curt Geda
+6007,1023862,Vincente Minnelli
+6008,1023870,John Brahm
+6009,1023894,Robert Aldrich
+6010,1023897,Jonathan Lynn
+6012,1023916,Clarence Brown
+6013,1023925,Edgar G. Ulmer
+6014,1023942,Arthur Lubin
+6015,1023947,John Ford
+6016,1023952,King Vidor
+6017,1023957,Richard Benjamin
+6020,1023973,Robert Z. Leonard
+6021,1023980,Jack Smight
+6023,1023982,John Ford
+6025,1024008,John Huston
+6026,1024018,William A. Seiter
+6028,1024042,Michael Curtiz
+6029,1024047,Sam Wood
+6032,1024055,Robert Altman
+6033,1024058,Irwin Winkler
+6035,1024062,Russell Mulcahy
+6037,1024066,Jean Negulesco
+6039,1024073,John Farrow
+6041,1024076,William A. Wellman
+6046,1024101,George Sidney
+6050,1024134,William Keighley
+6054,1024147,Frank Capra
+6055,1024149,Charles Walters
+6056,1024184,John Ford
+6057,1024192,Christopher Ray
+6061,1024227,William Wyler
+6063,1024236,Rouben Mamoulian
+6064,1024253,George Cukor
+6066,1024273,Paul Wendkos
+6067,1024275,Lew Landers
+6069,1024294,Jacques Tourneur
+6072,1024305,Jonathan Kaplan
+6073,1024306,Marc Forster
+6074,1024311,Robert Florey
+6076,1024356,Howard Hawks
+6077,1024357,James Foley
+6081,1024411,George Cukor
+6082,1024414,Lamont Johnson
+6085,1024428,Edward Buzzell
+6086,1024430,Paul Mazursky
+6087,1024436,John Ford
+6090,1024463,Delmer Daves
+6092,1024468,Don Siegel
+6094,1024473,Norman Jewison
+6097,1024504,Nick Lyon
+6100,1024529,Jonathan Demme
+6103,1024551,Martin Ritt
+6108,1024577,Ernst Lubitsch
+6110,1024590,Frank Capra
+6111,1024592,Anatole Litvak
+6113,1024596,Billy Wilder
+6114,1024603,Joseph H. Lewis
+6122,1024695,Anthony Mann
+6124,1024728,George Cukor
+6126,1024744,Mitchell Leisen
+6134,1024801,Jacques Tourneur
+6135,1024807,Tod Browning
+6137,1024821,William A. Wellman
+6138,1024853,Arthur Hiller
+6143,1024909,William A. Wellman
+6146,1024930,Roy Rowland
+6147,1024933,W.S. Van Dyke
+6148,1024942,Charles Shyer
+6149,1024948,Burt Gillett
+6150,1024950,Mervyn LeRoy
+6151,1024954,Jerry Lewis
+6152,1024962,Richard Fleischer
+6154,1025001,Martin Ritt
+6155,1025004,Joel Schumacher
+6156,1025006,Donald Petrie
+6157,1025027,John Huston
+6158,1025028,Anatole Litvak
+6159,1025039,George Fitzmaurice
+6161,1025060,Howard Hawks
+6163,1025065,Bruce Beresford
+6164,1025067,Tobe Hooper
+6166,1025085,Elia Kazan
+6167,1025125,Raoul Walsh
+6168,1025129,Allan Dwan
+6170,1025198,Jack Kinney
+6171,1025199,Howard Deutch
+6173,1025210,King Vidor
+6174,1025217,Arthur Hiller
+6175,1025243,Jerry Lewis
+6177,1025257,Mike Newell
+6178,1025259,Otto Preminger
+6186,1025348,George Stevens
+6188,1025366,Les Mayfield
+6192,1025394,William A. Seiter
+6193,1025396,Alan Parker
+6194,1025403,Frank Perry
+6195,1025410,Charles Jarrott
+6196,1025425,Robert Zemeckis
+6196,1025425,Steven Spielberg
+6198,1025433,Samuel Fuller
+6201,1025462,Alan J. Pakula
+6205,1025498,James Bridges
+6209,1025540,Henry King
+6212,1025550,Robert Siodmak
+6214,1025599,Sam Taylor
+6218,1025619,Robert Mulligan
+6219,1025624,W.S. Van Dyke
+6220,1025660,John Moore
+6223,1025675,Arthur Hiller
+6225,1025707,Nick Cassavetes
+6227,1025715,Raoul Walsh
+6228,1025721,Roy William Neill
+6229,1025724,Henry Levin
+6231,1025733,John Frankenheimer
+6235,1025752,Edmund Goulding
+6236,1025760,Ernst Lubitsch
+6237,1025764,Robert Wise
+6239,1025773,Archie Mayo
+6240,1025775,Jacques Tourneur
+6241,1025778,Roger Corman
+6242,1025803,Robert Parrish
+6243,1025807,Fred Schepisi
+6247,1025836,Robert Mulligan
+6249,1025844,Howard Zieff
+6251,1025858,Douglas Sirk
+6254,1025894,Michael Curtiz
+6256,1025901,Archie Mayo
+6257,1025911,Tim Hill
+6266,1025977,Don Siegel
+6267,1025979,Felix E. Feist
+6268,1025980,John Ford
+6270,1026008,Robert Parrish
+6272,1026027,Rob Reiner
+6277,1026049,Norman Tokar
+6284,1026082,Arthur Lubin
+6288,1026107,Tom Gries
+6291,1026123,Frank Borzage
+6292,1026137,Robert Rossen
+6295,1026167,Joseph L. Mankiewicz
+6298,1026202,Joe Dante
+6302,1026231,Burt Kennedy
+6304,1026234,Joel Schumacher
+6306,1026237,Delmer Daves
+6307,1026243,Michael Curtiz
+6308,1026249,Michael Curtiz
+6310,1026264,Larry Cohen
+6311,1026269,Richard Brooks
+6312,1026282,Henry Hathaway
+6314,1026297,Paul Mazursky
+6315,1026302,Rob Reiner
+6316,1026306,Tod Browning
+6320,1026371,Michael Winner
+6322,1026407,Howard Hawks
+6323,1026411,Clarence Brown
+6324,1026412,George Cukor
+6325,1026418,William Keighley
+6327,1026431,Michael Winner
+6328,1026439,Martha Coolidge
+6329,1026446,William Asher
+6330,1026453,Norman Taurog
+6330,1026453,Busby Berkeley
+6332,1026485,Roy William Neill
+6334,1026491,Michael Apted
+6337,1026510,Henry Hathaway
+6338,1026520,William Dieterle
+6339,1026538,John Ford
+6340,1026544,Charles Barton
+6341,1026545,Henry Hathaway
+6345,1026577,Irving Rapper
+6346,1026587,Harry Beaumont
+6348,1026593,Anatole Litvak
+6351,1026605,John Ford
+6352,1026612,John M. Stahl
+6353,1026615,Christopher Ray
+6354,1026621,Howard Hawks
+6354,1026621,William Wyler
+6355,1026626,Sam Liu
+6356,1026635,Alex Zamm
+6361,1026681,Norman Tokar
+6367,1026742,John Badham
+6371,1026779,Edgar G. Ulmer
+6373,1026811,Henry King
+6374,1026813,Budd Boetticher
+6380,1026862,Alex Zamm
+6381,1026877,Stuart Heisler
+6382,1026884,Mark Rydell
+6383,1026892,Roger Corman
+6384,1026897,Mervyn LeRoy
+6386,1026910,Norman Taurog
+6387,1026911,Anthony Mann
+6390,1026926,William Asher
+6393,1026933,Michael Apted
+6394,1026944,Curt Geda
+6395,1026949,Roy William Neill
+6396,1026954,J. Lee Thompson
+6399,1026978,Sidney Poitier
+6401,1026985,Irving Cummings
+6401,1026985,Raoul Walsh
+6402,1027000,John Brahm
+6404,1027019,Don Siegel
+6405,1027031,Peter Hyams
+6406,1027062,Friz Freleng
+6408,1027070,William A. Wellman
+6409,1027073,Josef von Sternberg
+6410,1027083,William A. Wellman
+6413,1027107,Mike Newell
+6416,1027138,Harold Ramis
+6420,1027186,Joseph Ruben
+6421,1027198,Jonathan Lynn
+6424,1027206,John Milius
+6427,1027232,Stephen Frears
+6429,1027239,Otto Preminger
+6430,1027249,Jean Negulesco
+6431,1027254,Phil Karlson
+6432,1027266,Henry Hathaway
+6436,1027291,Delmer Daves
+6438,1027307,Michael Curtiz
+6439,1027308,Alan J. Pakula
+6440,1027314,Ernst Lubitsch
+6447,1027381,Raoul Walsh
+6448,1027418,Robert Rodriguez
+6452,1027449,John Cromwell
+6454,1027458,Roy William Neill
+6455,1027472,Victor Fleming
+6458,1027480,Mervyn LeRoy
+6459,1027492,Don Weis
+6461,1027496,Michael Winner
+6464,1027509,Frank Perry
+6466,1027519,Daniel Petrie
+6468,1027558,William Dieterle
+6469,1027586,Steve Miner
+6470,1027601,Edward F. Cline
+6473,1027633,Wilfred Jackson
+6476,1027663,John Schlesinger
+6479,1027675,Andrew V. McLaglen
+6480,1027685,John Guillermin
+6482,1027691,Larry Cohen
+6483,1027695,Henry Koster
+6488,1027753,Michael Apted
+6489,1027762,Frank Capra
+6492,1027782,Edward F. Cline
+6493,1027783,Michael Winterbottom
+6494,1027794,Tyler Perry
+6495,1027795,Nick Lyon
+6496,1027802,Josef von Sternberg
+6507,1027917,Frank Borzage
+6509,1027942,John Farrow
+6510,1027964,John Sturges
+6511,1027965,Clyde Geronimi
+6513,1028018,Reginald Le Borg
+6515,1028041,Roy Del Ruth
+6516,1028049,Dorothy Arzner
+6517,1028059,Michael Curtiz
+6517,1028059,Busby Berkeley
+6518,1028075,Ben Sharpsteen
+6520,1028098,Lasse Hallström
+6521,1028099,John Cromwell
+6522,1028105,Richard Thorpe
+6524,1028139,Mark Atkins
+6525,1028145,Jack King
+6526,1028150,Jean Yarbrough
+6528,1028172,Charles Vidor
+6530,1028182,Wilfred Jackson
+6537,1028222,Burt Gillett
+6538,1028228,Michael Winterbottom
+6540,1028235,Irving Pichel
+6542,1028240,Paul Schrader
+6545,1028280,Herbert Ross
+6546,1028281,Sydney Pollack
+6552,1028317,Nick Grindé
+6553,1028318,John M. Stahl
+6555,1028335,Blake Edwards
+6558,1028344,Nicholas Ray
+6559,1028349,Charles Shyer
+6560,1028352,Robert Aldrich
+6561,1028368,Robert Aldrich
+6563,1028383,Mervyn LeRoy
+6565,1028386,Howard Deutch
+6566,1028388,Jacques Tourneur
+6567,1028391,Frank Capra
+6568,1028394,John Ford
+6570,1028405,Vincente Minnelli
+6572,1028412,Rudolph Maté
+6573,1028415,Sidney Franklin
+6574,1028416,Jack Arnold
+6575,1028419,John Sturges
+6576,1028443,Michael Curtiz
+6577,1028458,Mike Nichols
+6578,1028459,Fritz Lang
+6579,1028460,Sidney Franklin
+6580,1028461,Phil Karlson
+6584,1028508,Irwin Allen
+6586,1028521,Phil Karlson
+6588,1028537,Curtis Bernhardt
+6590,1028557,Roy William Neill
+6591,1028558,Mervyn LeRoy
+6594,1028581,Curt Geda
+6595,1028582,Henry King
+6596,1028589,Otto Preminger
+6598,1028603,H. C. Potter
+6601,1028618,Leo McCarey
+6603,1028623,Edward Dmytryk
+6605,1028625,Ken Annakin
+6606,1028647,Joshua Logan
+6607,1028655,Edgar G. Ulmer
+6608,1028657,Ralph Nelson
+6612,1028679,Dorothy Arzner
+6613,1028704,Norman Taurog
+6614,1028716,Arthur Hiller
+6616,1028721,Douglas Sirk
+6618,1028738,André de Toth
+6619,1028744,Clarence Brown
+6620,1028756,Gene Saks
+6622,1028765,Michael Curtiz
+6623,1028767,Clarence Brown
+6624,1028778,Frank Tashlin
+6625,1028782,Wesley Ruggles
+6626,1028805,Jack Hannah
+6627,1028810,Norman Taurog
+6628,1028813,Frank Tashlin
+6630,1028819,Jack Conway
+6631,1028831,Ben Sharpsteen
+6632,1028841,Melvin Frank
+6634,1028867,Walt Disney
+6635,1028871,James Algar
+6635,1028871,Clyde Geronimi
+6635,1028871,Jack Kinney
+6635,1028871,H. C. Potter
+6636,1028885,Ken Kwapis
+6637,1028886,Elia Kazan
+6640,1028914,David Hand
+6651,1028976,Reginald Le Borg
+6652,1028977,Ron Shelton
+6653,1028978,George Cukor
+6654,1028987,John Badham
+6662,1029036,Tom Gries
+6663,1029073,Michael Ritchie
+6665,1029079,Robert Clouse
+6666,1029083,Edward F. Cline
+6667,1029084,Blake Edwards
+6668,1029091,Ralph Nelson
+6669,1029092,King Vidor
+6670,1029100,Jack Hannah
+6672,1029124,Kenneth Branagh
+6674,1029130,Rudolph Maté
+6676,1029141,Vincente Minnelli
+6681,1029173,Michael Ritchie
+6682,1029189,Edmund Goulding
+6686,1029208,Paul Mazursky
+6688,1029231,Joseph Pevney
+6689,1029242,Edward L. Cahn
+6692,1029257,Blake Edwards
+6694,1029264,Henry King
+6695,1029272,Victor Fleming
+6700,1029379,Richard Thorpe
+6708,1029482,Mervyn LeRoy
+6709,1029483,D.W. Griffith
+6710,1029490,Irwin Allen
+6714,1029519,Frank Tashlin
+6716,1029565,Burt Kennedy
+6719,1029597,William A. Wellman
+6720,1029601,Michael Winterbottom
+6721,1029606,Jack Arnold
+6723,1029628,Charles Vidor
+6725,1029648,Robert Stevenson
+6728,1029692,Alfred E. Green
+6729,1029702,John Ford
+6730,1029728,Jack Smight
+6731,1029731,Blake Edwards
+6732,1029734,Norman Taurog
+6733,1029762,Norman Jewison
+6734,1029764,Frank Perry
+6735,1029776,Vincent McEveety
+6736,1029780,George Waggner
+6738,1029785,Sidney Lumet
+6743,1029827,Frank Capra
+6745,1029844,Tyler Perry
+6748,1029886,Dorothy Arzner
+6749,1029890,George Roy Hill
+6750,1029898,Gordon Douglas
+6751,1029906,Antoine Fuqua
+6752,1029920,Josef von Sternberg
+6753,1029931,Jean Negulesco
+6754,1029947,Sydney Pollack
+6757,1029954,Vincent Sherman
+6759,1029974,Clarence Brown
+6760,1029980,J. Lee Thompson
+6762,1030004,Frank Tashlin
+6764,1030007,Michael Apted
+6766,1030013,Phil Karlson
+6767,1030023,John Cromwell
+6772,1030046,Fritz Lang
+6773,1030048,King Vidor
+6774,1030051,Norman Taurog
+6776,1030075,Richard Brooks
+6777,1030084,Roger Corman
+6779,1030112,Melville Shavelson
+6782,1030133,William Witney
+6786,1030203,John G. Avildsen
+6788,1030207,Norman Jewison
+6790,1030215,Byron Haskin
+6791,1030223,Michael Gordon
+6792,1030244,Allan Dwan
+6796,1030272,Mike Figgis
+6799,1030290,Phil Karlson
+6800,1030292,Mark Robson
+6801,1030303,Mark L. Lester
+6802,1030314,Jonathan Demme
+6803,1030315,Billy Wilder
+6808,1030332,Russell Mulcahy
+6811,1030351,Tyler Perry
+6812,1030364,William Nigh
+6814,1030375,Vincent Sherman
+6816,1030381,Roger Corman
+6818,1030389,Richard Wallace
+6820,1030407,Charles Jarrott
+6822,1030453,William Nigh
+6823,1030473,William A. Seiter
+6823,1030473,H. Bruce Humberstone
+6823,1030473,Norman Z. McLeod
+6823,1030473,Norman Taurog
+6823,1030473,Ernst Lubitsch
+6824,1030483,Otto Preminger
+6826,1030501,James Foley
+6827,1030547,Peter Yates
+6828,1030548,John Farrow
+6830,1030585,Randal Kleiser
+6831,1030594,Jack Conway
+6833,1030602,Henry Koster
+6834,1030605,Mitchell Leisen
+6835,1030608,Allan Dwan
+6836,1030633,W.S. Van Dyke
+6836,1030633,Robert Z. Leonard
+6839,1030672,Richard Attenborough
+6840,1030675,Robert Mulligan
+6841,1030680,Jack Kinney
+6842,1030682,Mervyn LeRoy
+6843,1030686,Nicholas Ray
+6844,1030688,Michael Curtiz
+6845,1030692,Henry Hathaway
+6847,1030709,Robert Siodmak
+6852,1030757,Vincent Sherman
+6854,1030783,John Sturges
+6855,1030789,Philip Kaufman
+6857,1030798,Michael Apted
+6859,1030827,George Cukor
+6861,1030851,Henry Hathaway
+6862,1030857,William Beaudine
+6863,1030862,Walter Lang
+6866,1030893,William Keighley
+6867,1030899,Herbert Ross
+6871,1030977,Fritz Lang
+6872,1030979,Chuck Jones
+6872,1030979,Friz Freleng
+6874,1031007,Martin Ritt
+6880,1031040,Arthur Hiller
+6881,1031060,Paul Mazursky
+6883,1031072,William Keighley
+6885,1031082,Howard Hawks
+6888,1031104,David Hand
+6889,1031123,Joseph L. Mankiewicz
+6892,1031162,Anatole Litvak
+6893,1031165,Sam Taylor
+6900,1031237,Henry Hathaway
+6901,1031257,Mark Rydell
+6906,1031361,William A. Seiter
+6909,1031398,Samuel Fuller
+6910,1031406,Vincent Sherman
+6911,1031410,Richard Thorpe
+6913,1031420,Sidney J. Furie
+6918,1031452,Howard Hawks
+6921,1031473,Norman Taurog
+6923,1031487,Michael Curtiz
+6924,1031508,Jack Kinney
+6929,1031576,John Ford
+6930,1031604,Martha Coolidge
+6932,1031646,Tom Gries
+6933,1031647,Gordon Douglas
+6935,1031654,Busby Berkeley
+6937,1031672,Mark Rydell
+6938,1031674,Michael Curtiz
+6940,1031687,Burt Gillett
+6942,1031716,Budd Boetticher
+6943,1031727,George Stevens
+6944,1031730,Henry Koster
+6945,1031746,John Sturges
+6946,1031768,Fred Schepisi
+6947,1031776,William Castle
+6949,1031790,Ethan Spaulding
+6950,1031799,Richard Brooks
+6952,1031825,Henry Koster
+6953,1031828,Roy Del Ruth
+6956,1031859,Jerry Schatzberg
+6957,1031860,Roy Del Ruth
+6960,1031886,Jean Yarbrough
+6961,1031929,Jack Smight
+6964,1031976,John Huston
+6970,1032048,Dennis Dugan
+6973,1032070,Vincent McEveety
+6976,1032084,Irwin Winkler
+6980,1032115,Henry Hathaway
+6980,1032115,Howard Hawks
+6980,1032115,Henry King
+6980,1032115,Henry Koster
+6980,1032115,Jean Negulesco
+6981,1032120,Cecil B. DeMille
+6982,1032127,William Wyler
+6984,1032134,Michael Winterbottom
+6986,1032152,Phil Karlson
+6987,1032188,Ken Annakin
+6989,1032219,Jacques Tourneur
+6991,1032236,Clyde Geronimi
+6993,1032249,Gordon Douglas
+6994,1032253,Jerry Lewis
+6995,1032254,Irving Pichel
+7001,1032287,William Witney
+7002,1032288,Mervyn LeRoy
+7003,1032289,Roy William Neill
+7004,1032308,Henry Levin
+7005,1032312,Irvin Kershner
+7008,1032349,Robert Florey
+7009,1032355,Mark Rydell
+7013,1032366,Blake Edwards
+7014,1032367,Ben Sharpsteen
+7016,1032376,John Frankenheimer
+7017,1032378,Edward Dmytryk
+7018,1032384,Robert Benton
+7020,1032434,Charles Walters
+7021,1032451,Anthony Mann
+7024,1032460,John Farrow
+7025,1032463,Stanley Kramer
+7026,1032468,Robert Altman
+7028,1032478,George Fitzmaurice
+7031,1032510,Nicholas Ray
+7034,1032521,Sam Taylor
+7035,1032541,Irving Cummings
+7036,1032559,Howard Hawks
+7037,1032566,Tay Garnett
+7038,1032576,Robert Siodmak
+7039,1032619,Michael Gordon
+7040,1032626,King Vidor
+7045,1032644,William Beaudine
+7046,1032653,Charles Walters
+7047,1032654,James Neilson
+7050,1032693,Henry Koster
+7053,1032741,Jack King
+7054,1032749,Larry Cohen
+7057,1032772,Hamilton Luske
+7060,1032805,Clarence Brown
+7064,1032843,Vincente Minnelli
+7066,1032854,Sidney Poitier
+7067,1032860,Stuart Rosenberg
+7068,1032862,Richard Brooks
+7072,1032883,Michael Curtiz
+7073,1032902,John Guillermin
+7076,1032911,Jack Kinney
+7080,1032955,Richard Quine
+7084,1033010,Frank Borzage
+7085,1033017,Sidney Lumet
+7089,1033083,Cecil B. DeMille
+7093,1033110,William Wyler
+7094,1033112,Frank Borzage
+7095,1033117,Lloyd Bacon
+7096,1033126,William Wyler
+7098,1033172,John Huston
+7099,1033174,Richard Quine
+7100,1033184,Erle C. Kenton
+7102,1033210,Melville Shavelson
+7104,1033234,Elliott Nugent
+7106,1033266,Nathan H. Juran
+7109,1033277,Jack King
+7110,1033291,Samuel Fuller
+7111,1033319,Mark Robson
+7113,1033327,William A. Wellman
+7114,1033329,Norman Taurog
+7115,1033334,Roy Del Ruth
+7118,1033361,Nicholas Ray
+7121,1033383,Allan Dwan
+7125,1033433,David Butler
+7128,1033473,Vincente Minnelli
+7130,1033493,Stuart Heisler
+7136,1033529,Reginald Le Borg
+7138,1033540,John Ford
+7139,1033556,Irwin Allen
+7140,1033578,Felix E. Feist
+7142,1033599,Andrew V. McLaglen
+7143,1033606,Vincent Sherman
+7145,1033611,Norman Tokar
+7147,1033621,Walter Lang
+7148,1033626,Sam Wood
+7151,1033653,James Neilson
+7152,1033655,Edward L. Cahn
+7155,1033662,Charles A. Nichols
+7157,1033737,Richard Linklater
+7160,1033749,Wilfred Jackson
+7162,1033767,Bruce Beresford
+7166,1033790,Jack Conway
+7167,1033798,Robert Clouse
+7171,1033818,Gregory La Cava
+7172,1033828,Les Mayfield
+7173,1033847,Jacques Tourneur
+7174,1033854,Arthur Hiller
+7175,1033857,Roger Michell
+7178,1033887,Robert Mulligan
+7180,1033903,Arthur Hiller
+7184,1033923,John Cromwell
+7187,1033996,Herbert Ross
+7188,1033999,Jack Hannah
+7192,1034031,Robert Wise
+7195,1034059,King Vidor
+7197,1034124,King Vidor
+7199,1034132,Robert Rossen
+7201,1034135,King Vidor
+7203,1034147,John Cromwell
+7204,1034167,H. C. Potter
+7205,1034172,Jean Negulesco
+7206,1034185,Michael Curtiz
+7207,1034188,Andrei Konchalovsky
+7208,1034192,Robert Aldrich
+7209,1034204,Lloyd Bacon
+7213,1034245,John G. Avildsen
+7215,1034289,William A. Wellman
+7216,1034293,Norman Foster
+7221,1034328,George Cukor
+7223,1034363,W.S. Van Dyke
+7224,1034370,Tay Garnett
+7225,1034374,Archie Mayo
+7226,1034381,Arthur Lubin
+7232,1034453,Rudolph Maté
+7233,1034455,Andrew V. McLaglen
+7234,1034468,George Cukor
+7236,1034478,John Frankenheimer
+7238,1034513,Charles Walters
+7241,1034546,Cecil B. DeMille
+7243,1034574,Hal Needham
+7245,1034581,Robert Wise
+7248,1034595,Vincente Minnelli
+7249,1034617,Norman Z. McLeod
+7250,1034625,Jack Kinney
+7251,1034649,Friz Freleng
+7252,1034672,Nicholas Ray
+7255,1034713,Vincent Sherman
+7257,1034721,Mervyn LeRoy
+7268,1034825,Delmer Daves
+7270,1034830,Jean Negulesco
+7270,1034830,Anatole Litvak
+7272,1034853,Arthur Penn
+7273,1034861,Frank Borzage
+7274,1034879,Robert Clouse
+7277,1034927,Allan Dwan
+7278,1034932,Andrew L. Stone
+7282,1034968,Charles Walters
+7283,1035006,Roger Corman
+7286,1035044,George Marshall
+7287,1035060,Anthony Mann
+7288,1035070,Erle C. Kenton
+7292,1035110,Ray Enright
+7296,1035139,Frank Tashlin
+7298,1035152,Robert Stevenson
+7300,1035189,Douglas Sirk
+7303,1035205,George Waggner
+7304,1035219,William Wyler
+7305,1035221,Joseph H. Lewis
+7306,1035222,Lamont Johnson
+7308,1035232,Anthony Mann
+7311,1035265,Vincent Sherman
+7313,1035281,Roy Del Ruth
+7314,1035289,Rouben Mamoulian
+7316,1035301,Paul Wendkos
+7320,1035419,Alfred E. Green
+7321,1035420,Raoul Walsh
+7322,1035427,Jack King
+7324,1035453,John Ford
+7326,1035471,Michael Curtiz
+7328,1035478,Richard Brooks
+7329,1035485,Irving Rapper
+7330,1035496,Nick Lyon
+7331,1035505,Charles Lamont
+7332,1035508,Charlie Chaplin
+7333,1035510,Andrei Konchalovsky
+7340,1035645,Clarence Brown
+7342,1035654,Vincent McEveety
+7344,1035662,Robert Stevenson
+7346,1035669,Jules Dassin
+7348,1035684,Sidney J. Furie
+7349,1035688,Frank Perry
+7351,1035718,Lloyd Bacon
+7353,1035770,Jacques Tourneur
+7354,1035774,Mitchell Leisen
+7355,1035790,Edward Buzzell
+7356,1035797,Robert Florey
+7358,1035838,William Asher
+7360,1035848,Howard Zieff
+7361,1035852,Jonathan Demme
+7361,1035852,Ted Demme
+7362,1035854,Wesley Ruggles
+7363,1035873,William Keighley
+7366,1035881,Felix E. Feist
+7371,1035912,Richard Donner
+7372,1035918,John Brahm
+7373,1035919,Henry Hathaway
+7374,1035934,Lewis Milestone
+7375,1035973,William A. Seiter
+7375,1035973,Gregory La Cava
+7376,1035974,John Farrow
+7377,1035976,Richard Boleslawski
+7378,1035982,Samuel Fuller
+7381,1036002,Clyde Geronimi
+7382,1036011,David Hand
+7383,1036017,Harry Lachman
+7385,1036039,Richard Quine
+7387,1036056,Victor Fleming
+7390,1036122,Daniel Petrie
+7391,1036126,Andrew V. McLaglen
+7394,1036150,Sam Wood
+7395,1036153,Norman Jewison
+7396,1036167,Norman Foster
+7398,1036201,Norman Taurog
+7399,1036205,Barry Levinson
+7400,1036208,Mervyn LeRoy
+7401,1036247,Roy Del Ruth
+7402,1036255,Jack King
+7403,1036264,Charles Vidor
+7405,1036288,Allan Dwan
+7407,1036300,Richard Thorpe
+7409,1036310,William Keighley
+7411,1036320,Elia Kazan
+7412,1036340,Michael Curtiz
+7413,1036345,John M. Stahl
+7414,1036367,Arthur Penn
+7415,1036368,Fred Zinnemann
+7416,1036371,Josef von Sternberg
+7417,1036372,Roger Corman
+7418,1036385,William Dieterle
+7422,1036446,Edmund Goulding
+7423,1036450,Gregory La Cava
+7429,1036523,Robert Stevenson
+7430,1036524,William Witney
+7432,1036562,H. Bruce Humberstone
+7433,1036567,Wesley Ruggles
+7434,1036575,Richard Quine
+7435,1036584,Edward Dmytryk
+7438,1036616,Delmer Daves
+7439,1036620,Peter Yates
+7440,1036625,William Dieterle
+7441,1036627,Richard Fleischer
+7443,1036652,Joseph L. Mankiewicz
+7444,1036673,King Vidor
+7446,1036678,Richard Benjamin
+7447,1036688,Wilfred Jackson
+7448,1036706,Ron Shelton
+7450,1036712,Stanley Kramer
+7451,1036714,John G. Avildsen
+7452,1036716,Anthony Mann
+7454,1036750,Irving Pichel
+7455,1036757,Charles A. Nichols
+7457,1036813,Lloyd Bacon
+7459,1036832,H. C. Potter
+7461,1036851,Douglas Sirk
+7463,1036865,Raoul Walsh
+7465,1036880,Wes Craven
+7467,1036902,Frank Tashlin
+7469,1036920,Harold Ramis
+7470,1036922,Ted Kotcheff
+7471,1036924,Preston Sturges
+7474,1037025,Franklin J. Schaffner
+7475,1037090,Michael Winterbottom
+7476,1037110,J. Lee Thompson
+7479,1037150,Leo McCarey
+7480,1037164,Gregory La Cava
+7482,1037210,Michael Schultz
+7485,1037237,Blake Edwards
+7486,1037255,Jack Kinney
+7488,1037291,Sam Wood
+7492,1037322,Reginald Le Borg
+7494,1037338,Chris Columbus
+7495,1037343,Mitchell Leisen
+7499,1037380,Fred Zinnemann
+7500,1037391,Jonathan Lynn
+7501,1037415,George Cukor
+7503,1037460,Chuck Jones
+7503,1037460,Friz Freleng
+7505,1037489,Charles Barton
+7506,1037492,Richard Thorpe
+7509,1037553,Andrew V. McLaglen
+7511,1037580,George Marshall
+7511,1037580,S. Sylvan Simon
+7515,1037603,Richard Wallace
+7516,1037605,Vincent Sherman
+7518,1037617,André de Toth
+7519,1037623,Martin Ritt
+7520,1037645,Henry King
+7522,1037666,Robert Wise
+7524,1037679,James Goldstone
+7526,1037701,Robert Siodmak
+7527,1037705,Raoul Walsh
+7529,1037711,Richard Boleslawski
+7529,1037711,Dorothy Arzner
+7529,1037711,George Fitzmaurice
+7531,1037733,Edward Dmytryk
+7532,1037734,J. Lee Thompson
+7533,1037757,Burt Kennedy
+7535,1037815,George Cukor
+7536,1037838,Sidney Poitier
+7537,1037842,Andrew V. McLaglen
+7538,1037853,William A. Seiter
+7540,1037869,Michael Schultz
+7541,1037870,Robert Wise
+7543,1037919,Ralph Nelson
+7544,1037921,Don Chaffey
+7547,1037936,Lasse Hallström
+7548,1037954,William Dieterle
+7550,1037962,Curtis Bernhardt
+7552,1037992,David Butler
+7553,1037998,Jerry Schatzberg
+7554,1038007,Elia Kazan
+7556,1038021,George Marshall
+7567,1038164,Vincent Sherman
+7569,1038175,Peter Chelsom
+7570,1038183,Joseph Pevney
+7572,1038193,Edward L. Cahn
+7573,1038201,Clyde Geronimi
+7574,1038203,Robert Stevenson
+7576,1038223,Vincente Minnelli
+7577,1038230,Frank Borzage
+7578,1038241,Jack Kinney
+7579,1038243,Jerry Schatzberg
+7580,1038247,Howard Hawks
+7581,1038254,Charles Jarrott
+7582,1038259,Busby Berkeley
+7583,1038262,Felix E. Feist
+7585,1038278,Jack King
+7587,1038285,Jean Yarbrough
+7588,1038286,Walt Disney
+7593,1038316,Howard Zieff
+7594,1038317,Tay Garnett
+7597,1038325,Ray Enright
+7601,1038356,Walter Lang
+7602,1038380,George Waggner
+7604,1038410,James Neilson
+7605,1038416,Jack Hannah
+7609,1038441,George Stevens
+7610,1038443,Richard Benjamin
+7611,1038448,George Stevens
+7613,1038458,John Sturges
+7614,1038477,Paul Mazursky
+7617,1038492,Nick Grindé
+7618,1038544,Jay Roach
+7619,1038549,Mitchell Leisen
+7620,1038556,Bob Clark
+7621,1038572,Gordon Douglas
+7622,1038591,David Butler
+7624,1038623,Vincente Minnelli
+7627,1038639,Martha Coolidge
+7631,1038677,Mark Sandrich
+7632,1038684,Michael Apted
+7636,1038720,Robert Z. Leonard
+7637,1038726,Robert Parrish
+7638,1038734,Henry Koster
+7639,1038755,William Dieterle
+7642,1038788,Allan Dwan
+7643,1038789,George Sherman
+7644,1038796,John Schlesinger
+7646,1038813,Stanley Donen
+7647,1038815,John Frankenheimer
+7648,1038825,Ethan Spaulding
+7650,1038841,Jean Yarbrough
+7651,1038850,Joseph Pevney
+7652,1038862,Don Taylor
+7653,1038879,Norman Z. McLeod
+7654,1038880,H. C. Potter
+7655,1038887,Busby Berkeley
+7656,1038893,Henry King
+7658,1038903,Blake Edwards
+7659,1038907,Charles A. Nichols
+7660,1038915,Anatole Litvak
+7662,1038920,Henry Koster
+7663,1038924,Andrew V. McLaglen
+7664,1038929,Jack Hannah
+7667,1038948,John M. Stahl
+7668,1038970,Henry Levin
+7669,1038977,Edmund Goulding
+7672,1039014,A. Edward Sutherland
+7673,1039017,Fred Schepisi
+7675,1039023,William Witney
+7676,1039032,Don Siegel
+7678,1039077,George Roy Hill
+7679,1039113,William Dieterle
+7680,1039116,Raoul Walsh
+7681,1039119,Jack Hannah
+7682,1039120,Henry Hathaway
+7684,1039138,Robert Florey
+7687,1039164,D.W. Griffith
+7688,1039166,Christopher Ray
+7689,1039168,Delmer Daves
+7693,1039207,Stuart Heisler
+7694,1039258,Edmund Goulding
+7697,1039306,Howard Hawks
+7699,1039312,Harold Becker
+7701,1039343,Richard Fleischer
+7702,1039363,Rouben Mamoulian
+7705,1039384,William Asher
+7706,1039387,Mervyn LeRoy
+7710,1039431,Alfred E. Green
+7711,1039452,Jack Hannah
+7712,1039456,Stuart Rosenberg
+7713,1039465,Tod Browning
+7717,1039531,Cecil B. DeMille
+7719,1039564,Roger Corman
+7722,1039588,Leo McCarey
+7726,1039618,Lewis Seiler
+7728,1039639,Jared Cohn
+7729,1039641,André de Toth
+7733,1039705,Wilfred Jackson
+7734,1039735,Edward Ludwig
+7737,1039765,James Goldstone
+7738,1039770,A. Edward Sutherland
+7739,1039775,Henry Hathaway
+7740,1039778,Howard Zieff
+7741,1039796,Robert Stevenson
+7750,1039874,William A. Wellman
+7753,1039914,Archie Mayo
+7754,1039917,John Frankenheimer
+7756,1039924,Henry King
+7759,1039965,George Sidney
+7760,1039967,Wolfgang Reitherman
+7764,1039997,Lloyd Bacon
+7767,1040061,Stuart Heisler
+7768,1040068,John Schlesinger
+7770,1040097,George Marshall
+7773,1040120,John Sturges
+7774,1040128,Friz Freleng
+7774,1040128,Chuck Jones
+7775,1040131,John Ford
+7778,1040172,James Whale
+7779,1040176,David Butler
+7780,1040198,John Sturges
+7781,1040200,Ralph Bakshi
+7783,1040235,Martin Ritt
+7788,1040312,Robert Altman
+7789,1040322,Mark L. Lester
+7793,1040363,Jack Hannah
+7794,1040369,Martha Coolidge
+7796,1040374,David Butler
+7797,1040378,Michael Schultz
+7798,1040396,Michael Curtiz
+7799,1040403,Richard Brooks
+7800,1040404,John Cromwell
+7801,1040408,Norman Taurog
+7802,1040414,William Beaudine
+7807,1040482,Sidney J. Furie
+7808,1040485,Stuart Heisler
+7809,1040503,Curtis Bernhardt
+7810,1040518,D.W. Griffith
+7812,1040529,Joseph Sargent
+7815,1040565,William Dieterle
+7820,1040620,Peter Yates
+7821,1040628,Michael Apted
+7823,1040641,George Cukor
+7824,1040646,Tyler Perry
+7827,1040665,Stephen Frears
+7830,1040782,John Badham
+7833,1040849,Michael Curtiz
+7834,1040869,Lew Landers
+7842,1040949,Richard Quine
+7843,1040954,Allan Dwan
+7846,1040992,Mark Atkins
+7848,1041010,Robert Mulligan
+7851,1041036,Robert Mulligan
+7853,1041074,John Ford
+7854,1041102,Richard Lester
+7856,1041115,John Ford
+7857,1041124,Franklin J. Schaffner
+7859,1041182,James Algar
+7860,1041189,André de Toth
+7862,1041210,Jack Conway
+7866,1041240,Garry Marshall
+7867,1041257,Edward F. Cline
+7867,1041257,George Marshall
+7869,1041272,Anthony Mann
+7870,1041284,Lloyd Bacon
+7871,1041295,Don Siegel
+7872,1041319,Robert Z. Leonard
+7873,1041326,Lloyd Bacon
+7874,1041327,Sidney J. Furie
+7875,1041356,Richard Lester
+7876,1041371,Irving Rapper
+7877,1041377,Charles Walters
+7882,1041428,Otto Preminger
+7882,1041428,Ernst Lubitsch
+7883,1041448,Sidney Franklin
+7884,1041478,Charles Jarrott
+7886,1041498,Arthur Hiller
+7893,1041592,Jack King
+7894,1041596,Harry Beaumont
+7895,1041604,Archie Mayo
+7896,1041606,Jack Hannah
+7898,1041619,Herbert Ross
+7899,1041625,Lloyd Bacon
+7900,1041649,Roger Corman
+7904,1041683,Frank Tashlin
+7907,1041720,William Witney
+7909,1041763,William Castle
+7910,1041764,Don Siegel
+7912,1041786,Howard Hawks
+7913,1041792,Darren Lynn Bousman
+7916,1041819,Bob Rafelson
+7917,1041832,Lewis Milestone
+7921,1041882,Jacques Tourneur
+7923,1041903,William Dieterle
+7924,1041907,Victor Fleming
+7925,1041915,John Boorman
+7926,1041916,Henry Hathaway
+7928,1041928,Otto Preminger
+7930,1041993,James Goldstone
+7931,1042005,Mitchell Leisen
+7933,1042019,James Bridges
+7934,1042037,Donald Petrie
+7936,1042045,Jack King
+7938,1042070,Frank Borzage
+7941,1042106,Joseph Pevney
+7943,1042117,George Fitzmaurice
+7946,1042142,William Castle
+7948,1042165,Charles Walters
+7949,1042171,Raoul Walsh
+7950,1042187,Norman Taurog
+7951,1042200,Reginald Le Borg
+7957,1042261,Norman Foster
+7958,1042264,George Sherman
+7962,1042300,Edward Dmytryk
+7963,1042326,Irving Reis
+7964,1042331,Randal Kleiser
+7965,1042341,George Marshall
+7967,1042355,Charles Vidor
+7972,1042389,Richard Thorpe
+7973,1042415,Andrew L. Stone
+7977,1042435,Robert Aldrich
+7978,1042447,Charles Vidor
+7979,1042470,John Sturges
+7980,1042484,George Sherman
+7981,1042485,Gordon Douglas
+7983,1042515,Mark Rydell
+7987,1042549,Peter Yates
+7988,1042584,Richard Boleslawski
+7989,1042587,Irvin Kershner
+7991,1042593,Anatole Litvak
+7992,1042596,Otto Preminger
+7993,1042599,Edwin L. Marin
+7994,1042600,Anthony Mann
+7995,1042606,Sidney J. Furie
+7996,1042608,Roger Corman
+7997,1042612,Lloyd Bacon
+7998,1042628,Norman Taurog
+7999,1042629,Michael Curtiz
+8004,1042644,Cecil B. DeMille
+8005,1042665,Henry King
+8006,1042668,Andrew V. McLaglen
+8007,1042683,Jack Hannah
+8008,1042689,Martin Ritt
+8012,1042751,John Brahm
+8013,1042756,Jean Negulesco
+8015,1042766,Blake Edwards
+8018,1042785,Henry King
+8019,1042790,Don Chaffey
+8020,1042804,George Roy Hill
+8021,1042807,Roger Corman
+8025,1042851,Jack Conway
+8027,1042857,Roy Del Ruth
+8028,1042868,Cecil B. DeMille
+8032,1042901,H. C. Potter
+8038,1043004,Preston Sturges
+8040,1043025,William Dieterle
+8041,1043059,Vincente Minnelli
+8043,1043067,Robert Altman
+8044,1043089,Budd Boetticher
+8045,1043114,Jerry Lewis
+8046,1043120,Don Weis
+8050,1043171,Wilfred Jackson
+8052,1043236,Alexander Hall
+8053,1043243,David Butler
+8055,1043258,Martin Ritt
+8056,1043264,Robert Aldrich
+8058,1043284,John Ford
+8059,1043301,Charles Jarrott
+8060,1043303,Alan Parker
+8061,1043309,Fred Zinnemann
+8062,1043346,Spike Lee
+8063,1043371,Tay Garnett
+8064,1043389,Charles A. Nichols
+8065,1043400,Michael Curtiz
+8067,1043421,Henry Koster
+8070,1043431,Jack Hannah
+8071,1043446,W.S. Van Dyke
+8072,1043470,Joseph Pevney
+8077,1043516,Nick Cassavetes
+8081,1043564,Andrew V. McLaglen
+8082,1043569,Mark L. Lester
+8084,1043610,Clarence Brown
+8085,1043630,Tay Garnett
+8088,1043684,Edward Dmytryk
+8089,1043720,Frank Lloyd
+8091,1043731,Jack Conway
+8097,1043824,Tod Browning
+8099,1043847,Victor Saville
+8100,1043848,Victor Fleming
+8101,1043862,Ted Demme
+8102,1043894,André de Toth
+8103,1043918,Alexander Hall
+8104,1043923,Bruce Beresford
+8105,1043933,Walt Disney
+8106,1043944,Henry Levin
+8106,1043944,Gordon Douglas
+8107,1043977,Mervyn LeRoy
+8108,1043982,Jack Conway
+8109,1043995,Michael Schultz
+8110,1043998,Philip Kaufman
+8111,1044008,Richard Fleischer
+8112,1044010,Frank Borzage
+8114,1044046,Curtis Bernhardt
+8115,1044073,William Dieterle
+8116,1044080,Michael Curtiz
+8119,1044103,Jack Conway
+8122,1044128,Lloyd Bacon
+8125,1044153,Vincente Minnelli
+8130,1044218,Jack King
+8134,1044283,John Sturges
+8136,1044290,Stuart Heisler
+8138,1044292,Edward Ludwig
+8139,1044305,Dorothy Arzner
+8144,1044337,Edward Buzzell
+8146,1044362,Michael Curtiz
+8147,1044367,David Butler
+8148,1044419,Charles A. Nichols
+8149,1044423,Harry Lachman
+8150,1044426,Andrew L. Stone
+8154,1044466,Bruce Beresford
+8155,1044476,Jack Hannah
+8158,1044523,Frank McDonald
+8159,1044530,Joe Dante
+8161,1044570,William Asher
+8162,1044579,Andrew L. Stone
+8163,1044617,Robert Wise
+8164,1044632,Gordon Douglas
+8165,1044657,Peter Bogdanovich
+8167,1044677,Henry Levin
+8170,1044699,James Neilson
+8171,1044702,Michael Winner
+8176,1044769,Gordon Douglas
+8179,1044792,Irwin Allen
+8180,1044793,Alfred E. Green
+8185,1044838,Ernest R. Dickerson
+8188,1044906,William A. Wellman
+8189,1044910,Lewis Milestone
+8194,1044965,George Marshall
+8196,1044970,Delmer Daves
+8198,1044977,John Boorman
+8199,1044991,Robert Stevenson
+8200,1044992,Norman Tokar
+8201,1044993,Burt Gillett
+8205,1045029,George Sidney
+8206,1045033,Charles Walters
+8208,1045063,Henry Koster
+8209,1045067,Raoul Walsh
+8210,1045075,Edmund Goulding
+8211,1045098,Jack Hannah
+8212,1045102,Tay Garnett
+8214,1045109,Robert Aldrich
+8215,1045122,Henry Hathaway
+8217,1045154,Irving Rapper
+8218,1045157,William Nigh
+8219,1045159,Clarence Brown
+8220,1045160,Spike Lee
+8221,1045173,Jack Conway
+8222,1045177,William A. Wellman
+8226,1045263,Budd Boetticher
+8227,1045273,Andrew L. Stone
+8232,1045393,Clyde Geronimi
+8234,1045427,Lamont Johnson
+8237,1045438,Vincent Sherman
+8239,1045448,Roy Del Ruth
+8240,1045450,John Huston
+8241,1045456,Michael Gordon
+8245,1045500,George Cukor
+8246,1045533,James Neilson
+8247,1045550,Charles A. Nichols
+8248,1045552,Rouben Mamoulian
+8249,1045568,Joe Dante
+8250,1045571,Richard Fleischer
+8251,1045576,Henry Hathaway
+8253,1045589,William Dieterle
+8254,1045598,Henry Levin
+8255,1045600,Ernst Lubitsch
+8255,1045600,Otto Preminger
+8256,1045609,Henry King
+8259,1045634,Archie Mayo
+8260,1045653,Jared Cohn
+8261,1045657,George Marshall
+8262,1045668,Henry Hathaway
+8263,1045674,David Butler
+8264,1045675,Henry Levin
+8266,1045688,Phillip Noyce
+8268,1045734,Arthur Lubin
+8270,1045747,Michael Gordon
+8271,1045755,Vincente Minnelli
+8272,1045761,Jack Conway
+8273,1045768,Roy Rowland
+8275,1045820,Sidney J. Furie
+8277,1045840,Harry Beaumont
+8279,1045885,Jean Negulesco
+8280,1045886,Charles A. Nichols
+8281,1045912,William Keighley
+8285,1045937,Tay Garnett
+8290,1046014,Gordon Douglas
+8291,1046041,Byron Haskin
+8292,1046051,Walter Lang
+8294,1046082,Jack Hannah
+8298,1046121,Richard Lester
+8299,1046124,Edward Dmytryk
+8301,1046148,Jonathan Kaplan
+8302,1046151,Richard Fleischer
+8304,1046166,George Sidney
+8305,1046167,Gordon Douglas
+8307,1046278,John Frankenheimer
+8309,1046312,Charles A. Nichols
+8311,1046328,Carl Reiner
+8316,1046354,Irving Rapper
+8320,1046380,Cecil B. DeMille
+8321,1046393,Tod Browning
+8323,1046409,David Hand
+8328,1046438,Don Siegel
+8330,1046457,Frank Borzage
+8333,1046500,George Cukor
+8335,1046509,Allan Dwan
+8336,1046514,Henry Levin
+8337,1046528,Roger Corman
+8338,1046549,Curtis Bernhardt
+8343,1046589,Douglas Sirk
+8344,1046603,Raoul Walsh
+8345,1046604,Wesley Ruggles
+8347,1046633,Raoul Walsh
+8349,1046679,Jack Arnold
+8350,1046687,Edward Dmytryk
+8352,1046695,Herbert Ross
+8353,1046697,Mike Figgis
+8354,1046702,Henry Koster
+8355,1046706,James Foley
+8356,1046715,Lamont Johnson
+8359,1046802,Daniel Petrie
+8361,1046818,Anthony Mann
+8364,1046875,Curtis Bernhardt
+8366,1046898,Ron Howard
+8367,1046910,Howard Hawks
+8370,1046931,Martin Ritt
+8372,1046987,Charles A. Nichols
+8373,1046999,Robert Wise
+8374,1047001,John Ford
+8377,1047038,Raoul Walsh
+8379,1047068,John Guillermin
+8380,1047069,Alan J. Pakula
+8383,1047112,King Vidor
+8384,1047128,Nick Lyon
+8385,1047175,James Whale
+8386,1047179,Tay Garnett
+8387,1047182,W.S. Van Dyke
+8389,1047239,Gordon Douglas
+8391,1047253,Melville Shavelson
+8392,1047264,David Butler
+8394,1047276,Roy Rowland
+8396,1047297,Irvin Kershner
+8397,1047298,Jack Smight
+8398,1047299,Fred Zinnemann
+8400,1047311,William Witney
+8401,1047319,Rob Cohen
+8402,1047355,Jack Arnold
+8404,1047357,John Brahm
+8406,1047371,John Badham
+8407,1047380,Preston Sturges
+8408,1047411,Mervyn LeRoy
+8409,1047429,William A. Wellman
+8410,1047442,Martha Coolidge
+8412,1047461,Franklin J. Schaffner
+8413,1047464,Edward Ludwig
+8415,1047483,Robert Parrish
+8416,1047487,Michael Curtiz
+8419,1047525,Victor Saville
+8422,1047568,Robert Florey
+8426,1047640,Bob Clark
+8428,1047670,John Ford
+8432,1047707,D.W. Griffith
+8436,1047781,Henry Hathaway
+8437,1047782,John Ford
+8438,1047819,Richard Boleslawski
+8439,1047834,Don Siegel
+8440,1047842,Ken Annakin
+8442,1047864,Frank Borzage
+8443,1047881,Byron Haskin
+8444,1047882,Raoul Walsh
+8445,1047894,Edwin L. Marin
+8446,1047895,Raoul Walsh
+8447,1047910,Mark Atkins
+8448,1047913,John Guillermin
+8453,1047989,John Ford
+8455,1048010,James Goldstone
+8459,1048047,Charlie Chaplin
+8461,1048070,Edward Sedgwick
+8462,1048075,Jack Kinney
+8465,1048149,Walt Disney
+8471,1048229,Bob Clark
+8475,1048317,Norman Z. McLeod
+8476,1048318,Frank Borzage
+8479,1048362,Sidney Poitier
+8480,1048364,André de Toth
+8481,1048376,Robert Mulligan
+8482,1048378,Howard Hawks
+8483,1048410,Norman Z. McLeod
+8483,1048410,Busby Berkeley
+8484,1048440,John Sturges
+8485,1048453,Don Weis
+8486,1048462,Michael Curtiz
+8488,1048484,Stanley Kramer
+8491,1048522,Raoul Walsh
+8493,1048563,William A. Seiter
+8494,1048604,Clarence Brown
+8495,1048622,Nick Grindé
+8497,1048686,Lewis Milestone
+8500,1048718,Norman Taurog
+8502,1048731,Roger Spottiswoode
+8509,1048784,Mervyn LeRoy
+8510,1048789,Paul Mazursky
+8511,1048807,Roger Corman
+8513,1048835,John Sturges
+8514,1048867,Stanley Donen
+8516,1048885,Lewis Seiler
+8519,1048935,Roy Del Ruth
+8522,1048988,Joseph H. Lewis
+8523,1048994,Gordon Douglas
+8524,1048998,Richard Thorpe
+8525,1049006,Vincent McEveety
+8526,1049015,Victor Fleming
+8527,1049049,Irving Reis
+8529,1049056,A. Edward Sutherland
+8530,1049105,Frank Borzage
+8534,1049158,William Nigh
+8537,1049210,Richard Thorpe
+8541,1049252,Richard Boleslawski
+8541,1049252,Allan Dwan
+8541,1049252,Edmund Goulding
+8541,1049252,Roy Rowland
+8541,1049252,George Stevens
+8541,1049252,Sam Wood
+8543,1049275,Lewis Seiler
+8544,1049290,Lloyd Bacon
+8545,1049311,Mitchell Leisen
+8548,1049383,Richard Thorpe
+8549,1049418,Charles A. Nichols
+8550,1049421,Michael Curtiz
+8552,1049431,Michael Curtiz
+8555,1049456,John Ford
+8558,1049491,Burt Gillett
+8560,1049536,Gregory La Cava
+8561,1049541,Sidney Lumet
+8562,1049560,Victor Saville
+8565,1049624,William Castle
+8567,1049635,George Cukor
+8569,1049656,George Cukor
+8571,1049680,Budd Boetticher
+8573,1049739,William Castle
+8574,1049747,Ken Annakin
+8576,1049762,Clarence Brown
+8577,1049765,Jean Negulesco
+8578,1049778,William Nigh
+8582,1049844,William Dieterle
+8583,1049891,Roy William Neill
+8584,1049906,J. Lee Thompson
+8590,1049985,John Brahm
+8592,1049990,Joseph H. Lewis
+8594,1050011,Blake Edwards
+8598,1050033,Douglas Sirk
+8600,1050049,William Dieterle
+8602,1050063,Carl Reiner
+8603,1050072,Christopher Ray
+8613,1050156,Charles A. Nichols
+8614,1050177,Robert Stevenson
+8615,1050220,Henry Koster
+8617,1050246,Mike Newell
+8619,1050289,King Vidor
+8621,1050309,Richard Thorpe
+8622,1050332,W.S. Van Dyke
+8624,1050356,Rudolph Maté
+8625,1050360,Clyde Geronimi
+8627,1050377,Blake Edwards
+8629,1050394,Lew Landers
+8632,1050421,Raoul Walsh
+8633,1050422,Michael Curtiz
+8634,1050429,Roy Rowland
+8635,1050432,Alfred E. Green
+8640,1050472,William Beaudine
+8644,1050513,George Stevens
+8645,1050534,Sam Wood
+8650,1050581,Douglas Sirk
+8651,1050604,Irving Cummings
+8653,1050630,Don Siegel
+8654,1050683,Sam Wood
+8656,1050799,Nicholas Ray
+8657,1050810,Robert Rossen
+8658,1050822,Edmund Goulding
+8662,1050856,Felix E. Feist
+8663,1050902,Clarence Brown
+8664,1050907,Victor Fleming
+8665,1050911,Fred Schepisi
+8666,1050922,William Clemens
+8667,1050933,W.S. Van Dyke
+8672,1050997,William Asher
+8673,1051017,Irvin Kershner
+8678,1051071,Lloyd Bacon
+8680,1051093,Richard Fleischer
+8681,1051101,Elliott Nugent
+8683,1051153,Tom Gries
+8684,1051176,Sidney Lumet
+8685,1051205,Fritz Lang
+8686,1051217,Douglas Sirk
+8687,1051267,Mitchell Leisen
+8688,1051273,Christopher Ray
+8689,1051276,Andrew L. Stone
+8690,1051284,Charles Walters
+8691,1051305,Wesley Ruggles
+8693,1051340,Hamilton Luske
+8695,1051371,John Huston
+8698,1051392,Leo McCarey
+8699,1051395,Roy Rowland
+8702,1051409,Charles A. Nichols
+8705,1051442,Delmer Daves
+8706,1051490,John M. Stahl
+8708,1051495,Edward Ludwig
+8709,1051504,Robert Z. Leonard
+8713,1051548,Raoul Walsh
+8714,1051565,Edward L. Cahn
+8715,1051581,Charles Lamont
+8718,1051613,Jules Dassin
+8719,1051614,George Sidney
+8720,1051644,John Cromwell
+8721,1051646,Michael Curtiz
+8722,1051670,Frank Lloyd
+8724,1051706,Edward Sedgwick
+8727,1051736,Clarence Brown
+8729,1051746,Edward Dmytryk
+8732,1051763,Reginald Le Borg
+8733,1051764,Richard Brooks
+8736,1051789,Frank Perry
+8738,1051795,Jack Conway
+8739,1051806,Norman Taurog
+8740,1051811,Lloyd Bacon
+8741,1051819,Roy William Neill
+8742,1051837,Andrei Konchalovsky
+8746,1051857,Jules White
+8747,1051871,Taylor Hackford
+8748,1051877,Raoul Walsh
+8752,1051952,John Schlesinger
+8754,1052023,Arthur Lubin
+8755,1052034,John Ford
+8756,1052046,Clarence Brown
+8758,1052086,John Farrow
+8760,1052105,Robert Stevenson
+8761,1052106,King Vidor
+8763,1052164,Mitchell Leisen
+8764,1052166,William Keighley
+8765,1052172,Otto Preminger
+8766,1052173,George Cukor
+8767,1052191,Paul Wendkos
+8772,1052281,Andrei Konchalovsky
+8777,1052345,George Sidney
+8779,1052367,Don Chaffey
+8780,1052380,William Keighley
+8785,1052474,Paul Wendkos
+8787,1052533,Franklin J. Schaffner
+8791,1052566,William Witney
+8792,1052571,Richard Wallace
+8794,1052636,Gene Saks
+8797,1052676,David Hand
+8798,1052682,Peter Hyams
+8801,1052739,Richard Fleischer
+8803,1052747,Stanley Kramer
+8804,1052755,Andrew V. McLaglen
+8807,1052795,Gordon Douglas
+8810,1052860,Erle C. Kenton
+8812,1052874,Roy Rowland
+8815,1052929,John Sturges
+8817,1052936,Jules Dassin
+8818,1052940,Walter Lang
+8819,1052942,Joseph Ruben
+8820,1052989,Charles A. Nichols
+8821,1052999,W.S. Van Dyke
+8822,1053012,George Cukor
+8823,1053018,Joseph H. Lewis
+8824,1053020,Norman Taurog
+8825,1053029,Henry Hathaway
+8828,1053063,Robert Florey
+8831,1053115,Edmund Goulding
+8835,1053150,Harry Beaumont
+8836,1053156,James Algar
+8838,1053176,Richard Thorpe
+8841,1053196,Henry Levin
+8842,1053218,Mitchell Leisen
+8843,1053222,Nick Grindé
+8844,1053231,Henry Hathaway
+8845,1053232,Irving Cummings
+8846,1053240,Don Siegel
+8849,1053265,J. Lee Thompson
+8850,1053268,Michael Curtiz
+8851,1053275,John Ford
+8852,1053290,William Beaudine
+8855,1053355,Ben Sharpsteen
+8858,1053391,Richard Fleischer
+8859,1053396,Mark Robson
+8863,1053422,D.W. Griffith
+8864,1053439,Jerry Schatzberg
+8866,1053452,Douglas Sirk
+8869,1053503,Richard Brooks
+8871,1053544,Lewis Seiler
+8873,1053553,Norman Taurog
+8875,1053572,Don Chaffey
+8876,1053663,Norman Taurog
+8877,1053674,Robert Parrish
+8879,1053698,Bruce Beresford
+8881,1053727,Phil Karlson
+8883,1053742,Michael Curtiz
+8888,1053807,Edward Zwick
+8890,1053816,André de Toth
+8891,1053827,Norman Tokar
+8894,1053848,Raoul Walsh
+8896,1053876,David Butler
+8897,1053906,S. Sylvan Simon
+8899,1053923,William A. Wellman
+8900,1053925,Cecil B. DeMille
+8901,1053954,Jean Negulesco
+8902,1053959,Archie Mayo
+8903,1053964,Robert Z. Leonard
+8904,1053990,Roy Del Ruth
+8909,1054126,Mark Robson
+8911,1054143,Vincent McEveety
+8916,1054231,Richard Quine
+8917,1054250,Jared Cohn
+8918,1054251,Nick Lyon
+8919,1054284,Edward Sedgwick
+8922,1054294,John Ford
+8924,1054315,Alexander Hall
+8925,1054329,Alex Zamm
+8926,1054338,Jared Cohn
+8929,1054362,George Cukor
+8930,1054363,Frank Borzage
+8931,1054387,Stuart Heisler
+8933,1054456,Mitchell Leisen
+8935,1054488,Jean Negulesco
+8936,1054502,Ted Kotcheff
+8938,1054560,John Cromwell
+8941,1054605,Phillip Noyce
+8944,1054631,Richard Boleslawski
+8945,1054638,Anatole Litvak
+8946,1054679,Ralph Nelson
+8948,1054709,William A. Seiter
+8949,1054724,Edwin L. Marin
+8950,1054731,Raoul Walsh
+8950,1054731,Alfred L. Werker
+8951,1054752,Jack Hannah
+8954,1054828,William Castle
+8957,1054849,George Sidney
+8962,1054880,Edwin L. Marin
+8963,1054888,David Butler
+8964,1054925,Charles Barton
+8965,1054940,H. C. Potter
+8967,1054993,Jack Hannah
+8969,1055039,Richard Thorpe
+8970,1055041,Roy Rowland
+8971,1055042,Robert Wise
+8973,1055049,Howard Zieff
+8975,1055090,Arthur Lubin
+8980,1055141,J. Lee Thompson
+8981,1055145,Sidney Franklin
+8983,1055210,Jonathan Kaplan
+8984,1055215,King Vidor
+8986,1055254,William Castle
+8987,1055266,Jean Yarbrough
+8990,1055296,Melville Shavelson
+8991,1055301,John Madden
+8994,1055378,Jules Dassin
+8998,1055475,Allan Dwan
+8999,1055487,Gregory La Cava
+9003,1055545,Henry King
+9005,1055590,Richard Thorpe
+9007,1055642,Gregory La Cava
+9008,1055653,William A. Wellman
+9012,1055688,Don Siegel
+9014,1055705,Nick Grindé
+9016,1055728,Richard Fleischer
+9025,1055905,Raoul Walsh
+9026,1055921,André de Toth
+9030,1055980,David Butler
+9031,1056018,Alfred L. Werker
+9034,1056056,Clarence Brown
+9036,1056081,Frank Capra
+9037,1056090,Jack King
+9038,1056105,William Witney
+9039,1056123,Joseph Pevney
+9043,1056215,Bryan Singer
+9047,1056244,W.S. Van Dyke
+9050,1056300,Charles Lamont
+9051,1056302,Raoul Walsh
+9052,1056326,Richard Wallace
+9053,1056332,Charles Jarrott
+9060,1056462,Michael Gordon
+9062,1056475,Erle C. Kenton
+9064,1056488,Richard Wallace
+9065,1056498,Stanley Donen
+9067,1056543,Richard Fleischer
+9069,1056578,Mitchell Leisen
+9071,1056620,William Clemens
+9072,1056641,George Waggner
+9075,1056681,Budd Boetticher
+9077,1056717,Richard Thorpe
+9078,1056723,Henry Koster
+9079,1056739,Joseph H. Lewis
+9080,1056745,Irving Cummings
+9084,1056817,Cecil B. DeMille
+9085,1056821,George Marshall
+9087,1056844,George Waggner
+9088,1056845,Tod Browning
+9092,1056927,Jack Kinney
+9094,1056957,Roy Del Ruth
+9095,1056967,Bob Rafelson
+9097,1056974,H. Bruce Humberstone
+9101,1057041,George Cukor
+9106,1057087,Mark Robson
+9108,1057138,King Vidor
+9109,1057158,Gordon Douglas
+9110,1057162,Stephen Herek
+9112,1057241,Jack Smight
+9113,1057249,Clarence Brown
+9114,1057270,W.S. Van Dyke
+9115,1057273,Richard Attenborough
+9116,1057293,Alan J. Pakula
+9117,1057325,Daniel Petrie
+9124,1057423,Harry Lachman
+9125,1057426,Franklin J. Schaffner
+9129,1057483,Henry Levin
+9130,1057505,James Whale
+9133,1057532,Cecil B. DeMille
+9134,1057559,Arthur Lubin
+9136,1057586,James Neilson
+9138,1057598,Don Taylor
+9138,1057598,Phil Karlson
+9139,1057617,Walter Lang
+9141,1057624,Edward Dmytryk
+9144,1057646,Raoul Walsh
+9147,1057673,Raoul Walsh
+9148,1057678,Sidney Franklin
+9155,1057833,William Dieterle
+9156,1057870,Lloyd Bacon
+9157,1057891,Lamont Johnson
+9160,1057928,Henry Levin
+9162,1057955,Jack Conway
+9164,1058012,Michael Ritchie
+9166,1058041,Melvin Frank
+9167,1058052,Irvin Kershner
+9172,1058154,Mervyn LeRoy
+9175,1058181,Felix E. Feist
+9176,1058183,Robert Z. Leonard
+9177,1058187,Richard Benjamin
+9178,1058188,Charles Vidor
+9180,1058221,William A. Wellman
+9182,1058232,Martin Ritt
+9187,1058414,Norman Tokar
+9188,1058421,Herbert Ross
+9189,1058422,Vincent Sherman
+9192,1058443,Archie Mayo
+9193,1058447,Charles Lamont
+9195,1058460,Robert Florey
+9196,1058499,Charles Walters
+9198,1058540,Richard Thorpe
+9200,1058577,Norman Taurog
+9202,1058601,Henry Hathaway
+9203,1058615,Gregory La Cava
+9204,1058620,Ernst Lubitsch
+9210,1058690,Michael Curtiz
+9212,1058694,George Cukor
+9214,1058711,Don Weis
+9215,1058712,Cecil B. DeMille
+9217,1058755,Irving Cummings
+9221,1058880,Lew Landers
+9222,1058887,John Brahm
+9223,1058888,Charles A. Nichols
+9226,1058914,Robert Stevenson
+9230,1058954,Mark Atkins
+9238,1059090,Lewis Milestone
+9239,1059114,William A. Seiter
+9240,1059117,Edward Dmytryk
+9241,1059131,Budd Boetticher
+9242,1059146,John Cromwell
+9243,1059167,Melvin Frank
+9244,1059174,Mervyn LeRoy
+9245,1059175,Charles Walters
+9249,1059187,Tod Browning
+9250,1059212,Michael Curtiz
+9253,1059305,Edward Dmytryk
+9254,1059306,H. Bruce Humberstone
+9256,1059331,Nick Grindé
+9257,1059334,Russell Mulcahy
+9259,1059343,Mitchell Leisen
+9260,1059347,Clarence Brown
+9263,1059385,Frank Borzage
+9264,1059414,Wesley Ruggles
+9265,1059437,Alexander Hall
+9270,1059535,Roy Del Ruth
+9272,1059576,Norman Foster
+9273,1059585,William A. Seiter
+9278,1059667,Richard Wallace
+9279,1059675,Mitchell Leisen
+9280,1059722,David Butler
+9281,1059726,Henry King
+9282,1059734,Raoul Walsh
+9285,1059861,Herbert Ross
+9286,1059882,Lewis Seiler
+9291,1059929,Allan Dwan
+9294,1060022,Norman Z. McLeod
+9297,1060105,John Farrow
+9301,1060147,Archie Mayo
+9302,1060148,Anatole Litvak
+9303,1060166,Charles A. Nichols
+9304,1060179,Mervyn LeRoy
+9307,1060248,Lewis Seiler
+9308,1060267,Mervyn LeRoy
+9308,1060267,Vincente Minnelli
+9309,1060268,Victor Saville
+9310,1060277,Henry Hathaway
+9312,1060323,George Cukor
+9314,1060342,John Farrow
+9315,1060347,Mervyn LeRoy
+9316,1060355,Norman Jewison
+9317,1060391,John Ford
+9319,1060396,Allan Dwan
+9321,1060438,W.S. Van Dyke
+9328,1060546,John Brahm
+9330,1060570,Edgar G. Ulmer
+9331,1060599,Clarence Brown
+9333,1060649,Robert Mulligan
+9334,1060650,Gordon Douglas
+9335,1060691,Victor Fleming
+9336,1060699,Mark Sandrich
+9338,1060745,Jean Negulesco
+9339,1060756,Anatole Litvak
+9340,1060789,Raoul Walsh
+9342,1060812,John Farrow
+9343,1060873,Frank Borzage
+9345,1060916,Henry Koster
+9347,1060933,Raoul Walsh
+9349,1060943,D.W. Griffith
+9353,1060978,Wesley Ruggles
+9354,1061014,Don Taylor
+9355,1061016,William Nigh
+9356,1061033,Mark Atkins
+9357,1061035,George Sherman
+9358,1061036,Gregory La Cava
+9362,1061073,Frank Tashlin
+9367,1061113,Robert Stevenson
+9368,1061182,Richard Thorpe
+9370,1061235,Jared Cohn
+9371,1061237,William Dieterle
+9373,1061269,Byron Haskin
+9375,1061298,Gordon Douglas
+9376,1061299,William Castle
+9386,1061456,Edward L. Cahn
+9387,1061457,Richard Thorpe
+9388,1061474,Michael Curtiz
+9389,1061503,Alan J. Pakula
+9391,1061583,Walter Lang
+9392,1061675,Richard Quine
+9393,1061694,George Marshall
+9395,1061715,Lewis Seiler
+9396,1061721,George Stevens
+9398,1061749,John Ford
+9399,1061763,Curtis Bernhardt
+9401,1061772,Richard Brooks
+9403,1061811,Michael Curtiz
+9404,1061818,Norman Tokar
+9405,1061869,Paul Mazursky
+9407,1061951,Victor Fleming
+9408,1062003,George Fitzmaurice
+9409,1062024,Del Lord
+9410,1062033,James Algar
+9411,1062037,Phil Karlson
+9413,1062045,Michael Curtiz
+9417,1062153,Irvin Kershner
+9418,1062163,Lloyd Bacon
+9419,1062172,John Sturges
+9421,1062233,Tom Gries
+9423,1062270,Lloyd Bacon
+9426,1062318,Mervyn LeRoy
+9427,1062332,Edmund Goulding
+9428,1062358,Edward L. Cahn
+9433,1062404,John G. Avildsen
+9434,1062440,David Butler
+9438,1062498,Richard Thorpe
+9443,1062622,William A. Wellman
+9447,1062663,Erle C. Kenton
+9449,1062701,Roger Corman
+9451,1062753,George Sidney
+9452,1062814,John Huston
+9454,1062846,William A. Wellman
+9459,1062954,George Marshall
+9460,1063000,Edward Ludwig
+9461,1063001,Charles Vidor
+9462,1063023,Delmer Daves
+9463,1063024,Irving Reis
+9464,1063048,Jack Kinney
+9467,1063055,Michael Apted
+9468,1063069,Sam Wood
+9469,1063074,William A. Wellman
+9471,1063136,Peter Berg
+9472,1063146,Frank Borzage
+9476,1063225,Arthur Hiller
+9480,1063338,Elliott Nugent
+9481,1063383,Delmer Daves
+9482,1063384,Sam Taylor
+9483,1063411,Norman Taurog
+9484,1063422,Rudolph Maté
+9485,1063439,Raoul Walsh
+9486,1063470,Clarence Brown
+9488,1063483,James Neilson
+9492,1063516,Jack Arnold
+9494,1063531,Victor Saville
+9495,1063544,Henry Hathaway
+9496,1063551,Burt Kennedy
+9497,1063564,Henry Koster
+9498,1063581,Alexander Hall
+9499,1063605,Melvin Frank
+9501,1063642,Douglas Sirk
+9502,1063683,Henry Levin
+9503,1063701,Vincent McEveety
+9504,1063718,Michael Winner
+9506,1063759,Robert Aldrich
+9507,1063763,Jared Cohn
+9510,1063795,George Marshall
+9515,1063883,Frank Perry
+9518,1063933,Edmund Goulding
+9519,1063955,Charles Barton
+9520,1063980,Joseph Ruben
+9521,1063990,Alfred L. Werker
+9522,1064005,Norman Z. McLeod
+9523,1064061,Stuart Heisler
+9526,1064156,Nathan H. Juran
+9527,1064166,Robert Z. Leonard
+9528,1064169,Arthur Lubin
+9529,1064177,Roy William Neill
+9534,1064282,Irving Rapper
+9538,1064315,Jules Dassin
+9540,1064336,Lewis Seiler
+9540,1064336,William Clemens
+9542,1064353,Robert Wise
+9546,1064419,Martin Ritt
+9547,1064428,Daniel Petrie
+9549,1064451,Phil Rosen
+9553,1064500,Mitchell Leisen
+9554,1064506,Martin Ritt
+9558,1064625,Jean Negulesco
+9559,1064662,Jean Yarbrough
+9562,1064679,Lewis Seiler
+9563,1064691,W.S. Van Dyke
+9564,1064705,Arthur Lubin
+9570,1064762,Henry Hathaway
+9571,1064763,James Whale
+9572,1064779,Richard Brooks
+9573,1064809,William Keighley
+9575,1064815,Frank Lloyd
+9576,1064826,Franco Zeffirelli
+9577,1064836,Melvin Frank
+9578,1064837,W.S. Van Dyke
+9581,1064847,Clarence Brown
+9584,1064896,George Sherman
+9586,1064912,Cecil B. DeMille
+9587,1064981,Norman Tokar
+9590,1065012,Irving Pichel
+9592,1065062,John Cromwell
+9599,1065139,Irwin Allen
+9601,1065170,Edward Ludwig
+9604,1065244,Richard Boleslawski
+9605,1065258,Felix E. Feist
+9606,1065268,John Cromwell
+9608,1065301,George Sherman
+9609,1065340,William Asher
+9610,1065354,Edward Buzzell
+9611,1065380,Blake Edwards
+9612,1065394,Joseph Pevney
+9613,1065415,Busby Berkeley
+9615,1065455,Jack Smight
+9619,1065536,William Clemens
+9620,1065543,Edwin L. Marin
+9621,1065563,Arthur Lubin
+9622,1065615,Tod Browning
+9624,1065665,Jean Yarbrough
+9625,1065669,John Farrow
+9627,1065705,Paul Wendkos
+9628,1065717,André de Toth
+9633,1065882,Otto Preminger
+9636,1065986,Don Siegel
+9638,1066001,Charles A. Nichols
+9639,1066008,Charles Vidor
+9640,1066009,John Frankenheimer
+9642,1066042,Rudolph Maté
+9644,1066056,Burt Kennedy
+9645,1066133,Jonathan Kaplan
+9646,1066134,Blake Edwards
+9647,1066135,Burt Kennedy
+9651,1066273,Jean Negulesco
+9653,1066339,John Farrow
+9656,1066397,S. Sylvan Simon
+9659,1066443,Harry Beaumont
+9661,1066532,S. Sylvan Simon
+9662,1066547,Alexander Hall
+9664,1066564,Norman Z. McLeod
+9667,1066614,Robert Z. Leonard
+9668,1066632,Michael Curtiz
+9670,1066641,Alexander Hall
+9671,1066700,William A. Seiter
+9672,1066763,John Ford
+9673,1066773,Michael Curtiz
+9675,1066818,Norman Jewison
+9676,1066830,Peter Yates
+9677,1066866,William Beaudine
+9679,1066877,Fred Zinnemann
+9681,1066941,Henry Hathaway
+9683,1067005,William Castle
+9685,1067017,Michael Curtiz
+9688,1067052,John Cromwell
+9691,1067090,Robert Z. Leonard
+9692,1067127,Allan Dwan
+9693,1067140,Daniel Petrie
+9698,1067203,Joseph Pevney
+9699,1067207,D.W. Griffith
+9704,1067326,Lewis Seiler
+9705,1067343,Jack Arnold
+9706,1067344,William A. Seiter
+9707,1067353,George Marshall
+9708,1067361,Irving Rapper
+9710,1067408,Frank Lloyd
+9713,1067507,Henry Koster
+9714,1067508,Victor Saville
+9715,1067527,Michael Curtiz
+9716,1067539,Robert Wise
+9717,1067549,Edward Sedgwick
+9718,1067559,Robert Mulligan
+9719,1067560,Lewis Milestone
+9723,1067630,Frank McDonald
+9724,1067663,Walter Lang
+9727,1067716,Henry Koster
+9729,1067733,John Ford
+9730,1067736,Roger Donaldson
+9733,1067779,Alfred E. Green
+9735,1067815,Charles Jarrott
+9736,1067822,Busby Berkeley
+9738,1067853,Robert Siodmak
+9740,1067949,Michael Curtiz
+9743,1068089,Sam Wood
+9744,1068143,Jack Kinney
+9745,1068176,Andrew V. McLaglen
+9746,1068218,D.W. Griffith
+9749,1068262,William Beaudine
+9751,1068405,Allan Dwan
+9752,1068423,J. Lee Thompson
+9753,1068447,Ray Enright
+9754,1068455,Lloyd Bacon
+9755,1068462,William Asher
+9756,1068544,Michael Curtiz
+9760,1068602,Paul Wendkos
+9761,1068603,John Farrow
+9763,1068640,John Farrow
+9764,1068680,Richard Quine
+9765,1068731,James Neilson
+9766,1068767,King Vidor
+9768,1068778,Richard Thorpe
+9773,1068909,Budd Boetticher
+9774,1068942,Charles Vidor
+9775,1068951,Robert Stevenson
+9777,1068961,Henry Koster
+9780,1069006,Raoul Walsh
+9781,1069020,James Goldstone
+9784,1069103,Brian Levant
+9785,1069115,Robert Parrish
+9786,1069123,Norman Z. McLeod
+9787,1069146,Henry Levin
+9789,1069207,Tay Garnett
+9790,1069232,John Brahm
+9791,1069240,Gregory La Cava
+9792,1069315,Henry Koster
+9793,1069316,Delmer Daves
+9794,1069320,George Sherman
+9795,1069354,Richard Fleischer
+9799,1069434,Alfred E. Green
+9800,1069440,Norman Taurog
+9802,1069481,André de Toth
+9803,1069534,Michael Curtiz
+9805,1069629,Norman Foster
+9806,1069630,William Nigh
+9807,1069636,Stanley Donen
+9808,1069638,Frank Lloyd
+9810,1069660,Norman Z. McLeod
+9812,1069700,Stuart Heisler
+9814,1069729,Walter Lang
+9816,1069744,Edward Dmytryk
+9817,1069747,Vincente Minnelli
+9819,1069821,Charles Vidor
+9823,1069864,Robert Z. Leonard
+9824,1069881,Phil Rosen
+9825,1069903,Frank Borzage
+9826,1069951,Richard Thorpe
+9827,1069989,Michael Ritchie
+9829,1070123,Irving Reis
+9831,1070171,Alfred E. Green
+9833,1070191,Curtis Bernhardt
+9835,1070237,Lloyd Bacon
+9838,1070294,Richard Boleslawski
+9839,1070301,Roy Rowland
+9840,1070302,William Keighley
+9842,1070390,William Castle
+9843,1070408,Fred Zinnemann
+9847,1070450,Alfred E. Green
+9848,1070464,Douglas Sirk
+9852,1070551,Melvin Frank
+9853,1070571,Ray Enright
+9855,1070592,Edward Dmytryk
+9856,1070614,William Beaudine
+9859,1070669,Paul Wendkos
+9861,1070686,Richard Thorpe
+9864,1070712,William Nigh
+9865,1070747,Charles Barton
+9866,1070756,Irving Rapper
+9870,1070823,George Sherman
+9871,1070856,Ted Kotcheff
+9872,1070870,Roy Rowland
+9874,1070893,Daniel Petrie
+9877,1070934,William A. Wellman
+9879,1071046,Henry King
+9880,1071053,Lewis Seiler
+9881,1071088,Frank Borzage
+9885,1071125,William Keighley
+9887,1071167,Gene Saks
+9888,1071168,Phil Rosen
+9889,1071190,Clarence Brown
+9890,1071219,Joseph Pevney
+9892,1071296,Norman Taurog
+9893,1071398,Michael Gordon
+9896,1071455,Charles Barton
+9897,1071482,Sidney Poitier
+9898,1071489,George Fitzmaurice
+9900,1071532,Don Weis
+9908,1071865,Erle C. Kenton
+9912,1071931,Anthony Mann
+9913,1071959,W.S. Van Dyke
+9915,1072058,Roy Rowland
+9918,1072128,Gordon Douglas
+9923,1072236,William A. Wellman
+9924,1072237,Henry King
+9925,1072238,Allan Dwan
+9927,1072306,Charles Walters
+9929,1072367,Raoul Walsh
+9930,1072416,Ray Enright
+9932,1072456,Henry Levin
+9933,1072461,Robert Wise
+9934,1072462,Edwin L. Marin
+9935,1072473,Alexander Hall
+9937,1072489,William A. Wellman
+9938,1072490,Richard Brooks
+9940,1072525,Lew Landers
+9942,1072562,Edward Dmytryk
+9947,1072744,Phil Rosen
+9952,1072803,Edward Buzzell
+9957,1072930,Henry Hathaway
+9958,1072974,Lloyd Bacon
+9965,1073216,William Nigh
+9969,1073299,Lloyd Bacon
+9970,1073318,Peter Yates
+9972,1073356,George Cukor
+9978,1073417,John Frankenheimer
+9979,1073430,John Guillermin
+9981,1073555,Jack Conway
+9984,1073631,Jules White
+9986,1073684,Richard Thorpe
+9987,1073703,Richard Thorpe
+9989,1073748,Michael Curtiz
+9993,1073842,Alfred L. Werker
+9995,1073912,Edwin L. Marin
+9996,1073931,Frank Borzage
+9998,1073960,Joseph L. Mankiewicz
+10000,1073975,George Marshall
+10001,1073982,Walt Disney
+10002,1074009,Vincent Sherman
+10004,1074038,Irving Cummings
+10005,1074050,Lloyd Bacon
+10009,1074143,Lloyd Bacon
+10010,1074160,Robert Z. Leonard
+10011,1074167,Phil Karlson
+10012,1074194,William A. Wellman
+10016,1074331,Vincent Sherman
+10017,1074338,Jack Kinney
+10020,1074439,Chuck Jones
+10021,1074466,Erle C. Kenton
+10023,1074485,Henry Levin
+10025,1074570,Elliott Nugent
+10027,1074634,Robert Wise
+10028,1074635,Sam Wood
+10030,1074701,Lewis Seiler
+10031,1074710,Frank Lloyd
+10032,1074711,Jack Conway
+10033,1074721,Jack Conway
+10034,1074755,Lloyd Bacon
+10036,1074832,Phil Rosen
+10037,1074833,Del Lord
+10039,1074894,Don Weis
+10040,1074908,Allan Dwan
+10043,1074994,Edward Buzzell
+10045,1075120,William Clemens
+10047,1075181,Richard Thorpe
+10050,1075241,Frank Capra
+10051,1075257,Ray Enright
+10052,1075259,Lloyd Bacon
+10054,1075317,Sam Wood
+10056,1075344,Budd Boetticher
+10057,1075357,Joseph Pevney
+10061,1075531,Joshua Logan
+10064,1075622,Michael Gordon
+10066,1075687,John Cromwell
+10067,1075818,Peter Yates
+10068,1075849,Henry Hathaway
+10070,1075915,W.S. Van Dyke
+10071,1075934,Jules White
+10073,1075970,Jack Conway
+10074,1075983,Barry Levinson
+10076,1076072,Joseph H. Lewis
+10079,1076178,J. Lee Thompson
+10080,1076185,H. C. Potter
+10081,1076187,Edward Buzzell
+10082,1076204,Sam Firstenberg
+10086,1076381,Edward Sedgwick
+10090,1076481,S. Sylvan Simon
+10091,1076505,William Castle
+10094,1076611,Leo McCarey
+10097,1076690,Delmer Daves
+10098,1076725,Richard Thorpe
+10099,1076733,Charles Barton
+10102,1076906,Alexander Hall
+10103,1076933,Vincent Sherman
+10104,1076934,H. Bruce Humberstone
+10105,1076935,William A. Seiter
+10106,1076978,Joseph Sargent
+10107,1077046,Lewis Milestone
+10108,1077084,Norman Foster
+10111,1077123,John Sturges
+10112,1077191,Walter Lang
+10113,1077192,Del Lord
+10116,1077243,George Sidney
+10118,1077316,Jacques Tourneur
+10120,1077337,Burt Kennedy
+10123,1077377,Ray Enright
+10126,1077528,Henry Hathaway
+10128,1077596,Roy Del Ruth
+10129,1077646,Irving Cummings
+10130,1077674,William A. Seiter
+10131,1077691,Richard Fleischer
+10134,1077742,John Cromwell
+10138,1077880,Ken Annakin
+10139,1077900,Richard Thorpe
+10145,1078091,Jack King
+10146,1078125,William Witney
+10149,1078194,Frank Borzage
+10150,1078210,Mark Atkins
+10151,1078256,Wesley Ruggles
+10154,1078354,Arthur Hiller
+10155,1078355,Robert Aldrich
+10157,1078416,William Nigh
+10160,1078474,Tay Garnett
+10161,1078486,Norman Z. McLeod
+10162,1078563,Wesley Ruggles
+10163,1078582,Harry Lachman
+10164,1078616,David Butler
+10170,1078826,Michael Curtiz
+10171,1078834,Norman Foster
+10172,1078846,William A. Seiter
+10174,1079006,Budd Boetticher
+10175,1079018,William Dieterle
+10177,1079165,Richard Wallace
+10178,1079227,Edwin L. Marin
+10179,1079228,S. Sylvan Simon
+10180,1079229,Lewis Seiler
+10181,1079265,Jack King
+10184,1079337,Michael Curtiz
+10185,1079378,Alfred E. Green
+10188,1079502,Lloyd Bacon
+10189,1079503,Elliott Nugent
+10195,1079783,Roy Del Ruth
+10200,1079935,Henry King
+10202,1080028,Irving Cummings
+10205,1080130,Roy Rowland
+10206,1080135,Mark Atkins
+10207,1080146,Richard Thorpe
+10208,1080149,Jared Cohn
+10209,1080184,William Keighley
+10211,1080215,Nick Grindé
+10212,1080275,Gregory La Cava
+10213,1080296,John Madden
+10214,1080323,Rudolph Maté
+10219,1080428,Edward Buzzell
+10221,1080474,Ray Enright
+10222,1080486,Charles Lamont
+10224,1080578,William Castle
+10225,1080673,Arthur Lubin
+10228,1080729,William Keighley
+10229,1080738,William Keighley
+10232,1080938,Mike Figgis
+10234,1081057,Frank Capra
+10238,1081244,Jack Arnold
+10239,1081370,George Marshall
+10241,1081401,George Sherman
+10242,1081488,Edwin L. Marin
+10243,1081489,Clarence Brown
+10248,1081741,Lewis Seiler
+10249,1081790,Irwin Allen
+10253,1081869,William A. Seiter
+10256,1082098,Sam Wood
+10257,1082099,Rudolph Maté
+10258,1082100,Michael Curtiz
+10259,1082274,Lloyd Bacon
+10261,1082307,Mervyn LeRoy
+10262,1082326,Irving Cummings
+10263,1082355,George Marshall
+10265,1082380,Irving Cummings
+10267,1082394,Henry Koster
+10269,1082458,W.S. Van Dyke
+10270,1082459,Alfred E. Green
+10272,1082522,Tay Garnett
+10273,1082540,Blake Edwards
+10274,1082541,Michael Curtiz
+10275,1082552,William Clemens
+10276,1082553,Robert Florey
+10278,1082580,Raoul Walsh
+10278,1082580,Ray Enright
+10279,1082598,Del Lord
+10280,1082653,Byron Haskin
+10281,1082690,Jules White
+10283,1082713,Alfred E. Green
+10287,1082938,Nathan H. Juran
+10288,1082959,George Marshall
+10289,1083018,Jack Kinney
+10290,1083098,Richard Wallace
+10291,1083139,Mervyn LeRoy
+10292,1083159,Jacques Tourneur
+10293,1083200,George Sidney
+10294,1083201,Irving Cummings
+10297,1083378,Allan Dwan
+10298,1083403,Richard Thorpe
+10300,1083472,William Keighley
+10301,1083506,Melville Shavelson
+10302,1083512,Alfred E. Green
+10303,1083583,Anatole Litvak
+10304,1083595,Vincent Sherman
+10305,1083725,Chuck Jones
+10311,1083875,Andrew V. McLaglen
+10314,1083938,George Marshall
+10317,1084096,Norman Taurog
+10318,1084097,Mervyn LeRoy
+10325,1084417,Jules Dassin
+10326,1084489,Edwin L. Marin
+10328,1084570,Randal Kleiser
+10329,1084649,Edward Buzzell
+10335,1084838,George Fitzmaurice
+10337,1084971,Del Lord
+10339,1085039,Ray Enright
+10341,1085168,Edwin L. Marin
+10342,1085176,William Dieterle
+10344,1085379,Mervyn LeRoy
+10346,1085445,H. Bruce Humberstone
+10349,1085682,Byron Haskin
+10351,1085786,William A. Seiter
+10353,1085918,Roy Rowland
+10355,1086056,Irving Reis
+10356,1086116,Lloyd Bacon
+10359,1086392,King Vidor
+10362,1086577,Gordon Douglas
+10364,1086640,Del Lord
+10367,1086774,Mark Atkins
+10368,1086797,A. Edward Sutherland
+10370,1086835,Archie Mayo
+10371,1086836,Archie Mayo
+10380,1087264,Jared Cohn
+10385,1087421,Jules White
+10386,1087435,Charles Lamont
+10388,1087482,Elliott Nugent
+10389,1087563,Elliott Nugent
+10390,1087564,Roy Del Ruth
+10392,1087634,William A. Seiter
+10395,1087905,André de Toth
+10397,1087934,Jacques Tourneur
+10399,1087997,Frank McDonald
+10403,1088198,Michael Curtiz
+10404,1088321,Stuart Heisler
+10406,1088484,Norman Foster
+10407,1088535,Ray Enright
+10409,1088577,Alfred E. Green
+10411,1088592,Nick Grindé
+10412,1088668,Gordon Douglas
+10413,1088684,Alfred E. Green
+10415,1088796,Del Lord
+10420,1089088,Victor Saville
+10421,1089089,Edward Sedgwick
+10424,1089191,Ray Enright
+10424,1089191,Busby Berkeley
+10426,1089256,Alexander Hall
+10427,1089352,Norman Foster
+10429,1089504,Jared Cohn
+10430,1089517,Elliott Nugent
+10435,1089915,Phil Rosen
+10437,1090112,Del Lord
+10439,1090275,Sam Taylor
+10440,1090330,Ray Enright
+10441,1090343,Henry Levin
+10448,1090734,Harry Lachman
+10453,1090945,Elliott Nugent
+10454,1090958,Irving Pichel
+10455,1091159,Harry Lachman
+10457,1091477,William Clemens
+10458,1091498,Friz Freleng
+10460,1091611,Norman Foster
+10461,1091620,Joseph H. Lewis
+10462,1091639,Edward Dmytryk
+10464,1091655,S. Sylvan Simon
+10465,1091672,Lloyd Bacon
+10469,1091901,Lew Landers
+10470,1092027,D.W. Griffith
+10471,1092053,Harry Lachman
+10473,1092155,Nick Lyon
+10474,1092161,Delmer Daves
+10475,1092306,Alfred E. Green
+10476,1092307,Anthony C. Ferrante
+10480,1092535,Frank McDonald
+10482,1092721,Gordon Douglas
+10483,1092815,H. Bruce Humberstone
+10485,1093140,D.W. Griffith
+10490,1093303,Norman Taurog
+10492,1093348,Edwin L. Marin
+10493,1093350,Irving Pichel
+10498,1094026,Frank McDonald
+10501,1094251,Alfred E. Green
+10502,1094270,Edwin L. Marin
+10505,1095020,Norman Taurog
+10508,1095308,William Dieterle
+10509,1095369,Alexander Hall
+10516,1096103,George Fitzmaurice
+10517,1096151,William Clemens
+10518,1096178,Mark Atkins
+10527,1097250,Norman Taurog
+10530,1097576,Del Lord
+10531,1097577,Frank McDonald
+10532,1097654,Jared Cohn
+10534,1098099,Del Lord
+10535,1098231,Charles Lamont
+10538,1098566,H. C. Potter
+10541,1098746,Norman Taurog
+10544,1099023,Jules White
+10552,1100783,Alfred E. Green
+10555,1101474,Nick Lyon
+10560,1101829,Del Lord
+10566,1102722,William Clemens
+10577,1105351,Del Lord
+10579,1106148,Mark Atkins
+10581,1106672,Del Lord
+10582,1107078,Nick Lyon
+10586,1108055,Jules White
+10588,1108873,Jules White
+10589,1109104,Del Lord
+10590,1109928,Jules White
+10591,1110043,Jules White
+10592,1110178,Del Lord
+10594,1110821,Del Lord
+10595,1111634,Del Lord
+10596,1112676,Del Lord
